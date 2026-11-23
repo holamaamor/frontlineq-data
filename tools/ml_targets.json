@@ -3,61 +3,44 @@
   {
    "label": "GUR — Main Directorate of Intelligence",
    "queries": [
-    "Main Intelligence Directorate",
-    "Defence Intelligence of Ukraine"
+    "HUR",
+    "Intelligence Directorate",
+    "Defence Intelligence"
    ]
   },
   {
    "label": "Special Operations Forces (SSO)",
    "queries": [
-    "Special Operations Forces Command",
-    "Special Operations Forces"
+    "Special Forces",
+    "SSO",
+    "Special Operations"
    ]
   },
   {
    "label": "State Border Guard Service (DPSU)",
    "queries": [
-    "State Border Guard Service",
-    "Border Guard Service"
-   ]
-  },
-  {
-   "label": "«Hart» Brigade",
-   "queries": [
-    "Hart Brigade",
-    "Hart"
-   ]
-  },
-  {
-   "label": "6th Separate Special Purpose Regiment",
-   "queries": [
-    "6th Special Operations Regiment",
-    "6th Special Purpose Regiment"
+    "Border Guard",
+    "Border Guards",
+    "DPSU"
    ]
   },
   {
    "label": "71st Separate Jaeger Brigade",
    "queries": [
-    "71st Jager Brigade",
-    "71st Jaeger Brigade",
-    "71st"
+    "71st Jaeger",
+    "Jaeger Brigade"
    ]
   },
   {
-   "label": "Ukrainian Air Force (PS ZSU)",
+   "label": "6th Separate Special Purpose Regiment",
    "queries": [
-    "Air Force of Ukraine",
-    "Ukrainian Air Force"
-   ]
-  },
-  {
-   "label": "«Signum» UAV Unit",
-   "queries": [
-    "Signum"
+    "Rangers",
+    "6th Special"
    ]
   }
  ],
  "ids": [
-  11752
+  30886,
+  18423
  ]
 }
