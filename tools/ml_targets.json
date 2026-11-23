@@ -1,127 +1,17 @@
 {
  "labels": [
   {
-   "label": "1st Assault Battalion (3rd SAB)",
-   "queries": [
-    "1st Assault Battalion 3rd Separate Assault Brigade",
-    "3rd Assault Brigade 1st Assault Battalion"
-   ]
-  },
-  {
    "label": "GUR — Main Directorate of Intelligence",
    "queries": [
-    "Main Directorate of Intelligence",
-    "Main Intelligence Directorate GUR",
-    "Ministry of Defense Main Directorate of Intelligence"
-   ]
-  },
-  {
-   "label": "«Signum» UAV Unit",
-   "queries": [
-    "Signum"
-   ]
-  },
-  {
-   "label": "Kraken",
-   "queries": [
-    "Kraken"
-   ]
-  },
-  {
-   "label": "SBU «Alpha» Special Operations Centre",
-   "queries": [
-    "Alpha Special Operations Center SBU",
-    "SBU Alpha"
-   ]
-  },
-  {
-   "label": "71st Separate Jaeger Brigade",
-   "queries": [
-    "71st Jaeger Brigade",
-    "71st Separate Jaeger Brigade"
+    "Main Intelligence Directorate",
+    "Defence Intelligence of Ukraine"
    ]
   },
   {
    "label": "Special Operations Forces (SSO)",
    "queries": [
-    "Special Operations Forces",
-    "Special Operations Forces Command"
-   ]
-  },
-  {
-   "label": "Unmanned Systems Forces (USF/SBS)",
-   "queries": [
-    "Unmanned Systems Forces",
-    "Unmanned Systems Forces Command"
-   ]
-  },
-  {
-   "label": "6th Separate Special Purpose Regiment",
-   "queries": [
-    "6th Special Purpose Regiment",
-    "6th Separate Special Purpose Regiment"
-   ]
-  },
-  {
-   "label": "«Hart» Brigade",
-   "queries": [
-    "Hart Brigade",
-    "Hart"
-   ]
-  },
-  {
-   "label": "ATESH partisan movement",
-   "queries": [
-    "ATESH",
-    "Atesh"
-   ]
-  },
-  {
-   "label": "424th UAS Battalion \"Svarog\"",
-   "queries": [
-    "424th Svarog",
-    "Svarog Battalion"
-   ]
-  },
-  {
-   "label": "Caucasus Legion",
-   "queries": [
-    "Caucasus Legion",
-    "Caucasian Legion"
-   ]
-  },
-  {
-   "label": "1st Separate Centre for Unmanned Systems",
-   "queries": [
-    "1st Separate Center Unmanned Systems",
-    "1st Center of Unmanned Systems"
-   ]
-  },
-  {
-   "label": "«Alfa» SOF Detachment",
-   "queries": [
-    "Alfa Special Operations Forces",
-    "Alfa Detachment"
-   ]
-  },
-  {
-   "label": "Ukrainian Air Force (PS ZSU)",
-   "queries": [
-    "Air Force Command",
-    "Air Force"
-   ]
-  },
-  {
-   "label": "Strix",
-   "queries": [
-    "Strix"
-   ]
-  },
-  {
-   "label": "Naval Infantry Corps",
-   "queries": [
-    "Naval Infantry Corps",
-    "Marine Corps"
+    "Special Operations Forces Command",
+    "Special Operations Forces"
    ]
   },
   {
@@ -132,150 +22,42 @@
    ]
   },
   {
-   "label": "1st Separate Special Purpose Brigade «Bureviy»",
+   "label": "«Hart» Brigade",
    "queries": [
-    "Bureviy",
-    "1st Special Purpose Brigade Bureviy"
+    "Hart Brigade",
+    "Hart"
    ]
   },
   {
-   "label": "16th Separate Regiment «Lyubart»",
+   "label": "6th Separate Special Purpose Regiment",
    "queries": [
-    "Lyubart",
-    "16th Regiment Lyubart"
+    "6th Special Operations Regiment",
+    "6th Special Purpose Regiment"
    ]
   },
   {
-   "label": "«Prymary» (Ghosts) — GUR",
+   "label": "71st Separate Jaeger Brigade",
    "queries": [
-    "Prymary",
-    "Ghosts GUR"
+    "71st Jager Brigade",
+    "71st Jaeger Brigade",
+    "71st"
    ]
   },
   {
-   "label": "\"Rugby Team\" Unmanned Systems Battalion",
+   "label": "Ukrainian Air Force (PS ZSU)",
    "queries": [
-    "Rugby",
-    "Rugby Team"
+    "Air Force of Ukraine",
+    "Ukrainian Air Force"
    ]
   },
   {
-   "label": "101st General Staff Guards Brigade",
+   "label": "«Signum» UAV Unit",
    "queries": [
-    "101st Guards Brigade",
-    "101st General Staff Guard Brigade"
-   ]
-  },
-  {
-   "label": "\"Detones Group\"",
-   "queries": [
-    "Detones"
+    "Signum"
    ]
   }
  ],
  "ids": [
-  26011,
-  26026,
-  23627,
-  35483,
-  26021,
-  26347,
-  50986,
-  23238,
-  37753,
-  41036,
-  85449,
-  87686,
-  64892,
-  64893,
-  56217,
-  34330,
-  75137,
-  79482,
-  88090,
-  87561,
-  80922,
-  88191,
-  87110,
-  87214,
-  83624,
-  79502,
-  79470,
-  85477,
-  19862,
-  26572,
-  67667,
-  26569,
-  39046,
-  26505,
-  26568,
-  39675,
-  51810,
-  26791,
-  26571,
-  87786,
-  26573,
-  62262,
-  55774,
-  35651,
-  43155,
-  87450,
-  56264,
-  56274,
-  56267,
-  87079,
-  56438,
-  23702,
-  18786,
-  23885,
-  20790,
-  23258,
-  23150,
-  21982,
-  22240,
-  20170,
-  22107,
-  21954,
-  24087,
-  23732,
-  56175,
-  33051,
-  88307,
-  20215,
-  20388,
-  24091,
-  86426,
-  74196,
-  64038,
-  40095,
-  78026,
-  24359,
-  87734,
-  41733,
-  30415,
-  26007,
-  32142,
-  32191,
-  23921,
-  13287,
-  70624,
-  48882,
-  38038,
-  86714,
-  85505,
-  44895,
-  19662,
-  22834,
-  22892,
-  89508,
-  89506,
-  59210,
-  59207,
-  58857,
-  42003,
-  65836,
-  72671,
-  86566,
-  87479
+  11752
  ]
 }
