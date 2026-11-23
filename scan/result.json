@@ -3,74 +3,85 @@
   {
    "label": "GUR — Main Directorate of Intelligence",
    "queries": [
-    "Main Intelligence Directorate",
-    "Defence Intelligence of Ukraine"
+    "HUR",
+    "Intelligence Directorate",
+    "Defence Intelligence"
    ],
    "candidates": [
     {
-     "id": 86714,
-     "title": "Pretoria Group",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/pretoria-group/",
+     "id": 84797,
+     "title": "Foxhound Platoon",
+     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/foxhound-team/",
      "group": "main-intelligence-directorate",
-     "query": "Main Intelligence Directorate",
-     "png": "86714.png",
-     "bytes": 3316
-    },
-    {
-     "id": 84926,
-     "title": "10th Unmanned Systems Detachment",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/10th-unmanned-systems-detachment/",
-     "group": "main-intelligence-directorate",
-     "query": "Main Intelligence Directorate",
-     "png": "84926.png",
-     "bytes": 4702
+     "query": "HUR",
+     "png": "84797.png",
+     "bytes": 8061,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2026/05/i_Foxhound-1.webp",
+     "permalink": "https://militaryland.net/ukraine/main-intelligence-directorate/foxhound-team/",
+     "mltitle": "Foxhound Platoon"
     },
     {
      "id": 84796,
      "title": "Tactical Group Ocean’s Twelve",
      "link": "https://militaryland.net/ukraine/main-intelligence-directorate/tactical-group-oceans-twelve/",
      "group": "main-intelligence-directorate",
-     "query": "Main Intelligence Directorate",
+     "query": "HUR",
      "png": "84796.png",
      "bytes": 5134
     },
     {
-     "id": 76916,
-     "title": "Alamo Special Unit",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/1st-multi-functional-reconnaissance-company/",
+     "id": 77092,
+     "title": "Expeditionaries Team",
+     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/expeditionaries-team/",
      "group": "main-intelligence-directorate",
-     "query": "Main Intelligence Directorate",
-     "png": "76916.png",
-     "bytes": 5947
+     "query": "HUR",
+     "png": "77092.png",
+     "bytes": 2796,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2026/02/i_Expeditionaries_Team.webp",
+     "permalink": "https://militaryland.net/ukraine/main-intelligence-directorate/expeditionaries-team/",
+     "mltitle": "Expeditionaries Team"
     },
     {
-     "id": 71400,
-     "title": "Kraken Drone Battalion",
-     "link": "https://militaryland.net/ukraine/armed-forces/kraken-drone-battalion/",
-     "group": "armed-forces",
-     "query": "Main Intelligence Directorate"
-    },
-    {
-     "id": 66348,
-     "title": "Junger Group",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/junger-group/",
+     "id": 55864,
+     "title": "Tactical Group Phantom",
+     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/a3449/phantom-black-company/",
      "group": "main-intelligence-directorate",
-     "query": "Main Intelligence Directorate"
+     "query": "HUR",
+     "png": "55864.png",
+     "bytes": 2539,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/07/i_Phantom-1.webp",
+     "permalink": "https://militaryland.net/ukraine/main-intelligence-directorate/a3449/phantom-black-company/",
+     "mltitle": "Tactical Group Phantom"
     },
     {
-     "id": 46661,
-     "title": "3rd Special Purpose Detachment",
-     "link": "https://militaryland.net/ukraine/national-guard/3rd-special-purpose-detachment/",
-     "group": "national-guard",
-     "query": "Defence Intelligence of Ukraine"
+     "id": 55839,
+     "title": "5050 Assault Group",
+     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/5050-assault-group/",
+     "group": "main-intelligence-directorate",
+     "query": "HUR"
+    },
+    {
+     "id": 54094,
+     "title": "Tactical Group Ethos",
+     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/a3449/tactical-group-ethos/",
+     "group": "main-intelligence-directorate",
+     "query": "HUR"
+    },
+    {
+     "id": 86714,
+     "title": "Pretoria Group",
+     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/pretoria-group/",
+     "group": "main-intelligence-directorate",
+     "query": "Intelligence Directorate"
     }
    ]
   },
   {
    "label": "Special Operations Forces (SSO)",
    "queries": [
-    "Special Operations Forces Command",
-    "Special Operations Forces"
+    "Special Forces",
+    "SSO",
+    "Special Operations"
    ],
    "candidates": [
     {
@@ -78,154 +89,86 @@
      "title": "2nd Reserve Battalion",
      "link": "https://militaryland.net/ukraine/national-guard/2nd-reserve-battalion/",
      "group": "national-guard",
-     "query": "Special Operations Forces Command",
+     "query": "Special Forces",
      "png": "90225.png",
      "bytes": 7274
     },
     {
-     "id": 44895,
-     "title": "Recon Team Kilo",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/recon-team-kilo/",
-     "group": "main-intelligence-directorate",
-     "query": "Special Operations Forces Command",
-     "png": "44895.png",
-     "bytes": 5003
+     "id": 88307,
+     "title": "447th Unmanned Systems Battalion",
+     "link": "https://militaryland.net/ukraine/ukrainian-navy/447th-unmanned-systems-battalion/",
+     "group": "ukrainian-navy",
+     "query": "Special Forces",
+     "png": "88307.png",
+     "bytes": 4825
     },
     {
-     "id": 44271,
-     "title": "Sonechko Battalion",
-     "link": "https://militaryland.net/ukraine/unmanned-systems-forces/9th-unmanned-systems-brigade/sonechko/",
+     "id": 87479,
+     "title": "443rd Unmanned Maritime Systems Battalion",
+     "link": "https://militaryland.net/ukraine/unmanned-systems-forces/443rd-unmanned-maritime-systems-battalion/",
      "group": "unmanned-systems-forces",
-     "query": "Special Operations Forces Command",
-     "png": "44271.png",
-     "bytes": 5193,
-     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/07/i_Sonechko.webp",
-     "permalink": "https://militaryland.net/ukraine/unmanned-systems-forces/9th-unmanned-systems-brigade/sonechko/",
-     "mltitle": "Sonechko Battalion"
+     "query": "Special Forces",
+     "png": "87479.png",
+     "bytes": 3449
     },
     {
-     "id": 43440,
-     "title": "2nd Mechanized Battalion",
-     "link": "https://militaryland.net/ukraine/armed-forces/2nd-mechanized-battalion/",
+     "id": 87413,
+     "title": "Bolhrad Company",
+     "link": "https://militaryland.net/ukraine/special-police-forces/bolhrad-company/",
+     "group": "special-police-forces",
+     "query": "Special Forces",
+     "png": "87413.png",
+     "bytes": 5138
+    },
+    {
+     "id": 87404,
+     "title": "Stakhanov Company",
+     "link": "https://militaryland.net/ukraine/special-police-forces/stakhanov-company/",
+     "group": "special-police-forces",
+     "query": "Special Forces"
+    },
+    {
+     "id": 87395,
+     "title": "Timur Battalion",
+     "link": "https://militaryland.net/ukraine/special-police-forces/timur-battalion/",
+     "group": "special-police-forces",
+     "query": "Special Forces"
+    },
+    {
+     "id": 89998,
+     "title": "Air Defense Forces",
+     "link": "https://militaryland.net/ukraine/armed-forces/air-defense-forces/",
      "group": "armed-forces",
-     "query": "Special Operations Forces Command",
-     "png": "43440.png",
-     "bytes": 2249,
-     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/03/i_3rdassaultbrigade_2ndmechanizedbattalion.webp",
-     "permalink": "https://militaryland.net/ukraine/armed-forces/2nd-mechanized-battalion/",
-     "mltitle": "2nd Mechanized Battalion"
-    },
-    {
-     "id": 41465,
-     "title": "1st Mechanized Battalion",
-     "link": "https://militaryland.net/ukraine/armed-forces/1st-mechanized-battalion/",
-     "group": "armed-forces",
-     "query": "Special Operations Forces Command"
-    },
-    {
-     "id": 43278,
-     "title": "Able Company",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/a3449/alpha-company/",
-     "group": "main-intelligence-directorate",
-     "query": "Special Operations Forces Command"
-    },
-    {
-     "id": 79238,
-     "title": "175th Special Operations Reserve Battalion",
-     "link": "https://militaryland.net/ukraine/special-forces/175th-special-operations-reserve-battalion/",
-     "group": "special-forces",
-     "query": "Special Operations Forces"
+     "query": "SSO"
     }
    ]
   },
   {
    "label": "State Border Guard Service (DPSU)",
    "queries": [
-    "State Border Guard Service",
-    "Border Guard Service"
+    "Border Guard",
+    "Border Guards",
+    "DPSU"
    ],
    "candidates": [
     {
-     "id": 79157,
-     "title": "Kharkiv Miltiary Hospital",
-     "link": "https://militaryland.net/ukraine/border-guards/kharkiv-miltiary-hospital/",
+     "id": 89157,
+     "title": "Training Center of the Border Guard",
+     "link": "https://militaryland.net/ukraine/border-guards/training-center-of-the-border-guard/",
      "group": "border-guards",
-     "query": "State Border Guard Service",
-     "png": "79157.png",
-     "bytes": 3926
-    },
-    {
-     "id": 42338,
-     "title": "Phoenix Regiment of Unmanned Systems",
-     "link": "https://militaryland.net/ukraine/border-guards/phoenix-regiment-of-unmanned-systems/",
-     "group": "border-guards",
-     "query": "State Border Guard Service",
-     "png": "42338.png",
-     "bytes": 4981
-    },
-    {
-     "id": 34762,
-     "title": "Unmanned Systems Forces",
-     "link": "https://militaryland.net/ukraine/unmanned-systems-forces/",
-     "group": "unmanned-systems-forces",
-     "query": "State Border Guard Service",
-     "png": "34762.png",
-     "bytes": 4058
-    },
-    {
-     "id": 32598,
-     "title": "Logistics Forces",
-     "link": "https://militaryland.net/ukraine/logistics-forces/",
-     "group": "logistics-forces",
-     "query": "State Border Guard Service",
-     "png": "32598.png",
-     "bytes": 6712
-    },
-    {
-     "id": 31910,
-     "title": "Signals and Cybernetic Forces",
-     "link": "https://militaryland.net/ukraine/signals-and-cybernetic-forces/",
-     "group": "signals-and-cybernetic-forces",
-     "query": "State Border Guard Service"
-    },
-    {
-     "id": 30886,
-     "title": "Hart Brigade",
-     "link": "https://militaryland.net/ukraine/border-guards/hart-brigade/",
-     "group": "border-guards",
-     "query": "State Border Guard Service"
-    },
-    {
-     "id": 46750,
-     "title": "Recruitment Directorate",
-     "link": "https://militaryland.net/ukraine/national-guard/recruitment-service/",
-     "group": "national-guard",
-     "query": "Border Guard Service"
-    }
-   ]
-  },
-  {
-   "label": "«Hart» Brigade",
-   "queries": [
-    "Hart Brigade",
-    "Hart"
-   ],
-   "candidates": [
-    {
-     "id": 86678,
-     "title": "Kapa Training Battalion",
-     "link": "https://militaryland.net/ukraine/national-guard/kapa-training-battalion/",
-     "group": "national-guard",
-     "query": "Hart Brigade",
-     "png": "86678.png",
-     "bytes": 2707
+     "query": "Border Guard",
+     "png": "89157.png",
+     "bytes": 5252,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2026/08/i_Border_Guard_Training_Center.webp",
+     "permalink": "https://militaryland.net/ukraine/border-guards/training-center-of-the-border-guard/",
+     "mltitle": "Training Center of the Border Guard"
     },
     {
      "id": 80712,
      "title": "23rd Assault Regiment",
      "link": "https://militaryland.net/ukraine/national-guard/23rd-assault-regiment/",
      "group": "national-guard",
-     "query": "Hart Brigade",
+     "query": "Border Guard",
      "png": "80712.png",
      "bytes": 3065
     },
@@ -234,130 +177,55 @@
      "title": "Pilum Regiment",
      "link": "https://militaryland.net/ukraine/national-guard/pilum-regiment/",
      "group": "national-guard",
-     "query": "Hart Brigade",
+     "query": "Border Guard",
      "png": "80042.png",
      "bytes": 2901
+    },
+    {
+     "id": 79157,
+     "title": "Kharkiv Miltiary Hospital",
+     "link": "https://militaryland.net/ukraine/border-guards/kharkiv-miltiary-hospital/",
+     "group": "border-guards",
+     "query": "Border Guard",
+     "png": "79157.png",
+     "bytes": 3926
     },
     {
      "id": 77990,
      "title": "Harmash Brigade",
      "link": "https://militaryland.net/ukraine/national-guard/harmash-brigade/",
      "group": "national-guard",
-     "query": "Hart Brigade",
-     "png": "77990.png",
-     "bytes": 2559
+     "query": "Border Guard"
     },
     {
-     "id": 78026,
-     "title": "Gregit Brigade",
-     "link": "https://militaryland.net/ukraine/national-guard/7th-artillery-brigade/",
+     "id": 74459,
+     "title": "Personnel Training Battalion",
+     "link": "https://militaryland.net/ukraine/national-guard/personnel-training-battalion/",
      "group": "national-guard",
-     "query": "Hart Brigade"
+     "query": "Border Guard"
     },
     {
-     "id": 45538,
-     "title": "2nd Khartia Corps",
-     "link": "https://militaryland.net/ukraine/national-guard/2nd-khartia-corps/",
-     "group": "national-guard",
-     "query": "Hart Brigade"
-    },
-    {
-     "id": 72671,
-     "title": "Joint Forces Task Force",
-     "link": "https://militaryland.net/ukraine/armed-forces/joint-forces-task-force/",
+     "id": 43155,
+     "title": "51st Mechanized Brigade",
+     "link": "https://militaryland.net/ukraine/armed-forces/51st-mechanized-brigade/",
      "group": "armed-forces",
-     "query": "Hart"
-    }
-   ]
-  },
-  {
-   "label": "6th Separate Special Purpose Regiment",
-   "queries": [
-    "6th Special Operations Regiment",
-    "6th Special Purpose Regiment"
-   ],
-   "candidates": [
-    {
-     "id": 32189,
-     "title": "4th Assault Center",
-     "link": "https://militaryland.net/ukraine/special-forces/4th-special-purpose-regiment/",
-     "group": "special-forces",
-     "query": "6th Special Operations Regiment",
-     "png": "32189.png",
-     "bytes": 4615
-    },
-    {
-     "id": 31711,
-     "title": "1st Special Purpose Battalion",
-     "link": "https://militaryland.net/ukraine/national-guard/1st-special-purpose-battalion/",
-     "group": "national-guard",
-     "query": "6th Special Operations Regiment",
-     "png": "31711.png",
-     "bytes": 2505
-    },
-    {
-     "id": 29597,
-     "title": "6th Assault Center",
-     "link": "https://militaryland.net/ukraine/special-forces/6th-special-purpose-regiment/",
-     "group": "special-forces",
-     "query": "6th Special Operations Regiment",
-     "png": "29597.png",
-     "bytes": 4795
-    },
-    {
-     "id": 18423,
-     "title": "Kraken Operations Unit",
-     "link": "https://militaryland.net/ukraine/main-intelligence-directorate/kraken-special-detachment/",
-     "group": "main-intelligence-directorate",
-     "query": "6th Special Operations Regiment",
-     "png": "18423.png",
-     "bytes": 3652,
-     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/05/i_Kraken_Special_Unit.webp",
-     "permalink": "https://militaryland.net/ukraine/main-intelligence-directorate/kraken-special-detachment/",
-     "mltitle": "Kraken Operations Unit"
-    },
-    {
-     "id": 40095,
-     "title": "Forge Regiment",
-     "link": "https://militaryland.net/ukraine/national-guard/52nd-assault-regiment/",
-     "group": "national-guard",
-     "query": "6th Special Purpose Regiment"
-    },
-    {
-     "id": 11915,
-     "title": "Donbas Battalion",
-     "link": "https://militaryland.net/ukraine/national-guard/donbas-battalion/",
-     "group": "national-guard",
-     "query": "6th Special Purpose Regiment"
+     "query": "Border Guards"
     }
    ]
   },
   {
    "label": "71st Separate Jaeger Brigade",
    "queries": [
-    "71st Jager Brigade",
-    "71st Jaeger Brigade",
-    "71st"
+    "71st Jaeger",
+    "Jaeger Brigade"
    ],
    "candidates": [
-    {
-     "id": 26772,
-     "title": "7th Rapid Response Corps",
-     "link": "https://militaryland.net/ukraine/air-assault-forces/7th-air-assault-corps/",
-     "group": "air-assault-forces",
-     "query": "71st Jager Brigade",
-     "png": "26772.png",
-     "bytes": 4957,
-     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/05/i_7th_Air_Assault_Corps.webp",
-     "permalink": "https://militaryland.net/ukraine/air-assault-forces/7th-air-assault-corps/",
-     "mltitle": "7th Rapid Response Corps"
-    },
     {
      "id": 65836,
      "title": "Kursk Force Grouping",
      "link": "https://militaryland.net/ukraine/armed-forces/kursk-force-grouping/",
      "group": "armed-forces",
-     "query": "71st Jaeger Brigade",
+     "query": "71st Jaeger",
      "png": "65836.png",
      "bytes": 4577
     },
@@ -366,7 +234,7 @@
      "title": "8th Air Assault Corps",
      "link": "https://militaryland.net/ukraine/air-assault-forces/8th-air-assault-corps/",
      "group": "air-assault-forces",
-     "query": "71st Jaeger Brigade",
+     "query": "71st Jaeger",
      "png": "46677.png",
      "bytes": 4820
     },
@@ -375,7 +243,7 @@
      "title": "OUN – Immits Battalion",
      "link": "https://militaryland.net/ukraine/armed-forces/oun-immits-battalion/",
      "group": "armed-forces",
-     "query": "71st Jaeger Brigade",
+     "query": "71st Jaeger",
      "png": "41998.png",
      "bytes": 7173
     },
@@ -384,149 +252,132 @@
      "title": "415th Rifle Battalion",
      "link": "https://militaryland.net/ukraine/armed-forces/415th-rifle-battalion/",
      "group": "armed-forces",
-     "query": "71st Jaeger Brigade"
+     "query": "71st Jaeger",
+     "png": "36089.png",
+     "bytes": 5332
     },
     {
      "id": 35601,
      "title": "160th Mechanized Brigade",
      "link": "https://militaryland.net/ukraine/armed-forces/160th-mechanized-brigade/",
      "group": "armed-forces",
-     "query": "71st Jaeger Brigade"
+     "query": "71st Jaeger"
     },
     {
-     "id": 62563,
-     "title": "71st Military Mobile Hospital",
-     "link": "https://militaryland.net/ukraine/medical-forces/71st-military-mobile-hospital/",
-     "group": "medical-forces",
-     "query": "71st"
+     "id": 26772,
+     "title": "7th Rapid Response Corps",
+     "link": "https://militaryland.net/ukraine/air-assault-forces/7th-air-assault-corps/",
+     "group": "air-assault-forces",
+     "query": "71st Jaeger"
+    },
+    {
+     "id": 49729,
+     "title": "21st Army Corps",
+     "link": "https://militaryland.net/ukraine/armed-forces/21st-army-corps/",
+     "group": "armed-forces",
+     "query": "Jaeger Brigade"
     }
    ]
   },
   {
-   "label": "Ukrainian Air Force (PS ZSU)",
+   "label": "6th Separate Special Purpose Regiment",
    "queries": [
-    "Air Force of Ukraine",
-    "Ukrainian Air Force"
+    "Rangers",
+    "6th Special"
    ],
    "candidates": [
     {
-     "id": 87782,
-     "title": "630th Anti-Aircraft Machine Gun Battalion",
-     "link": "https://militaryland.net/ukraine/air-force/630th-anti-aircraft-machine-gun-battalion/",
-     "group": "air-force",
-     "query": "Air Force of Ukraine",
-     "png": "87782.png",
-     "bytes": 3727
+     "id": 32189,
+     "title": "4th Assault Center",
+     "link": "https://militaryland.net/ukraine/special-forces/4th-special-purpose-regiment/",
+     "group": "special-forces",
+     "query": "Rangers",
+     "png": "32189.png",
+     "bytes": 4615
     },
     {
-     "id": 87413,
-     "title": "Bolhrad Company",
-     "link": "https://militaryland.net/ukraine/special-police-forces/bolhrad-company/",
-     "group": "special-police-forces",
-     "query": "Air Force of Ukraine",
-     "png": "87413.png",
-     "bytes": 5138,
-     "insignia_url": "https://militaryland.net/wp-content/uploads/2026/07/i_bolhradpolice.webp",
-     "permalink": "https://militaryland.net/ukraine/special-police-forces/bolhrad-company/",
-     "mltitle": "Bolhrad Company"
+     "id": 74119,
+     "title": "337th Mechanization Battalion",
+     "link": "https://militaryland.net/ukraine/state-transport-special-service/337th-mechanization-battalion/",
+     "group": "state-transport-special-service",
+     "query": "6th Special",
+     "png": "74119.png",
+     "bytes": 8001,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/12/i_337th_Mechanization_Battalion.webp",
+     "permalink": "https://militaryland.net/ukraine/state-transport-special-service/337th-mechanization-battalion/",
+     "mltitle": "337th Mechanization Battalion"
     },
     {
-     "id": 87395,
-     "title": "Timur Battalion",
-     "link": "https://militaryland.net/ukraine/special-police-forces/timur-battalion/",
-     "group": "special-police-forces",
-     "query": "Air Force of Ukraine",
-     "png": "87395.png",
-     "bytes": 8317
+     "id": 74115,
+     "title": "1935th Mechanization Battalion",
+     "link": "https://militaryland.net/ukraine/state-transport-special-service/1935th-mechanization-battalion/",
+     "group": "state-transport-special-service",
+     "query": "6th Special",
+     "png": "74115.png",
+     "bytes": 7972,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/12/i_1935th_Mechanization_Battalion.webp",
+     "permalink": "https://militaryland.net/ukraine/state-transport-special-service/1935th-mechanization-battalion/",
+     "mltitle": "1935th Mechanization Battalion"
     },
     {
-     "id": 70852,
-     "title": "1021st Anti-Aircraft Brigade",
-     "link": "https://militaryland.net/ukraine/air-force/1021st-anti-aircraft-brigade/",
-     "group": "air-force",
-     "query": "Air Force of Ukraine",
-     "png": "70852.png",
-     "bytes": 5063
+     "id": 74107,
+     "title": "1936th Mechanization Battalion",
+     "link": "https://militaryland.net/ukraine/state-transport-special-service/1936th-mechanization-battalion/",
+     "group": "state-transport-special-service",
+     "query": "6th Special",
+     "png": "74107.png",
+     "bytes": 7849,
+     "insignia_url": "https://militaryland.net/wp-content/uploads/2025/12/i_1936th_Mechanization_Brigade.webp",
+     "permalink": "https://militaryland.net/ukraine/state-transport-special-service/1936th-mechanization-battalion/",
+     "mltitle": "1936th Mechanization Battalion"
     },
     {
-     "id": 65836,
-     "title": "Kursk Force Grouping",
-     "link": "https://militaryland.net/ukraine/armed-forces/kursk-force-grouping/",
+     "id": 74097,
+     "title": "92nd Mechanization Battalion",
+     "link": "https://militaryland.net/ukraine/state-transport-special-service/92nd-mechanization-battalion/",
+     "group": "state-transport-special-service",
+     "query": "6th Special"
+    },
+    {
+     "id": 74050,
+     "title": "19th Bridge Battalion",
+     "link": "https://militaryland.net/ukraine/state-transport-special-service/19th-bridge-battalion/",
+     "group": "state-transport-special-service",
+     "query": "6th Special"
+    },
+    {
+     "id": 56134,
+     "title": "156th Training Center",
+     "link": "https://militaryland.net/ukraine/armed-forces/156th-training-center/",
      "group": "armed-forces",
-     "query": "Air Force of Ukraine"
-    },
-    {
-     "id": 59685,
-     "title": "512th Maintenance Battalion",
-     "link": "https://militaryland.net/ukraine/armed-forces/512th-maintenance-battalion/",
-     "group": "armed-forces",
-     "query": "Air Force of Ukraine"
-    },
-    {
-     "id": 89998,
-     "title": "Air Defense Forces",
-     "link": "https://militaryland.net/ukraine/armed-forces/air-defense-forces/",
-     "group": "armed-forces",
-     "query": "Ukrainian Air Force"
-    }
-   ]
-  },
-  {
-   "label": "«Signum» UAV Unit",
-   "queries": [
-    "Signum"
-   ],
-   "candidates": [
-    {
-     "id": 15714,
-     "title": "59th Assault Brigade",
-     "link": "https://militaryland.net/ukraine/armed-forces/59th-motorized-brigade/",
-     "group": "armed-forces",
-     "query": "Signum",
-     "png": "15714.png",
-     "bytes": 4481
-    },
-    {
-     "id": 15153,
-     "title": "93rd Mechanized Brigade",
-     "link": "https://militaryland.net/ukraine/armed-forces/93rd-mechanized-brigade/",
-     "group": "armed-forces",
-     "query": "Signum",
-     "png": "15153.png",
-     "bytes": 4766
-    },
-    {
-     "id": 11904,
-     "title": "53rd Mechanized Brigade",
-     "link": "https://militaryland.net/ukraine/armed-forces/53rd-mechanized-brigade/",
-     "group": "armed-forces",
-     "query": "Signum",
-     "png": "11904.png",
-     "bytes": 2025
+     "query": "6th Special"
     }
    ]
   }
  ],
  "ids": [
   {
-   "png": "11752.png",
-   "bytes": 4387,
-   "insignia_url": "https://militaryland.net/wp-content/uploads/2025/01/i_airforce.webp",
-   "permalink": "https://militaryland.net/ukraine/air-force/",
-   "mltitle": "Air Force",
-   "id": 11752
+   "png": "30886.png",
+   "bytes": 3837,
+   "insignia_url": "https://militaryland.net/wp-content/uploads/2024/10/i_hartbrigade.webp",
+   "permalink": "https://militaryland.net/ukraine/border-guards/hart-brigade/",
+   "mltitle": "Hart Brigade",
+   "id": 30886
+  },
+  {
+   "png": "18423.png",
+   "bytes": 3652,
+   "id": 18423
   }
  ],
  "stopped": "",
  "log_tail": [
-  "label GUR — Main Directorate of Intelligence           -> 86714 Pretoria Group; 84926 10th Unmanned Systems Detachme; 84796 Tactical Group Ocean’s Twelve; 76916 Alamo Special Unit",
-  "label Special Operations Forces (SSO)                  -> 90225 2nd Reserve Battalion; 44895 Recon Team Kilo; 44271 Sonechko Battalion; 43440 2nd Mechanized Battalion",
-  "label State Border Guard Service (DPSU)                -> 79157 Kharkiv Miltiary Hospital; 42338 Phoenix Regiment of Unmanned S; 34762 Unmanned Systems Forces; 32598 Logistics Forces",
-  "label «Hart» Brigade                                   -> 86678 Kapa Training Battalion; 80712 23rd Assault Regiment; 80042 Pilum Regiment; 77990 Harmash Brigade",
-  "label 6th Separate Special Purpose Regiment            -> 32189 4th Assault Center; 31711 1st Special Purpose Battalion; 29597 6th Assault Center; 18423 Kraken Operations Unit",
-  "label 71st Separate Jaeger Brigade                     -> 26772 7th Rapid Response Corps; 65836 Kursk Force Grouping; 46677 8th Air Assault Corps; 41998 OUN – Immits Battalion",
-  "label Ukrainian Air Force (PS ZSU)                     -> 87782 630th Anti-Aircraft Machine Gu; 87413 Bolhrad Company; 87395 Timur Battalion; 70852 1021st Anti-Aircraft Brigade",
-  "label «Signum» UAV Unit                                -> 15714 59th Assault Brigade; 15153 93rd Mechanized Brigade; 11904 53rd Mechanized Brigade",
-  "id 11752 -> Air Force"
+  "label GUR — Main Directorate of Intelligence           -> 84797 Foxhound Platoon; 84796 Tactical Group Ocean’s Twelve; 77092 Expeditionaries Team; 55864 Tactical Group Phantom",
+  "label Special Operations Forces (SSO)                  -> 90225 2nd Reserve Battalion; 88307 447th Unmanned Systems Battali; 87479 443rd Unmanned Maritime System; 87413 Bolhrad Company",
+  "label State Border Guard Service (DPSU)                -> 89157 Training Center of the Border ; 80712 23rd Assault Regiment; 80042 Pilum Regiment; 79157 Kharkiv Miltiary Hospital",
+  "label 71st Separate Jaeger Brigade                     -> 65836 Kursk Force Grouping; 46677 8th Air Assault Corps; 41998 OUN – Immits Battalion; 36089 415th Rifle Battalion",
+  "label 6th Separate Special Purpose Regiment            -> 32189 4th Assault Center; 74119 337th Mechanization Battalion; 74115 1935th Mechanization Battalion; 74107 1936th Mechanization Battalion",
+  "id 30886 -> Hart Brigade",
+  "id 18423 -> "
  ]
 }

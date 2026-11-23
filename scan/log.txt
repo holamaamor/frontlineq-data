@@ -1,9 +1,7 @@
-label GUR — Main Directorate of Intelligence           -> 86714 Pretoria Group; 84926 10th Unmanned Systems Detachme; 84796 Tactical Group Ocean’s Twelve; 76916 Alamo Special Unit
-label Special Operations Forces (SSO)                  -> 90225 2nd Reserve Battalion; 44895 Recon Team Kilo; 44271 Sonechko Battalion; 43440 2nd Mechanized Battalion
-label State Border Guard Service (DPSU)                -> 79157 Kharkiv Miltiary Hospital; 42338 Phoenix Regiment of Unmanned S; 34762 Unmanned Systems Forces; 32598 Logistics Forces
-label «Hart» Brigade                                   -> 86678 Kapa Training Battalion; 80712 23rd Assault Regiment; 80042 Pilum Regiment; 77990 Harmash Brigade
-label 6th Separate Special Purpose Regiment            -> 32189 4th Assault Center; 31711 1st Special Purpose Battalion; 29597 6th Assault Center; 18423 Kraken Operations Unit
-label 71st Separate Jaeger Brigade                     -> 26772 7th Rapid Response Corps; 65836 Kursk Force Grouping; 46677 8th Air Assault Corps; 41998 OUN – Immits Battalion
-label Ukrainian Air Force (PS ZSU)                     -> 87782 630th Anti-Aircraft Machine Gu; 87413 Bolhrad Company; 87395 Timur Battalion; 70852 1021st Anti-Aircraft Brigade
-label «Signum» UAV Unit                                -> 15714 59th Assault Brigade; 15153 93rd Mechanized Brigade; 11904 53rd Mechanized Brigade
-id 11752 -> Air Force
+label GUR — Main Directorate of Intelligence           -> 84797 Foxhound Platoon; 84796 Tactical Group Ocean’s Twelve; 77092 Expeditionaries Team; 55864 Tactical Group Phantom
+label Special Operations Forces (SSO)                  -> 90225 2nd Reserve Battalion; 88307 447th Unmanned Systems Battali; 87479 443rd Unmanned Maritime System; 87413 Bolhrad Company
+label State Border Guard Service (DPSU)                -> 89157 Training Center of the Border ; 80712 23rd Assault Regiment; 80042 Pilum Regiment; 79157 Kharkiv Miltiary Hospital
+label 71st Separate Jaeger Brigade                     -> 65836 Kursk Force Grouping; 46677 8th Air Assault Corps; 41998 OUN – Immits Battalion; 36089 415th Rifle Battalion
+label 6th Separate Special Purpose Regiment            -> 32189 4th Assault Center; 74119 337th Mechanization Battalion; 74115 1935th Mechanization Battalion; 74107 1936th Mechanization Battalion
+id 30886 -> Hart Brigade
+id 18423 -> 
