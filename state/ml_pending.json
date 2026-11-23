@@ -1,1 +1,122 @@
-[]
+[
+ {
+  "id": 90257,
+  "title": "170th Reserve Battalion",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/170th-reserve-battalion/",
+  "created": "2026-10-31",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 90225,
+  "title": "2nd Reserve Battalion",
+  "group": "national-guard",
+  "link": "https://militaryland.net/ukraine/national-guard/2nd-reserve-battalion/",
+  "created": "2026-10-29",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89998,
+  "title": "Air Defense Forces",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/air-defense-forces/",
+  "created": "2026-10-11",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89891,
+  "title": "528th Guard Battalion",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/528th-guard-battalion/",
+  "created": "2026-10-05",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89889,
+  "title": "529th Guard Battalion",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/guard-battalion/",
+  "created": "2026-10-05",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89887,
+  "title": "532nd Guard Battalion",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/532nd-guard-battalion/",
+  "created": "2026-10-05",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89885,
+  "title": "527th Guard Battalion",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/527th-guard-battalion/",
+  "created": "2026-10-05",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89724,
+  "title": "96th Mechanized Battalion",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/96th-mechanized-battalion/",
+  "created": "2026-09-27",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89650,
+  "title": "9th International Detachment",
+  "group": "national-guard",
+  "link": "https://militaryland.net/ukraine/national-guard/9th-international-detachment/",
+  "created": "2026-09-25",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89564,
+  "title": "225th Courier & Postal Point",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/225th-courier-postal-point/",
+  "created": "2026-09-20",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89562,
+  "title": "55th CRBN Battalion",
+  "group": "support-forces",
+  "link": "https://militaryland.net/ukraine/support-forces/55th-crbn-battalion/",
+  "created": "2026-09-20",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ },
+ {
+  "id": 89560,
+  "title": "72nd Signals Control Point",
+  "group": "armed-forces",
+  "link": "https://militaryland.net/ukraine/armed-forces/72nd-signals-control-point/",
+  "created": "2026-09-20",
+  "firstSeen": "2026-11-23",
+  "mapMatch": [],
+  "status": "pending"
+ }
+]

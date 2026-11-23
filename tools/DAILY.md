@@ -41,7 +41,7 @@ refuses URLs that are built on the fly — "PROVENANCE_REQUIRED"):
  `https://militaryland.net/wp-json/wp/v2/unit?orderby=date&order=desc&per_page=10&page=1`
  `https://militaryland.net/wp-json/wp/v2/unit?orderby=date&order=desc&per_page=10&page=2`
  `https://militaryland.net/wp-json/wp/v2/unit?orderby=date&order=desc&per_page=10&page=3`
-Ask the fetch tool to return, per item, only `id`, `date`, `title.rendered`, `link` (the answers are long). Write all items to `ml_fetched.json` as
+Fetch them ONE AT A TIME (parallel requests trigger Militaryland's bot check and come back as "One moment, please..."; if a page does, wait and retry once, then stop and report it). Ask the fetch tool to return, per item, ONE line `id | date | title.rendered | link` where id is the numeric `id` field (not the title). Write all items to `ml_fetched.json` as
 `[{"id":…, "date":…, "title":…, "link":…}, …]` and run `python3 tools/check_militaryland.py ml_fetched.json > /tmp/ml_out.json` — it ignores every id the site
 already reviewed (`state/ml_seen.json`), so overlapping pages are harmless. New units go to `state/ml_pending.json` (a person adds them to the site later:
 they need insignia, a unique name for text matching and a deploy). Optional: `https://militaryland.net/wp-json/wp/v2/posts?orderby=date&order=desc&per_page=10`
