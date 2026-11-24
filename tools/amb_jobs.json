@@ -1,93 +1,163 @@
 {
  "get": [
-  "https://t.me/soprotivleniye_lsr/347",
-  "https://t.me/soprotivleniye_lsr/348",
-  "https://t.me/chernayaiskra2/126",
-  "https://t.me/soprotivleniye_lsr/356",
-  "https://t.me/atesh_ua/9130",
-  "https://t.me/atesh_ua/9155",
-  "https://t.me/soprotivleniye_lsr/365",
-  "https://t.me/soprotivleniye_lsr/366",
-  "https://t.me/soprotivleniye_lsr/367",
-  "https://t.me/DniproOfficial/7078",
-  "https://t.me/exilenova_plus/15943",
-  "https://t.me/exilenova_plus/15981",
-  "https://t.me/exilenova_plus/15918",
-  "https://t.me/supernova_plus/47406",
-  "https://t.me/exilenova_plus/15688",
-  "https://t.me/exilenova_plus/15776",
-  "https://t.me/astrapress/102428",
-  "https://t.me/exilenova_plus/15974",
-  "https://t.me/shot_shot/91728",
-  "https://t.me/rusnews/79685",
-  "https://t.me/soniah_hub/14210"
+  "https://t.me/soprotivleniye_lsr/355",
+  "https://t.me/soprotivleniye_lsr/376",
+  "https://t.me/exilenova_plus/15828",
+  "https://t.me/exilenova_plus/15835",
+  "https://t.me/exilenova_plus/15766",
+  "https://t.me/exilenova_plus/15343",
+  "https://t.me/exilenova_plus/15445",
+  "https://t.me/exilenova_plus/15678"
  ],
  "probe": [
   {
-   "id": "r3",
-   "ch": "soprotivleniye_lsr",
-   "from": 349,
-   "to": 355
-  },
-  {
-   "id": "r10",
-   "ch": "soprotivleniye_lsr",
-   "from": 368,
-   "to": 376
-  },
-  {
-   "id": "r12",
-   "ch": "exilenova_plus",
-   "q": "Пензанефтепродукт"
-  },
-  {
-   "id": "r15",
-   "ch": "exilenova_plus",
-   "q": "Мичуринская"
-  },
-  {
-   "id": "r17",
-   "ch": "exilenova_plus",
-   "q": "Хомутовка"
-  },
-  {
    "id": "r18",
-   "ch": "exilenova_plus",
+   "ch": "astrapress",
    "q": "Магдагачи"
   },
   {
-   "id": "r19",
-   "ch": "exilenova_plus",
-   "q": "Салют"
+   "id": "r18",
+   "ch": "shot_shot",
+   "q": "Магдагачи"
   },
   {
-   "id": "r21",
-   "ch": "exilenova_plus",
-   "q": "Воскресенск"
+   "id": "r18",
+   "ch": "rusnews",
+   "q": "Магдагачи"
+  },
+  {
+   "id": "r18",
+   "ch": "mash",
+   "q": "Магдагачи"
+  },
+  {
+   "id": "r18",
+   "ch": "bazabazon",
+   "q": "Магдагачи"
   },
   {
    "id": "r25",
-   "ch": "exilenova_plus",
+   "ch": "astrapress",
+   "q": "Богородицк"
+  },
+  {
+   "id": "r25",
+   "ch": "shot_shot",
+   "q": "Богородицк"
+  },
+  {
+   "id": "r25",
+   "ch": "rusnews",
+   "q": "Богородицк"
+  },
+  {
+   "id": "r25",
+   "ch": "mash",
+   "q": "Богородицк"
+  },
+  {
+   "id": "r25",
+   "ch": "bazabazon",
    "q": "Богородицк"
   },
   {
    "id": "r26",
-   "ch": "exilenova_plus",
+   "ch": "astrapress",
+   "q": "Корфовский"
+  },
+  {
+   "id": "r26",
+   "ch": "shot_shot",
+   "q": "Корфовский"
+  },
+  {
+   "id": "r26",
+   "ch": "rusnews",
+   "q": "Корфовский"
+  },
+  {
+   "id": "r26",
+   "ch": "mash",
+   "q": "Корфовский"
+  },
+  {
+   "id": "r26",
+   "ch": "bazabazon",
    "q": "Корфовский"
   },
   {
    "id": "r28",
-   "ch": "exilenova_plus",
+   "ch": "astrapress",
+   "q": "Волгоград склад"
+  },
+  {
+   "id": "r28",
+   "ch": "shot_shot",
+   "q": "Волгоград склад"
+  },
+  {
+   "id": "r28",
+   "ch": "rusnews",
+   "q": "Волгоград склад"
+  },
+  {
+   "id": "r28",
+   "ch": "mash",
+   "q": "Волгоград склад"
+  },
+  {
+   "id": "r28",
+   "ch": "bazabazon",
    "q": "Волгоград склад"
   },
   {
    "id": "r29",
-   "ch": "exilenova_plus",
-   "q": "Калуга Тенет"
+   "ch": "astrapress",
+   "q": "Тенет"
+  },
+  {
+   "id": "r29",
+   "ch": "shot_shot",
+   "q": "Тенет"
+  },
+  {
+   "id": "r29",
+   "ch": "rusnews",
+   "q": "Тенет"
+  },
+  {
+   "id": "r29",
+   "ch": "mash",
+   "q": "Тенет"
+  },
+  {
+   "id": "r29",
+   "ch": "bazabazon",
+   "q": "Тенет"
   },
   {
    "id": "r30",
-   "ch": "exilenova_plus",
+   "ch": "astrapress",
+   "q": "Духанино"
+  },
+  {
+   "id": "r30",
+   "ch": "shot_shot",
+   "q": "Духанино"
+  },
+  {
+   "id": "r30",
+   "ch": "rusnews",
+   "q": "Духанино"
+  },
+  {
+   "id": "r30",
+   "ch": "mash",
+   "q": "Духанино"
+  },
+  {
+   "id": "r30",
+   "ch": "bazabazon",
    "q": "Духанино"
   }
  ]
