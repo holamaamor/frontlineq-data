@@ -154,6 +154,56 @@ def do_probe(job):
         x['n_photos'] = len(x.pop('photos')); x['n_videos'] = len(x.pop('videos')); x.pop('thumbs'); x.pop('preview')
     return out
 
+
+# ---------------------------------------------------------------- X / Twitter (public posts, via FxTwitter + the public syndication timeline)
+def fx_status(sid):
+    txt = http('https://api.fxtwitter.com/status/%s' % sid)
+    if not txt: return None
+    try: return json.loads(txt).get('tweet')
+    except Exception: return None
+
+def tweet_media(t):
+    out = {'videos': [], 'photos': []}
+    for m in ((t.get('media') or {}).get('all') or []):
+        if m.get('type') in ('video', 'gif') and m.get('url'): out['videos'].append(m['url'])
+        elif m.get('type') == 'photo' and m.get('url'): out['photos'].append(m['url'])
+    return out
+
+def do_xget(sid):
+    t = fx_status(sid)
+    res = {'id': sid, 'ok': bool(t), 'files': []}
+    if not t: return res
+    res.update({'handle': (t.get('author') or {}).get('screen_name'), 'date': t.get('created_at'), 'text': (t.get('text') or '')[:800]})
+    mm = tweet_media(t)
+    for i, u in enumerate(mm['videos'][:3]):
+        r = save_video(u, 'x_%s_v%d' % (sid, i + 1))
+        if r: res['files'].append(r)
+    for i, u in enumerate(mm['photos'][:6]):
+        r = save_photo(u, 'x_%s_%d' % (sid, i + 1))
+        if r: res['files'].append(r)
+    return res
+
+def do_xtimeline(handle):
+    out = {'handle': handle, 'tweets': []}
+    page = http('https://syndication.twitter.com/srv/timeline-profile/screen-name/%s?showReplies=false' % handle)
+    if not page: out['err'] = 'no page'; return out
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', page, re.S)
+    if not m: out['err'] = 'no data'; out['head'] = page[:300]; return out
+    try:
+        entries = json.loads(m.group(1))['props']['pageProps']['timeline']['entries']
+    except Exception as e:
+        out['err'] = 'parse ' + str(e)[:80]; return out
+    for e in entries:
+        t = (e.get('content') or {}).get('tweet')
+        if not t: continue
+        vids = []
+        for med in ((t.get('extended_entities') or {}).get('media') or []):
+            vi = med.get('video_info') or {}
+            best = sorted([v for v in vi.get('variants', []) if v.get('content_type') == 'video/mp4'], key=lambda v: v.get('bitrate', 0))
+            if best: vids.append(best[-1]['url'])
+        out['tweets'].append({'id': t.get('id_str'), 'date': t.get('created_at'), 'text': (t.get('full_text') or t.get('text') or '')[:300], 'videos': len(vids)})
+    return out
+
 def main():
     jobs = json.load(open(sys.argv[1], encoding='utf-8'))
     res = {'get': [], 'probe': []}
@@ -163,6 +213,14 @@ def main():
     for j in jobs.get('probe', []):
         log('PROBE', j.get('id'), j.get('ch'), j.get('q') or ('%s-%s' % (j.get('from'), j.get('to')))); res['probe'].append(do_probe(j))
         if fails['n'] >= 12: log('too many failures, stopping'); break
+    for sid in jobs.get('xget', []):
+        log('XGET', sid); res.setdefault('xget', []).append(do_xget(sid))
+    for sid in jobs.get('xtimeline_of', []):
+        t = fx_status(sid); h = ((t or {}).get('author') or {}).get('screen_name')
+        log('XTIMELINE of', sid, '->', h)
+        if h: res.setdefault('xtimeline', []).append(do_xtimeline(h))
+    for h in jobs.get('xtimeline', []):
+        log('XTIMELINE', h); res.setdefault('xtimeline', []).append(do_xtimeline(h))
     json.dump(res, open(os.path.join(OUT, 'result.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     log('done: %d posts fetched, %d probes' % (len(res['get']), len(res['probe'])))
 
