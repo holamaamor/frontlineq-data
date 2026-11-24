@@ -1506,11 +1506,10 @@
    "name": "Drones damage AVTM-9 unit at Bashneft-Novoyl refinery",
    "date": "2026-03-22",
    "set": {
-    "unit": "GS",
     "weapon": "Strike UAVs (model not stated)",
     "operation": "Deep Strike"
    },
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): GS - the General Staff statement of Mar 23, 2026 (t.me/GeneralStaffZSU/36420) says Defense Forces units hit the \"Bashneft-Ufaneftekhim\" refinery in Ufa on Mar 22 and overnight into Mar 23, with a fire confirmed; the executing unit was not named. Caveat: the statement names Ufaneftekhim, while Dosye Shpiona and this record name the AVTM-9 unit at Bashneft-Novoil; both are Bashneft refineries in Ufa and no other statement for that night was found, so the match is by city and date. Confidence: low. The Ukrinform link formerly listed here described a separate, later strike on Novoil and was removed. Detail (Nov 2026): Exilenova+ (Mar 22) reports a fire near the Bashneft refinery and locals reporting numerous automatic-weapon bursts and explosions in the industrial zone (photo attached).",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The General Staff statement of Mar 23, 2026 (t.me/GeneralStaffZSU/36420) says Defense Forces units hit the \"Bashneft-Ufaneftekhim\" refinery in Ufa on Mar 22 and overnight into Mar 23, with a fire confirmed, without naming the executing unit. It names Ufaneftekhim, while Dosye Shpiona and this record name the AVTM-9 unit at Bashneft-Novoil, so the match is only by city and date and no attribution is made. Stays N/A. Detail (Nov 2026): Exilenova+ (Mar 22) reports a fire near the Bashneft refinery and locals reporting numerous automatic-weapon bursts and explosions in the industrial zone (photo attached). The Ukrinform link formerly listed here described a separate, later strike on Novoil and was removed.",
    "fix": {
     "dropSources": [
      "https://www.ukrinform.ua/rubric-ato/4108762-genstab-pidtverdiv-urazenna-npz-basneftnovojl-v-ufi.html"
