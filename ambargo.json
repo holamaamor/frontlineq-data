@@ -843,14 +843,9 @@
    "h": "x2l5wi",
    "name": "Partisans burn substation transformer in Krapivinsky",
    "date": "2026-02-13",
-   "set": {
-    "weapon": "Arson",
-    "operation": "Unnamed"
-   },
-   "note": "Detail (Nov 2026): the linked Rospartizan post (published Aug 17, 2026) presents the footage as \"archive\" material from Kemerovo Oblast and says the destroyed substation powered police facilities; the post does not give the date of the action. Not independently verified.",
-   "media": [
-    "https://t.me/rospartizan/3598#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Frospartizan_3598_poster.jpg"
-   ]
+   "fix": {
+    "hide": true
+   }
   },
   {
    "h": "1r8cy7f",
@@ -2061,6 +2056,10 @@
    "name": "Drone attack on Tolyattikauchuk plant damages several workshops",
    "date": "2026-04-04",
    "note": "Detail (Nov 2026): Kiber Boroshno (Apr 4) concludes from the available videos that numerous drones, probably An-196 Liutyi, reached the plant (about 10 according to various reports) and lists the hit areas: workshop D-12 with 2,300 cubic metre tanks of liquefied products (a large fireball), the isobutane-isobutylene units BK-2, BK-3 and BK-4 (key component of butyl rubber) and workshop D-1; more hits than listed are likely, since the list covers only objects whose fires were caught on camera (analysis images attached).",
+   "fix": {
+    "unit": "NA",
+    "note": "Drones attack the \"Tolyattikauchuk\" plant. Several workshops have been damaged. Attribution (Nov 2026 N/A review, fifth pass): the USF attribution made in the Oct 2026 second pass is withdrawn. It was inferred, with low confidence, only from the same city and night: the USF commander's Telegram post of Apr 4, 2026 (#2171) credits the 1st Separate Center with a strike on KuibyshevAzot in Tolyatti (Armyinform) and Glavcom reported two plants hit in Tolyatti, but the USF does not name Tolyattikauchuk. Stays N/A."
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12748_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12748_2.jpg",
@@ -2129,7 +2128,11 @@
    "note": "Detail (Nov 2026): the Nizhny Novgorod governor's statement (t.me/glebnikitin_nn/8920, added) says the Novogorkovskaya CHP was damaged in the overnight attack on the Kstovo industrial zone, together with several houses, and that power supply to consumers was being restored; no photo or video of the CHP itself was found (the Kstovo videos show the refinery, so they are attached to the refinery record only).",
    "sources": [
     "https://t.me/glebnikitin_nn/8920"
-   ]
+   ],
+   "fix": {
+    "unit": "NA",
+    "note": "Drones attack the Novogorkovskaya thermal power plant*. * The exact impact location has not been identified. Attribution (Nov 2026 N/A review, fifth pass): the USF attribution made in the Oct 2026 second pass is withdrawn. It was inferred, with low confidence, only from the same town and date: the USF commander's Telegram post of Apr 5, 2026 (#2173) credits the 1st Separate Center, the 9th Battalion \"Kairos\" of the 414th Brigade and the 413th Regiment \"Reid\" (all USF) with the strike on the Lukoil refinery at Kstovo, and the General Staff confirmed the refinery hit the same day (Mind.ua), but the thermal power plant itself is not named. Stays N/A."
+   }
   },
   {
    "h": "1qz8ci3",
@@ -2144,6 +2147,11 @@
    "sources": [
     "https://t.me/GeneralStaffZSU/37007"
    ],
+   "fix": {
+    "unit": "NA",
+    "coUnits": [],
+    "note": "The frigate \"Admiral Essen\" has been hit again. Attribution (Nov 2026 N/A review, fifth pass): the USF + SBU attribution made in the Oct 2026 second pass is withdrawn. It was inferred, with low confidence, from the same port, day and target type: the USF commander's Telegram post of Apr 6, 2026 (#2177) credits the 1st Separate Center (USF) with a drone strike on a frigate in Novorossiysk port and the SBU with planning and coordination, but names the ship Admiral Grigorovich, later corrected to Admiral Makarov, not Admiral Essen, and Kyiv Post notes that no unit claimed the Essen hit. Stays N/A."
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12761_1.jpg"
    ]
@@ -2236,10 +2244,13 @@
     "weapon": "Strike UAVs (model not stated)",
     "operation": "Deep Strike"
    },
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The Volgograd governor confirmed the attack and a fire in a tank at the station (Ukrinform, Apr 10, source added); Exilenova+ says satellite fire monitoring recorded abnormal thermal anomalies at the station and later posted a photo of the burning site (photos attached). No unit or official Ukrainian statement found (General Staff posts of Apr 5-11 checked), and the \"4 RVS-20000 tanks destroyed\" figure in the description above is not found in the attached sources, which mention a fire in one tank. Stays N/A.",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The Volgograd governor confirmed the attack and a fire in a tank at the station (Ukrinform, Apr 10, source added); Exilenova+ says satellite fire monitoring recorded abnormal thermal anomalies at the station and later posted a photo of the burning site (photos attached). No unit or official Ukrainian statement found (General Staff posts of Apr 5-11 checked). Stays N/A.",
    "sources": [
     "https://ukrinform.net/rubric-ato/4111185-fire-can-be-seen-from-20-kilometers-away-pumping-station-on-fire-in-russias-volgograd-region-after-attack.html"
    ],
+   "fix": {
+    "note": "Drones attack the oil pumping station \"Tinguta\". The Volgograd governor confirmed the attack and a fire in a tank; the number of tanks destroyed is not confirmed in the sources (the earlier text of this note, \"4 RVS-20000 tanks were destroyed\", was not found in any attached source)."
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18646_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18646_2.jpg",
@@ -2279,7 +2290,12 @@
    "h": "fm19be",
    "name": "Drones attack Sintez-Kauchuk chemical plant in Sterlitamak",
    "date": "2026-04-15",
-   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 15) places the burning at sites I-4a/I-4g of workshop I-4, which produces commercial isoprene for isoprene rubber, the plant's main product; Militarnyi (Apr 15) reports that Liutyi drones attacked the plant in the morning (images attached). The Exilenova+ post of Apr 19 in the source list was not attached: it is dated four days later and speaks of debris hits with smoke.",
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 15) places the burning at sites I-4a/I-4g of workshop I-4, which produces commercial isoprene for isoprene rubber, the plant's main product; Militarnyi (Apr 15) reports that Liutyi drones attacked the plant in the morning (images attached). The Exilenova+ post of Apr 19 (t.me/exilenova_plus/19082) formerly listed as a source was removed: it is dated four days after the attack and speaks of debris hits with smoke, with no link to the Apr 15 attack.",
+   "fix": {
+    "dropSources": [
+     "https://t.me/exilenova_plus/19082"
+    ]
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12800_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/milinua_51831_1.jpg"
@@ -2517,7 +2533,11 @@
     "weapon": "Strike UAVs (model not stated)",
     "operation": "Deep Strike"
    },
-   "note": "Detail (Nov 2026): the USF commander's post of Apr 29 (poster card attached) says the strike was made by combined crews of the 429th Brigade \"Achilles\" and the 43rd Separate Artillery Brigade, jointly with the SBU Alpha Center, on a field landing site more than 150 km from the front line in Voronezh Oblast, hitting the rear engine compartment of the helicopters. Dosye Shpiona (May 14) says two UAVs hit two helicopters at the \"Ozero\" forward site: a Mi-8 (tail no. 60) of the 41st helicopter regiment (Buturlinovka) and a Mi-28 (tail no. 07) of the 15th army aviation brigade; it says both were damaged, not destroyed, and that two officers of the 15th brigade were wounded. Kiber Boroshno posted images (attached).",
+   "note": "Detail (Nov 2026): the USF commander's post of Apr 29 (poster card attached) says the strike was made by combined crews of the 429th Brigade \"Achilles\" and the 43rd Separate Artillery Brigade, jointly with the SBU Alpha Center, on a field landing site more than 150 km from the front line in Voronezh Oblast, hitting the rear engine compartment of the helicopters. Dosye Shpiona (May 14) says two UAVs hit two helicopters at the \"Ozero\" forward site: a Mi-8 (tail no. 60) of the 41st helicopter regiment (Buturlinovka) and a Mi-28 (tail no. 07) of the 15th army aviation brigade, and that two officers of the 15th brigade were wounded. The Ukrainian posts name the site only as a field landing site in Voronezh Oblast; the Rossosh location comes from the original entry and is not confirmed by the sources. Kiber Boroshno posted images (attached).",
+   "fix": {
+    "name": "Mi-28 and Mi-8 helicopters hit at forward site in Voronezh Oblast",
+    "note": "Two helicopters, a Mi-28 and a Mi-8 (named Mi-17 in the Ukrainian posts), were hit by drones at a field landing site in Voronezh Oblast on Apr 29. Dosye Shpiona says both were damaged, not destroyed; the earlier text of this record said destroyed."
+   },
    "media": [
     "https://t.me/robert_magyar/2283#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Frobert_magyar_2283_poster.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12897_1.jpg",
@@ -2581,7 +2601,10 @@
    "h": "10qw29c",
    "name": "Seven cars of passenger train derail in Bryandino",
    "date": "2026-04-03",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. RZD (via ASTRA, Apr 3) reported the derailment of 7 cars of the Chelyabinsk-Moscow passenger train near Bryandino station and sent medical teams; RusNews says at least 7 people were injured, one of them a child, and that no one died (photos attached). The preliminary cause given above is the improper condition of the track; no sabotage claim or official statement of an attack was found. Stays N/A.",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. RZD (via ASTRA, Apr 3) reported the derailment of 7 cars of the Chelyabinsk-Moscow passenger train near Bryandino station and sent medical teams; RusNews says at least 7 people were injured, one of them a child, and that no one died (photos attached). The preliminary cause given above is the improper condition of the track; no sabotage claim or official statement of an attack was found, so the method was changed from SABOTAGE to UNKNOWN (Nov 2026). Stays N/A.",
+   "fix": {
+    "method": "UNKNOWN"
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_108772_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/rusnews_82674_1.jpg"
