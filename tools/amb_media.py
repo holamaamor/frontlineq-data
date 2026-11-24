@@ -146,9 +146,10 @@ def do_probe(job):
         if page:
             for x in parse_blocks(page): out['posts'].append(x)
     else:
-        for pid in range(job['from'], job['to'] + 1):
-            x = embed(ch, pid)
-            if x: out['posts'].append(x)
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            for x in ex.map(lambda pid: embed(ch, pid), range(job['from'], job['to'] + 1)):
+                if x: out['posts'].append(x)
     for x in out['posts']:
         x['text'] = x['text'][:1800]
         x['n_photos'] = len(x.pop('photos')); x['n_videos'] = len(x.pop('videos')); x.pop('thumbs'); x.pop('preview')

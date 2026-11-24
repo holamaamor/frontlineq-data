@@ -2,40 +2,118 @@
  "get": [],
  "probe": [
   {
-   "id": "cal38200",
+   "id": "gs0505",
    "ch": "GeneralStaffZSU",
-   "from": 38200,
-   "to": 38200
+   "from": 38190,
+   "to": 38260
   },
   {
-   "id": "cal38500",
+   "id": "gs0708",
    "ch": "GeneralStaffZSU",
-   "from": 38500,
-   "to": 38500
+   "from": 38270,
+   "to": 38410
   },
   {
-   "id": "cal38800",
+   "id": "gs1213",
    "ch": "GeneralStaffZSU",
-   "from": 38800,
-   "to": 38800
+   "from": 38515,
+   "to": 38640
   },
   {
-   "id": "cal39100",
+   "id": "gs1617",
    "ch": "GeneralStaffZSU",
-   "from": 39100,
-   "to": 39100
+   "from": 38690,
+   "to": 38780
   },
   {
-   "id": "cal39400",
+   "id": "gs2021",
    "ch": "GeneralStaffZSU",
-   "from": 39400,
-   "to": 39400
+   "from": 38860,
+   "to": 38950
   },
   {
-   "id": "cal39700",
+   "id": "gs2425",
    "ch": "GeneralStaffZSU",
-   "from": 39700,
-   "to": 39700
+   "from": 39030,
+   "to": 39110
+  },
+  {
+   "id": "gs2728",
+   "ch": "GeneralStaffZSU",
+   "from": 39160,
+   "to": 39250
+  },
+  {
+   "id": "gs29",
+   "ch": "GeneralStaffZSU",
+   "from": 39250,
+   "to": 39330
+  },
+  {
+   "id": "gs31",
+   "ch": "GeneralStaffZSU",
+   "from": 39340,
+   "to": 39420
+  },
+  {
+   "id": "e0505",
+   "ch": "exilenova_plus",
+   "from": 20040,
+   "to": 20180
+  },
+  {
+   "id": "e0508",
+   "ch": "exilenova_plus",
+   "from": 20300,
+   "to": 20400
+  },
+  {
+   "id": "e0513",
+   "ch": "exilenova_plus",
+   "from": 20440,
+   "to": 20495
+  },
+  {
+   "id": "e0517",
+   "ch": "exilenova_plus",
+   "from": 20700,
+   "to": 20830
+  },
+  {
+   "id": "e0520",
+   "ch": "exilenova_plus",
+   "from": 20890,
+   "to": 20975
+  },
+  {
+   "id": "e0522",
+   "ch": "exilenova_plus",
+   "from": 20990,
+   "to": 21074
+  },
+  {
+   "id": "e0524",
+   "ch": "exilenova_plus",
+   "from": 21090,
+   "to": 21200
+  },
+  {
+   "id": "e0527",
+   "ch": "exilenova_plus",
+   "from": 21250,
+   "to": 21340
+  },
+  {
+   "id": "e0529",
+   "ch": "exilenova_plus",
+   "from": 21380,
+   "to": 21460
+  },
+  {
+   "id": "e0531",
+   "ch": "exilenova_plus",
+   "from": 21480,
+   "to": 21640
   }
  ]
 }
