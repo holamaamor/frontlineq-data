@@ -1,0 +1,310 @@
+{
+ "updated": "2026-11-24 19:30",
+ "records": [
+  {
+   "h": "wzz78j",
+   "name": "Drone attack on oil depot in Stary Oskol",
+   "date": "2026-01-06",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claimed by the LSR partisan channel on Telegram; the claim post is attached. Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/347"
+   ]
+  },
+  {
+   "h": "6zfdly",
+   "name": "LSR partisans burn relay cabinet on air base rail route, Michurinsk",
+   "date": "2026-01-10",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says a relay cabinet on the road serving the Tambov-region military air base was burned to disrupt the base's logistics and aircraft maintenance (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/348"
+   ]
+  },
+  {
+   "h": "ghhg42",
+   "name": "Partisans burn transformer near railway junction, Izhevsk",
+   "date": "2026-01-10",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the \"Chernaya Iskra\" channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/chernayaiskra2/126"
+   ]
+  },
+  {
+   "h": "eal3n4",
+   "name": "LSR partisans burn locomotive in Novosibirsk",
+   "date": "2026-01-14",
+   "set": {
+    "weapon": "Arson"
+   }
+  },
+  {
+   "h": "qrhgk3",
+   "name": "LSR partisans burn communications tower in Nizovye",
+   "date": "2026-01-17",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/356"
+   ]
+  },
+  {
+   "h": "31go62",
+   "name": "Atesh partisans burn substation transformer in Bolshoye Polpino",
+   "date": "2026-01-18",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the \"Atesh\" channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/atesh_ua/9130"
+   ]
+  },
+  {
+   "h": "17hzrn",
+   "name": "Atesh partisans burn railway relay cabinet in Yakovlevsky",
+   "date": "2026-01-21",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the \"Atesh\" channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/atesh_ua/9155"
+   ]
+  },
+  {
+   "h": "wik9nt",
+   "name": "LSR burns relay cabinet on air base supply route, Engels",
+   "date": "2026-01-21",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/365"
+   ]
+  },
+  {
+   "h": "buqkc1",
+   "name": "LSR partisans burn substation transformers in Novokuznetsk",
+   "date": "2026-01-23",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/366"
+   ]
+  },
+  {
+   "h": "aq3xtr",
+   "name": "LSR partisans burn relay cabinet on air force supply route, Pozarikha",
+   "date": "2026-01-27",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/367"
+   ]
+  },
+  {
+   "h": "15sz0ju",
+   "name": "LSR partisans completely burn down the FSVP (FSIN) service car",
+   "date": "2026-01-30",
+   "set": {
+    "weapon": "Arson"
+   }
+  },
+  {
+   "h": "1sz85km",
+   "name": "Drone attack on Taman port oil terminal, 3 killed",
+   "date": "2026-01-22",
+   "note": "Detail (Nov 2026): the General Staff said units of the Defence Forces hit the Tamannaftogaz oil terminal in Volna (Taman port) overnight on 22 January; explosions and fire were recorded and the extent of damage was \"being clarified\". The same statement listed radar stations in Crimea (59N6-E, 55Zh6, 55Zh6M), a drone depot in Kherson Oblast, a 76th Air Assault Division command post near Selydove and a logistics-brigade ammunition depot at Debaltseve. No executing unit or drone model was named.",
+   "media": [
+    "https://t.me/DniproOfficial/7078"
+   ]
+  },
+  {
+   "h": "dy07i5",
+   "name": "Drone attack on Penzanefteprodukt oil depot in Penza",
+   "date": "2026-01-23",
+   "set": {
+    "weapon": "Kamikaze drones (model not stated)"
+   },
+   "note": "Detail (Nov 2026): Militarnyi reports the drones hit around 04:00 on 23 January while local authorities blamed \"falling debris\". Satellite imagery (Planet Labs, published by Radio Svoboda) shows at least one fuel tank destroyed and neighbouring tanks heat-damaged; the fire burned for more than two days. The strike was later confirmed by the General Staff."
+  },
+  {
+   "h": "q9znce",
+   "name": "Drone attack on refinery in Slavyansk-na-Kubani",
+   "date": "2026-01-26",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)"
+   },
+   "note": "Detail (Nov 2026): General Staff statement of 26 January: explosions were recorded near the target and elements of the primary oil-processing unit were reportedly hit; the scale of damage was \"being clarified\". Same statement: logistics depots in occupied Donetsk and Zaporizhzhia, a UAV control point near Velyka Novosilka and troop concentrations near Yunakivka and Kolisnykivka.",
+   "media": [
+    "https://t.me/exilenova_plus/15943"
+   ]
+  },
+  {
+   "h": "932xhj",
+   "name": "Drone attack on Khokholskaya oil depot",
+   "date": "2026-01-28",
+   "note": "Detail (Nov 2026): General Staff (Telegram): a fire of oil products was confirmed at the depot, with thick smoke; results \"being clarified\". Same statement: a Russian drone warehouse and control centre, manpower concentrations near Velyka Novosilka, Shakhove, Hryhorivka, Huliaipole and Kolotylivka, an ammunition depot near Nyzhnya Duvanka and a battalion command post near Berezove. Executing unit and drone model not named.",
+   "media": [
+    "https://t.me/exilenova_plus/15981"
+   ]
+  },
+  {
+   "h": "lfzfs3",
+   "name": "Missile strike on Michurinskaya CHP plant in Belgorod",
+   "date": "2026-01-20",
+   "set": {
+    "weapon": "Missiles (about 25 reported; type not stated)"
+   },
+   "note": "Detail (Nov 2026): Governor Gladkov confirmed that energy-sector enterprises and equipment at one Belgorod enterprise were damaged and that demining and emergency repairs began; the attacker was not named. Russian monitoring channels counted about 25 missiles fired toward Belgorod; no missile type is given. The plant (GT Energo, 24.2 MW / 80 Gcal/h) mainly supplies the Belenergomash-BZEM works."
+  },
+  {
+   "h": "1xfq91",
+   "name": "HIMARS strike on Belgorodskaya CHP plant cuts power and heating",
+   "date": "2026-01-24",
+   "media": [
+    "https://t.me/exilenova_plus/15918"
+   ]
+  },
+  {
+   "h": "r1xszx",
+   "name": "Drone attack on electrical substation near Khomutovka",
+   "date": "2026-01-04",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Kursk Governor Khinshtein blamed Ukrainian drones for the strike on an energy facility at Khomutovka (115 settlements and 11,000+ consumers lost power); no Ukrainian unit or official claimed it. Stays N/A."
+  },
+  {
+   "h": "1vhajxg",
+   "name": "35 coal wagons derail in Magdagachinsky, probably sabotage",
+   "date": "2026-01-05",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The Investigative Committee (transport) says the circumstances of the derailment of 30+ coal wagons at km 7447 of the Gudachi-Gonzha section are still being established; no claim of responsibility and no Ukrainian involvement stated. Stays N/A."
+  },
+  {
+   "h": "1mpmzkj",
+   "name": "Fire at ODK-Salyut plant in Moscow",
+   "date": "2026-01-07",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Moscow emergency services gave no cause; the Telegram channel \"112\" suggested technological equipment ignited; no attack, drone or arson is stated. Stays N/A."
+  },
+  {
+   "h": "vhu83o",
+   "name": "Drone attack on Nevinnomyssky Azot plant",
+   "date": "2026-01-14",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Militarnyi and Euromaidan Press say \"Ukrainian Defence Forces\" struck the plant on 14 January, with fire footage from the Supernova+ channel, but quote no unit or official statement (the General Staff confirmation found in searches concerns the 4 December 2025 strike). Stays N/A.",
+   "media": [
+    "https://t.me/supernova_plus/47406"
+   ]
+  },
+  {
+   "h": "1mdkai2",
+   "name": "Fire at Voskresensk mineral fertilizers chemical plant",
+   "date": "2026-01-16",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Astra and other Russian channels reported smoke and fire at the plant on 16-17 January, cause \"unknown\", no official information; no Ukrainian unit claimed it. Stays N/A."
+  },
+  {
+   "h": "19twwik",
+   "name": "Substation fire in Serpukhov leaves part of city without power",
+   "date": "2026-01-17",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The local head, Alexey Shimko, called the fire at the \"Oka\" substation an accident (24 power cables damaged, 46 diesel generators deployed); no attack or claim stated. Stays N/A.",
+   "media": [
+    "https://t.me/exilenova_plus/15688"
+   ]
+  },
+  {
+   "h": "zf0brr",
+   "name": "Drone attack on Oryol CHP plant causes power outages",
+   "date": "2026-01-20",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Reports (Astra, Governor Klychkov) mention minor damage to fuel and energy infrastructure and partial power and water outages in the Severny and Zheleznodorozhny districts of Oryol; no party claimed it on the record and the drone type is not stated. (A Navy Neptune strike on the same CHP plant was announced on 31 October 2025 - a different event.) Stays N/A.",
+   "media": [
+    "https://t.me/exilenova_plus/15776"
+   ]
+  },
+  {
+   "h": "11a68w",
+   "name": "Russian air defense missile hits residential building in Novaya Adygeya",
+   "date": "2026-01-21",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): not a Ukrainian strike. Analysts cited by iStories (ASTRA, Ruslan Leviev, Yan Matveev) say footage shows a Russian air-defence missile that went astray while countering a drone raid on the evening of 20 January; local authorities described a drone strike. Remains were found under the rubble, 13 people were reported injured and 12 buildings damaged. Stays N/A.",
+   "media": [
+    "https://t.me/astrapress/102428"
+   ]
+  },
+  {
+   "h": "1ai4tye",
+   "name": "Seven empty tank wagons derail in Bogoroditsky",
+   "date": "2026-01-21",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Four empty tank cars in the middle of a 71-car train bound for Yelets derailed between Zhdanka and Tovarkovo; preliminary cause: a sudden drop in brake-system pressure (360.ru); the governor reported no casualties and no sabotage claim exists. Stays N/A."
+  },
+  {
+   "h": "5odemv",
+   "name": "20 coal wagons derail in Korfovsky",
+   "date": "2026-01-24",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. 20 coal wagons overturned at Korfovskaya station; a criminal case was opened under Article 263(1) (rail-safety violation, negligence); no sabotage or claim stated. Stays N/A."
+  },
+  {
+   "h": "1mfuilj",
+   "name": "Explosion and fire at electrical substation in Moscow",
+   "date": "2026-01-27",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The only source is the Exilenova+ post (no cause or claim in the available text). Stays N/A.",
+   "media": [
+    "https://t.me/exilenova_plus/15974"
+   ]
+  },
+  {
+   "h": "9d3cwx",
+   "name": "Warehouse fire of 1500 sq m in Volgograd",
+   "date": "2026-01-27",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. EMERCOM reported open burning eliminated at a warehouse on 25-letiya Oktyabrya Street, no casualties, no cause stated (TASS, dated 28 January 00:31). Stays N/A."
+  },
+  {
+   "h": "4jb7xo",
+   "name": "Fire at Tenet plant in Kaluga",
+   "date": "2026-01-28",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The former Volkswagen plant (Tenet cars, AGR Holding) burned on 28 January; the most common version is burning plastic interior cladding and \"no arson or external attacks were found\"; the cause is still being clarified. Stays N/A."
+  },
+  {
+   "h": "1ih69go",
+   "name": "Production building fire in Dukhanino",
+   "date": "2026-01-28",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. A plastics production building in Dukhanino (Istra district) burned over 3,750 sq m (roof collapse over 1,200 sq m, 47 firefighters); the Istra prosecutor is establishing the cause; no attack or sabotage stated. Stays N/A."
+  },
+  {
+   "h": "ny86c6",
+   "name": "Textile warehouse fire in Odintsovo",
+   "date": "2026-01-28",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The only source is a Shot Telegram post; no cause or claim. Stays N/A.",
+   "media": [
+    "https://t.me/shot_shot/91728"
+   ]
+  },
+  {
+   "h": "tapjbb",
+   "name": "Fire at CHP-3 in Khabarovsk kills two workers",
+   "date": "2026-01-29",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. A roof fire of about 15 sq m at CHP-3 killed two contractor workers (a third was hospitalised with burns); preliminary cause: a damaged fuel-oil pipeline near a boiler; no attack stated. Stays N/A.",
+   "media": [
+    "https://t.me/rusnews/79685"
+   ]
+  },
+  {
+   "h": "1pscvmr",
+   "name": "Ukrainian aviation bombs fortified house in Tyotkino",
+   "date": "2026-01-29",
+   "media": [
+    "https://t.me/soniah_hub/14210"
+   ]
+  }
+ ]
+}
