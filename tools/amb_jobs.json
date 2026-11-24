@@ -1,119 +1,47 @@
 {
- "get": [],
+ "get": [
+  "https://t.me/exilenova_plus/20040",
+  "https://t.me/exilenova_plus/20136",
+  "https://t.me/exilenova_plus/20133",
+  "https://t.me/exilenova_plus/20484",
+  "https://t.me/exilenova_plus/20490",
+  "https://t.me/exilenova_plus/20470",
+  "https://t.me/exilenova_plus/20733",
+  "https://t.me/exilenova_plus/20892",
+  "https://t.me/exilenova_plus/20894",
+  "https://t.me/exilenova_plus/20896",
+  "https://t.me/exilenova_plus/21149",
+  "https://t.me/exilenova_plus/21307",
+  "https://t.me/exilenova_plus/21541",
+  "https://t.me/exilenova_plus/21501",
+  "https://t.me/exilenova_plus/21502",
+  "https://t.me/exilenova_plus/21552",
+  "https://t.me/GeneralStaffZSU/38213",
+  "https://t.me/GeneralStaffZSU/38322",
+  "https://t.me/GeneralStaffZSU/38394",
+  "https://t.me/GeneralStaffZSU/38395",
+  "https://t.me/GeneralStaffZSU/38592",
+  "https://t.me/GeneralStaffZSU/38593",
+  "https://t.me/GeneralStaffZSU/38767",
+  "https://t.me/GeneralStaffZSU/38887",
+  "https://t.me/GeneralStaffZSU/39055",
+  "https://t.me/GeneralStaffZSU/39224",
+  "https://t.me/GeneralStaffZSU/39271",
+  "https://t.me/GeneralStaffZSU/39309",
+  "https://t.me/GeneralStaffZSU/39351"
+ ],
  "probe": [
   {
-   "id": "gs0505",
-   "ch": "GeneralStaffZSU",
-   "from": 38190,
-   "to": 38260
-  },
-  {
-   "id": "gs0708",
-   "ch": "GeneralStaffZSU",
-   "from": 38270,
-   "to": 38410
-  },
-  {
-   "id": "gs1213",
-   "ch": "GeneralStaffZSU",
-   "from": 38515,
-   "to": 38640
-  },
-  {
-   "id": "gs1617",
-   "ch": "GeneralStaffZSU",
-   "from": 38690,
-   "to": 38780
-  },
-  {
-   "id": "gs2021",
-   "ch": "GeneralStaffZSU",
-   "from": 38860,
-   "to": 38950
-  },
-  {
-   "id": "gs2425",
-   "ch": "GeneralStaffZSU",
-   "from": 39030,
-   "to": 39110
-  },
-  {
-   "id": "gs2728",
-   "ch": "GeneralStaffZSU",
-   "from": 39160,
-   "to": 39250
-  },
-  {
-   "id": "gs29",
-   "ch": "GeneralStaffZSU",
-   "from": 39250,
-   "to": 39330
-  },
-  {
-   "id": "gs31",
-   "ch": "GeneralStaffZSU",
-   "from": 39340,
-   "to": 39420
-  },
-  {
-   "id": "e0505",
+   "id": "e_perm",
    "ch": "exilenova_plus",
-   "from": 20040,
-   "to": 20180
+   "from": 20180,
+   "to": 20300
   },
   {
-   "id": "e0508",
+   "id": "e_kstovo",
    "ch": "exilenova_plus",
-   "from": 20300,
-   "to": 20400
-  },
-  {
-   "id": "e0513",
-   "ch": "exilenova_plus",
-   "from": 20440,
-   "to": 20495
-  },
-  {
-   "id": "e0517",
-   "ch": "exilenova_plus",
-   "from": 20700,
-   "to": 20830
-  },
-  {
-   "id": "e0520",
-   "ch": "exilenova_plus",
-   "from": 20890,
-   "to": 20975
-  },
-  {
-   "id": "e0522",
-   "ch": "exilenova_plus",
-   "from": 20990,
-   "to": 21074
-  },
-  {
-   "id": "e0524",
-   "ch": "exilenova_plus",
-   "from": 21090,
-   "to": 21200
-  },
-  {
-   "id": "e0527",
-   "ch": "exilenova_plus",
-   "from": 21250,
-   "to": 21340
-  },
-  {
-   "id": "e0529",
-   "ch": "exilenova_plus",
-   "from": 21380,
-   "to": 21460
-  },
-  {
-   "id": "e0531",
-   "ch": "exilenova_plus",
-   "from": 21480,
-   "to": 21640
+   "from": 20830,
+   "to": 20890
   }
  ]
 }
