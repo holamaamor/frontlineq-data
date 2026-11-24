@@ -1,128 +1,134 @@
 {
  "get": [
-  "https://t.me/ukr_sof/2577",
-  "https://t.me/DniproOfficial/7223",
-  "https://t.me/DniproOfficial/7225",
-  "https://t.me/soprotivleniye_lsr/412",
-  "https://t.me/chernayaiskra2/189",
-  "https://t.me/exilenova_plus/17222",
-  "https://t.me/exilenova_plus/17157",
-  "https://t.me/milinua/50572",
-  "https://t.me/rusnews/81504",
-  "https://t.me/chernayaiskra2/192",
-  "https://t.me/rusnews/81489",
-  "https://t.me/kiber_boroshno/12628",
-  "https://t.me/DniproOfficial/7261",
-  "https://t.me/atesh_ua/9438",
-  "https://t.me/kub_mash/11985",
-  "https://t.me/soprotivleniye_lsr/424",
-  "https://t.me/exilenova_plus/17329",
-  "https://t.me/exilenova_plus/17347",
-  "https://t.me/exilenova_plus/17420",
-  "https://t.me/soprotivleniye_lsr/425",
-  "https://t.me/exilenova_plus/17416",
-  "https://t.me/GeneralStaffZSU/36070",
-  "https://t.me/exilenova_plus/17447",
-  "https://t.me/soprotivleniye_lsr/426",
-  "https://t.me/belpepel/19114",
-  "https://t.me/belpepel/19090",
-  "https://t.me/exilenova_plus/17541",
-  "https://t.me/exilenova_plus/17790",
-  "https://t.me/DniproOfficial/7308",
-  "https://t.me/soprotivleniye_lsr/427",
-  "https://t.me/DniproOfficial/7328",
-  "https://t.me/chernayaiskra2/210",
-  "https://t.me/exilenova_plus/17609",
-  "https://t.me/exilenova_plus/17611",
-  "https://t.me/svoboda_radio/44344",
-  "https://t.me/soprotivleniye_lsr/436",
-  "https://t.me/rusnews/82002",
-  "https://t.me/soprotivleniye_lsr/437",
-  "https://t.me/exilenova_plus/17773",
-  "https://t.me/milinua/51126",
-  "https://t.me/dosye_shpiona/748",
-  "https://t.me/exilenova_plus/17712",
-  "https://t.me/exilenova_plus/17785",
-  "https://t.me/GeneralStaffZSU/36420",
-  "https://t.me/exilenova_plus/17864",
-  "https://t.me/exilenova_plus/17862",
-  "https://t.me/ENews112/25865",
-  "https://t.me/exilenova_plus/17922",
-  "https://t.me/DniproOfficial/7338",
-  "https://t.me/exilenova_plus/17944",
-  "https://t.me/ssternenko/56716",
-  "https://t.me/soprotivleniye_lsr/445",
-  "https://t.me/kiber_boroshno/12732",
-  "https://t.me/soprotivleniye_lsr/446",
-  "https://t.me/DniproOfficial/7351",
-  "https://t.me/exilenova_plus/17977",
-  "https://t.me/cxemu/4738",
-  "https://t.me/exilenova_plus/17981",
-  "https://t.me/rusnews/82394",
-  "https://t.me/exilenova_plus/18066",
-  "https://t.me/DniproOfficial/7366",
-  "https://t.me/exilenova_plus/18156",
-  "https://t.me/astrapress/108319",
-  "https://t.me/astrapress/108447",
-  "https://t.me/soprotivleniye_lsr/454",
-  "https://t.me/exilenova_plus/18286",
-  "https://t.me/rusnews/82531",
-  "https://t.me/exilenova_plus/18241",
-  "https://t.me/astrapress/108479",
-  "https://t.me/exilenova_plus/18244",
-  "https://t.me/robert_magyar/2152",
-  "https://t.me/soprotivleniye_lsr/455"
+  "https://t.me/exilenova_plus/17243",
+  "https://t.me/exilenova_plus/17284",
+  "https://t.me/exilenova_plus/17297",
+  "https://t.me/exilenova_plus/17306",
+  "https://t.me/exilenova_plus/17318",
+  "https://t.me/exilenova_plus/17336",
+  "https://t.me/exilenova_plus/17359",
+  "https://t.me/exilenova_plus/17410",
+  "https://t.me/exilenova_plus/17506",
+  "https://t.me/exilenova_plus/17507",
+  "https://t.me/exilenova_plus/17508",
+  "https://t.me/exilenova_plus/18069",
+  "https://t.me/exilenova_plus/18084",
+  "https://t.me/exilenova_plus/18088",
+  "https://t.me/exilenova_plus/18096",
+  "https://t.me/exilenova_plus/18115",
+  "https://t.me/exilenova_plus/18236",
+  "https://t.me/exilenova_plus/18209",
+  "https://t.me/exilenova_plus/16982",
+  "https://t.me/exilenova_plus/17260",
+  "https://t.me/exilenova_plus/17289",
+  "https://t.me/exilenova_plus/17325",
+  "https://t.me/exilenova_plus/17327"
  ],
  "probe": [
   {
-   "id": "p13",
-   "ch": "exilenova_plus",
-   "q": "Акрон"
+   "id": "g1",
+   "ch": "GeneralStaffZSU",
+   "q": "Тольятті"
   },
   {
-   "id": "p15",
-   "ch": "exilenova_plus",
-   "q": "Кремний"
+   "id": "g2",
+   "ch": "GeneralStaffZSU",
+   "q": "Кірово-Чепецьк"
   },
   {
-   "id": "p19",
-   "ch": "exilenova_plus",
-   "q": "Тихорецк"
+   "id": "g3",
+   "ch": "GeneralStaffZSU",
+   "q": "Лабінськ"
   },
   {
-   "id": "p53",
-   "ch": "exilenova_plus",
-   "q": "Чапаевск"
+   "id": "g4",
+   "ch": "GeneralStaffZSU",
+   "q": "Тихорецьк"
   },
   {
-   "id": "p55",
-   "ch": "exilenova_plus",
-   "q": "Тольяттиазот"
+   "id": "g5",
+   "ch": "GeneralStaffZSU",
+   "q": "Абінськ"
   },
   {
-   "id": "p57",
-   "ch": "exilenova_plus",
-   "q": "КуйбышевАзот"
+   "id": "g6",
+   "ch": "GeneralStaffZSU",
+   "q": "Кубанська"
   },
   {
-   "id": "p59",
-   "ch": "exilenova_plus",
-   "q": "Нижнекамск"
+   "id": "g7",
+   "ch": "GeneralStaffZSU",
+   "q": "Великий Новгород"
   },
   {
-   "id": "p1",
-   "ch": "exilenova_plus",
-   "q": "Шесхарис"
+   "id": "g8",
+   "ch": "GeneralStaffZSU",
+   "q": "Березники"
   },
   {
-   "id": "p2",
-   "ch": "exilenova_plus",
-   "q": "Ухтинск"
+   "id": "g9",
+   "ch": "GeneralStaffZSU",
+   "q": "Череповець"
   },
   {
-   "id": "p5",
+   "id": "g10",
+   "ch": "GeneralStaffZSU",
+   "q": "Нижньокамськ"
+  },
+  {
+   "id": "g11",
+   "ch": "GeneralStaffZSU",
+   "q": "Ухта"
+  },
+  {
+   "id": "g12",
+   "ch": "GeneralStaffZSU",
+   "q": "Апатит"
+  },
+  {
+   "id": "g13",
+   "ch": "GeneralStaffZSU",
+   "q": "Новгород"
+  },
+  {
+   "id": "e14",
+   "ch": "exilenova_plus",
+   "q": "Нижнекамскнефтехим"
+  },
+  {
+   "id": "e15",
+   "ch": "exilenova_plus",
+   "q": "Тольятти"
+  },
+  {
+   "id": "e16",
+   "ch": "exilenova_plus",
+   "q": "Березники"
+  },
+  {
+   "id": "e17",
    "ch": "exilenova_plus",
    "q": "Кирово-Чепецк"
+  },
+  {
+   "id": "m18",
+   "ch": "robert_magyar",
+   "q": "Тольятті"
+  },
+  {
+   "id": "m19",
+   "ch": "robert_magyar",
+   "q": "Лабінськ"
+  },
+  {
+   "id": "m20",
+   "ch": "robert_magyar",
+   "q": "Кірово"
+  },
+  {
+   "id": "m21",
+   "ch": "robert_magyar",
+   "q": "Тихорецьк"
   }
  ]
 }
