@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24 23:55",
+ "updated": "2026-11-24 23:59",
  "records": [
   {
    "h": "6zfdly",
@@ -2025,6 +2025,840 @@
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. RusNews says that, per witnesses, a woman threw four bottles with an incendiary mixture at the enlistment office; fire was reported only on a doormat and put out before the fire crews arrived. No claim by any Ukrainian unit or official. Stays N/A.",
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/rusnews_82394_1.jpg"
+   ]
+  },
+  {
+   "h": "19d15y",
+   "name": "Drones damage technical overpass at Bashneft-Novoyl refinery",
+   "date": "2026-04-02",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 2), analysing the video, places the hit at the AVT-5 unit of Bashneft-Novoil (the primary oil-processing unit, without which further refining is impossible) and notes the unit was last attacked on Oct 11, 2025; Radio Svoboda (Apr 3) says a satellite image confirms damage to AVT-5 and that the head of Bashkortostan had confirmed the drone attack and a fire without naming the plant; Dnipro Osint (Apr 14) gives the coordinates of the damaged technical overpass near AVT-5 (satellite imagery attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/svoboda_radio_44641_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18338_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18338_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/DniproOfficial_7440_1.jpg"
+   ]
+  },
+  {
+   "h": "1ee0djh",
+   "name": "UAV pre-flight preparation site hit in Khalino",
+   "date": "2026-04-04",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the USF commander's post of Apr 4 (poster card attached; the card links to the video) lists pre-flight preparation points for Shahed UAVs at Navlya (Bryansk Oblast) and at the Khalino airfield (Kursk Oblast), hit jointly with other Defense Forces deep-strike units; no single unit is named for Khalino.",
+   "media": [
+    "https://t.me/robert_magyar/2170#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Frobert_magyar_2170_poster.jpg"
+   ]
+  },
+  {
+   "h": "1gshzpd",
+   "name": "Drone attack on Tolyattikauchuk plant damages several workshops",
+   "date": "2026-04-04",
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 4) concludes from the available videos that numerous drones, probably An-196 Liutyi, reached the plant (about 10 according to various reports) and lists the hit areas: workshop D-12 with 2,300 cubic metre tanks of liquefied products (a large fireball), the isobutane-isobutylene units BK-2, BK-3 and BK-4 (key component of butyl rubber) and workshop D-1; more hits than listed are likely, since the list covers only objects whose fires were caught on camera (analysis images attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12748_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12748_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12763_1.jpg"
+   ],
+   "set": {
+    "operation": "Deep Strike"
+   }
+  },
+  {
+   "h": "1g9rbvr",
+   "name": "Drone attack on KuybyshevAzot chemical plant in Tolyatti",
+   "date": "2026-04-04",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 4, videos attached) covers both plants burning in Tolyatti that night: KuybyshevAzot (nitrogen chemistry and polymers: ammonia, urea, ammonium nitrate) and Tolyattikauchuk (rubber).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18418_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18418_v2.mp4"
+   ]
+  },
+  {
+   "h": "1818p4i",
+   "name": "Fire at Primorsk oil terminal after drone attack",
+   "date": "2026-04-05",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Militarnyi (Apr 5, map attached) says strike drones damaged a section of the oil pipeline near Primorsk port, citing the Leningrad governor, who said debris of a downed drone damaged the line during the morning repulse of 19 UAVs (ASTRA).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/milinua_51505_1.jpg"
+   ]
+  },
+  {
+   "h": "1xfcydr",
+   "name": "Drone attack on Kstovo refinery damages two facilities",
+   "date": "2026-04-05",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the Nizhny Novgorod governor (t.me/glebnikitin_nn/8920, added) says air defence repelled an attack of 30 UAVs over the Kstovo industrial zone overnight; falling debris damaged and set on fire two facilities of Lukoil-Nizhegorodnefteorgsintez, the Novogorkovskaya CHP and several houses, and the fire was localised; Exilenova+ posted further video and photos from Kstovo and a detailed segment of the attack (videos and photos attached).",
+   "sources": [
+    "https://t.me/glebnikitin_nn/8920"
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18449_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18449_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18456_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18449_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18449_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18449_3.jpg"
+   ]
+  },
+  {
+   "h": "1teonmk",
+   "name": "Drone attack on Novogorkovskaya thermal power plant, Kstovo",
+   "date": "2026-04-05",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the Nizhny Novgorod governor's statement (t.me/glebnikitin_nn/8920, added) says the Novogorkovskaya CHP was damaged in the overnight attack on the Kstovo industrial zone, together with several houses, and that power supply to consumers was being restored; no photo or video of the CHP itself was found (the Kstovo videos show the refinery, so they are attached to the refinery record only).",
+   "sources": [
+    "https://t.me/glebnikitin_nn/8920"
+   ]
+  },
+  {
+   "h": "1qz8ci3",
+   "name": "Frigate Admiral Essen hit again in Novorossiysk",
+   "date": "2026-04-06",
+   "set": {
+    "method": "UAV",
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 7) says satellite imagery shows the frigate Admiral Essen was hit again in the Apr 6 attack on Novorossiysk, identified by the characteristic white colour of its radars and by Admiral Makarov remaining in the same place as after the previous attack (satellite image attached). The General Staff post of Apr 7 (t.me/GeneralStaffZSU/37007, added) records two strike UAV hits on a Russian project 11356R frigate, a Kalibr carrier, without naming the ship or a unit; method UAV follows it.",
+   "sources": [
+    "https://t.me/GeneralStaffZSU/37007"
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12761_1.jpg"
+   ]
+  },
+  {
+   "h": "1afjx49",
+   "name": "Drone attack on Sheskharis oil terminal in Novorossiysk",
+   "date": "2026-04-06",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 5-6) says media material shows hits on three objects: berth No. 1 (the largest fire, from spilled oil), berth No. 2, and the metering (SIKN) and shut-off valve units that control the berths, which together mean a practical halt of loadings; on Apr 7 it counted four burning points in the Novorossiysk port from a single attack (photos attached). The General Staff post of Apr 6 (t.me/GeneralStaffZSU/36980, added) says the oil-loading infrastructure of the terminal was hit with a large fire, and its post of Apr 7 (t.me/GeneralStaffZSU/37007, added) confirms damage to the berth No. 1 and No. 2 stenders and the oil distribution and shipping pipeline system, plus 3 RVSPK-50000 tanks at the Grushovaya transshipment depot that supplies the terminal; neither names an executing unit.",
+   "sources": [
+    "https://t.me/GeneralStaffZSU/36980",
+    "https://t.me/GeneralStaffZSU/37007"
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18493_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18545_1.jpg"
+   ]
+  },
+  {
+   "h": "1cnx0sj",
+   "name": "Drone attack on Minudobreniya chemical plant in Rossosh",
+   "date": "2026-04-06",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Kiber Boroshno (Apr 6) reports several hits on the territory of the Minudobreniya plant and burning of the main fertilizer store (confirmed on video), with a risk of a large explosion; Exilenova+ posted video (attached); no unit or official Ukrainian statement found (General Staff posts of Apr 5-11 checked). Stays N/A. Detail (Nov 2026): the plant makes ammonium nitrate (about 5% of Russian output) and NPK fertilizers (about 7.5%), per Kiber Boroshno.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18542_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12757_1.jpg"
+   ]
+  },
+  {
+   "h": "kxwmrx",
+   "name": "Drone attack on substation at Krymskaya LPDS",
+   "date": "2026-04-09",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the General Staff post of Apr 9 (t.me/GeneralStaffZSU/37100, card attached) says Defense Forces units hit the Krymskaya oil pumping station in Krasnodar Krai overnight on Apr 9 with a fire confirmed and damage being assessed; Exilenova+ (Apr 9) says the station and the substation on its territory were attacked and locals reported a blackout (photo and videos attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18611_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18611_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18611_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_37100_1.jpg"
+   ]
+  },
+  {
+   "h": "magg8t",
+   "name": "SSO drones attack Korchagin field platform in Caspian Sea",
+   "date": "2026-04-10",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the SOF post of Apr 10 (poster card attached) says SOF Deep-strike units hit two ice-resistant Lukoil drilling platforms in the northern Caspian Sea overnight on Apr 10, at the Korchagin field and at the Grayfer field (formerly Rakushechnoye), about 1,000 km from Ukraine. The General Staff post of Apr 10 (t.me/GeneralStaffZSU/37134, added) names this one as the ice-resistant fixed platform LSP-1 at the Korchagin field and does not name a unit.",
+   "sources": [
+    "https://t.me/GeneralStaffZSU/37134"
+   ],
+   "media": [
+    "https://t.me/ukr_sof/2695#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fukr_sof_2695_poster.jpg"
+   ]
+  },
+  {
+   "h": "9kuemp",
+   "name": "SSO drones attack Grayfer field platform in Caspian Sea",
+   "date": "2026-04-10",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the SOF post of Apr 10 (poster card attached) covers both platforms: Deep-strike units of SOF hit two ice-resistant Lukoil drilling platforms in the northern Caspian Sea overnight on Apr 10, at the Grayfer field (formerly Rakushechnoye) and at the Korchagin field, about 1,000 km from Ukraine. The General Staff post of Apr 10 (t.me/GeneralStaffZSU/37134, added) names this one as the ice-resistant fixed platform LSP-2 at the Grayfer field and does not name a unit.",
+   "sources": [
+    "https://t.me/GeneralStaffZSU/37134"
+   ],
+   "media": [
+    "https://t.me/ukr_sof/2695#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fukr_sof_2695_poster.jpg"
+   ]
+  },
+  {
+   "h": "1s60xi3",
+   "name": "Drones strike Tinguta oil pumping station in Volgograd Oblast",
+   "date": "2026-04-10",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The Volgograd governor confirmed the attack and a fire in a tank at the station (Ukrinform, Apr 10, source added); Exilenova+ says satellite fire monitoring recorded abnormal thermal anomalies at the station and later posted a photo of the burning site (photos attached). No unit or official Ukrainian statement found (General Staff posts of Apr 5-11 checked), and the \"4 RVS-20000 tanks destroyed\" figure in the description above is not found in the attached sources, which mention a fire in one tank. Stays N/A.",
+   "sources": [
+    "https://ukrinform.net/rubric-ato/4111185-fire-can-be-seen-from-20-kilometers-away-pumping-station-on-fire-in-russias-volgograd-region-after-attack.html"
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18646_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18646_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18670_1.jpg"
+   ]
+  },
+  {
+   "h": "1eltqh4",
+   "name": "Drones hit fuel tanks at Krymskaya LPDS",
+   "date": "2026-04-11",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the General Staff post of Apr 11 (card attached) says Defense Forces units hit the Krymskaya oil pumping station in Krymsk and the Gvardeyskaya oil depot in occupied Crimea overnight; Radio Svoboda (Apr 13, satellite video attached) shows a fire in one tank (1) and damage to two others (2 and 3) and says its SBU source described the station as accumulating fuel, including for military needs; Exilenova+ (Apr 11) reports the repeat attack on the station (video and photo attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/svoboda_radio_44857_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18676_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18676_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_37182_1.jpg"
+   ]
+  },
+  {
+   "h": "1hn5vj7",
+   "name": "Drones hit Cherepovets-Azot chemical plant",
+   "date": "2026-04-13",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 13) says video confirms black smoke from two of the three ammonia workshops (Ammonia-1 and Ammonia-2, 900,000 tonnes a year together) and that a hit on their ammonia store, protected since 2022 by a metal structure against drones, is also reported; it puts the hit production at about 6% of Russian ammonia output (annotated image attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18705_1.jpg"
+   ]
+  },
+  {
+   "h": "fm19be",
+   "name": "Drones attack Sintez-Kauchuk chemical plant in Sterlitamak",
+   "date": "2026-04-15",
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 15) places the burning at sites I-4a/I-4g of workshop I-4, which produces commercial isoprene for isoprene rubber, the plant's main product; Militarnyi (Apr 15) reports that Liutyi drones attacked the plant in the morning (images attached). The Exilenova+ post of Apr 19 in the source list was not attached: it is dated four days later and speaks of debris hits with smoke.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12800_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/milinua_51831_1.jpg"
+   ],
+   "set": {
+    "operation": "Deep Strike"
+   }
+  },
+  {
+   "h": "1cc1rsw",
+   "name": "Large fire after drone attack on Tuapse oil depot",
+   "date": "2026-04-16",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 16) groups the hit zones into three: the zone dominant at first by emissions, a second zone where several tanks caught fire and the blaze intensified through the day, and the infrastructure linking the depot to the port; the Tuapse port handles up to 25% of Russia's Black Sea oil exports (annotated images attached). The USF post of Apr 16 (t.me/usf_army/1799) says the 1st Separate Center, in cooperation with SOF, GUR, SBU and other components, attacked the Tuapse refinery; it names the refinery, not this depot, and the General Staff post of Apr 16 (t.me/GeneralStaffZSU/37380, added) likewise says the Tuapse refinery was hit with a fire confirmed, without naming a unit.",
+   "sources": [
+    "https://t.me/GeneralStaffZSU/37380"
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12807_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12807_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12807_3.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12807_4.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18883_1.jpg"
+   ]
+  },
+  {
+   "h": "192zm7s",
+   "name": "Drones attack Yuzhnaya substation in Belgorod",
+   "date": "2026-04-16",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Militarnyi (Apr 16) says drones hit the Yuzhnaya substation on Gubkina Street, causing a fire, that Governor Gladkov confirmed the strike and said power was cut in parts of the city including the centre, and that the attack was first reported by the local channel Pepel; it names no party responsible and no Russian or Ukrainian military statement was found (General Staff posts of Apr 15-17 checked). Stays N/A. Detail (Nov 2026): Exilenova+ (Apr 16) posted a photo of a fire and a black smoke column at an electrical site beside a pylon during the Belgorod UAV alert; the caption does not name the substation, so the match is by place and time.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18855_1.jpg"
+   ]
+  },
+  {
+   "h": "10pslk1",
+   "name": "Drones attack Syzran refinery, large fire",
+   "date": "2026-04-18",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 18) posted video of the burning refinery (attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19004_v1.mp4"
+   ]
+  },
+  {
+   "h": "8ys58w",
+   "name": "Drones hit ELOU AVT-11 unit at Novokuibyshevsk refinery",
+   "date": "2026-04-18",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Dnipro Osint (Apr 24) satellite imagery of the Apr 18 attack shows traces of heavy burning at the AVT-11 (AVT-6) unit, which processes 6 million tonnes of oil a year; it says 80% of the plant's capacity was put out of action and that anti-drone nets over the columns did not help (image attached). The USF commander's post of Apr 24 (video attached) says the refinery was hit on Apr 18 and 23.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/robert_magyar_2255_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/DniproOfficial_7467_1.jpg"
+   ]
+  },
+  {
+   "h": "b3vpw2",
+   "name": "Drones attack Tikhoretsk transshipment oil depot",
+   "date": "2026-04-18",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Militarnyi (Apr 18, map card attached) says a fire broke out at the Tikhoretsk oil depot after the Ukrainian drone attack of the night of Apr 17-18, with the fire reported at 1:17 a.m.; Exilenova+ (Apr 17, source added) calls Tikhoretsk one of the largest oil transshipment points in southern Russia and posted a screenshot of the Russian emergency report (224 people and 56 units of equipment fighting the fire, no casualties).",
+   "sources": [
+    "https://t.me/exilenova_plus/18953"
+   ],
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/milinua_51934_1.jpg"
+   ]
+  },
+  {
+   "h": "17cf8ut",
+   "name": "Drones attack Vysotsk port, fire at port facility",
+   "date": "2026-04-18",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Zloy Odessit (Apr 18, photo attached) says the Vysotsk port, about 1,600 km from Ukraine, hosts the Lukoil oil terminal handling fuel oil, oil, diesel and vacuum gasoil (9 million tonnes of oil products in 2025), and that Russian propagandists were trying to explain how it came under drone attack.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/zloyodessit_27057_1.jpg"
+   ]
+  },
+  {
+   "h": "lhmbkl",
+   "name": "Neptune missile strike on Atlant Aero plant in Taganrog",
+   "date": "2026-04-19",
+   "note": "Detail (Nov 2026): Militarnyi (Apr 19, card attached) says the Defense Forces struck the Atlant Aero drone plant in Taganrog with missiles and that the plant makes Molniya airplane-type FPV kamikaze drones; Exilenova+ (Apr 24) says Sentinel-2 imagery shows damage to at least two, possibly three, plant buildings (annotated image attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/milinua_51950_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19308_1.jpg"
+   ],
+   "set": {
+    "operation": "Deep Strike"
+   }
+  },
+  {
+   "h": "r3g3pg",
+   "name": "Drones attack Tuapse oil depot, large fire",
+   "date": "2026-04-20",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 26), quoting Oko Gora, gives the results of the drone attack on the Tuapse tank farm: 24 tanks (52%) destroyed, 4 (9%) damaged and 18 (39%) undamaged, so 61% of the tanks will be out of use soon, with no damage recorded at the neighbouring refinery (infographics attached; the post does not give the date of the attack).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19459_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19459_2.jpg"
+   ]
+  },
+  {
+   "h": "zew79",
+   "name": "Drones attack armored vehicle storage of 150th Motor Rifle Division",
+   "date": "2026-04-21",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 21) reports a hit on the armored vehicle storage park on the territory of the headquarters unit of the 150th Guards Motor Rifle Division (military unit 22179, Persianovskiy), with geolocation (annotated imagery attached); the General Staff post of Apr 21 (card attached) lists strikes on ammunition depots and other logistics objects, and the match with this park is approximate (see attribution above).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19191_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_37562_1.jpg"
+   ]
+  },
+  {
+   "h": "1gdg9i2",
+   "name": "Drones destroy two tanks at Gorky pumping station in Kstovo",
+   "date": "2026-04-23",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 23, photo and videos attached) says at least one 50,000 cubic metre tank is burning at the Gorky pumping station near the village of Meshikha, Kstovo district; Dnipro Osint (May 4, via Kiber Boroshno) says satellite images show two 50,000 cubic metre tanks destroyed and damage to filtration equipment and probably storage buildings; Radio Svoboda (Apr 23) also reports the strike on the Kstovo pumping station.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19276_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19276_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12930_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19276_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/radiosvoboda_96830_1.jpg"
+   ]
+  },
+  {
+   "h": "im3xmb",
+   "name": "Su-57 fighters and Su-34 hit at Shagol",
+   "date": "2026-04-25",
+   "set": {
+    "method": "UAV",
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the General Staff post of May 1 (card attached) says USF soldiers hit several Su-57 fighters and a Su-34 fighter-bomber at Shagol airfield (Chelyabinsk Oblast) on Apr 25, about 1,700 km from the Ukrainian border, with the degree of damage being assessed; Kiber Boroshno posted visual confirmation and InformNapalm the coordinates (images attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12917_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/informnapalm_27369_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/informnapalm_27369_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_38028_1.jpg"
+   ]
+  },
+  {
+   "h": "13jesg2",
+   "name": "Drones attack 70th GRAU arsenal near Kedrovka",
+   "date": "2026-04-25",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Kiber Boroshno (May 8, annotated imagery attached) says that, judging by satellite images, the hits include two bermed storages of zone No. 1 (six sections of about 18 x 12 m each, up to 1,200 sq m, fitted in 2025 with massive \"mangal\" anti-drone covers), the munitions-handling workshop of zone No. 2 and an open storage site; the 70th GRAU arsenal lies about 10 km from Yekaterinburg.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12976_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12976_2.jpg"
+   ]
+  },
+  {
+   "h": "1jadjzc",
+   "name": "Drones hit ELOU-AT-4 unit at Yaroslavl refinery",
+   "date": "2026-04-26",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 26) confirms several hits on the territory of the plant, among them the ELOU-AT-4 unit (electric desalting and atmospheric-tubular distillation, the key node of primary processing) at a refinery of over 15 million tonnes a year; Exilenova+ (Apr 25) and Dnipro Osint (May 3) posted videos (attached).",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/DniproOfficial_7497_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19428_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12866_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12866_2.jpg"
+   ]
+  },
+  {
+   "h": "hq4vg1",
+   "name": "Drones damage sulfuric acid pipeline at Cherepovets-Azot",
+   "date": "2026-04-26",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Filimonov LIVE (relayed by Exilenova+, Apr 26; card attached) says a UAV damaged a high-pressure sulfuric-acid pipeline at the Ammiak-3 unit of the Apatit nitrogen complex, with no fire, air measurements showing no excess of limits and, preliminarily, 5 people burned by the acid and hospitalised in Vologda; ASTRA (Apr 26) adds that the Cherepovets authorities first called the video of the Apr 13 attack a fake and made the people who filmed it apologise on camera.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19447_1.jpg"
+   ]
+  },
+  {
+   "h": "1umrrng",
+   "name": "Drones attack Tuapse refinery, at least four tanks burning",
+   "date": "2026-04-28",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Kiber Boroshno (Apr 28, image attached) says at least 4 tanks are burning at the refinery itself, unlike earlier attacks that hit the tank farm, and gives coordinates of the confirmed hit points, with a chance of the fire spreading to neighbouring tanks; Exilenova+ (Apr 28) says Tuapse was flaring up again after that day's attack.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12884_1.jpg"
+   ]
+  },
+  {
+   "h": "gafxup",
+   "name": "Mi-28 and Mi-8 helicopters destroyed at Rossosh",
+   "date": "2026-04-29",
+   "set": {
+    "method": "UAV",
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the USF commander's post of Apr 29 (poster card attached) says the strike was made by combined crews of the 429th Brigade \"Achilles\" and the 43rd Separate Artillery Brigade, jointly with the SBU Alpha Center, on a field landing site more than 150 km from the front line in Voronezh Oblast, hitting the rear engine compartment of the helicopters. Dosye Shpiona (May 14) says two UAVs hit two helicopters at the \"Ozero\" forward site: a Mi-8 (tail no. 60) of the 41st helicopter regiment (Buturlinovka) and a Mi-28 (tail no. 07) of the 15th army aviation brigade; it says both were damaged, not destroyed, and that two officers of the 15th brigade were wounded. Kiber Boroshno posted images (attached).",
+   "media": [
+    "https://t.me/robert_magyar/2283#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Frobert_magyar_2283_poster.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12897_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12897_2.jpg"
+   ]
+  },
+  {
+   "h": "1et9eq3",
+   "name": "Drones attack Nebo-M radar near Ukolovo",
+   "date": "2026-04-29",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): the 429th Brigade \"Achilles\" post of Apr 29 (video attached) says its crews hit the Nebo-M radar at Ukolovo (almost 100 km from the Ukrainian border, at the Belgorod-Kursk oblast junction), striking the most vulnerable part of the complex.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/fedorenkoys_1828_v1.mp4"
+   ]
+  },
+  {
+   "h": "1s9s3ny",
+   "name": "Drones attack Perm oil pumping station, tanks burning",
+   "date": "2026-04-29",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Radio Svoboda (Apr 29, video attached) says the SBU stated it hit the Russian oil pumping station near Perm, more than 1,500 km from Ukraine, with nearly all storage tanks burning; Exile+ (Apr 30, photo attached) confirms that as of 13:15 on Apr 30 at least 4 tanks of 50,000 cubic metres each were destroyed or burning, a total of 200,000 cubic metres of commercial oil.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/svoboda_radio_45207_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exile_plus_1045_1.jpg"
+   ]
+  },
+  {
+   "h": "p8357d",
+   "name": "Drones hit AVT-4 unit at LUKOIL-Permnefteorgsintez refinery",
+   "date": "2026-04-30",
+   "set": {
+    "weapon": "Liutyi (OSINT estimate)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Apr 30, image attached) says media material confirms a Liutyi UAV hit on the AVT-4 unit, in particular its vacuum column, with the fire spreading to the atmospheric column; it says hitting both columns effectively disables the unit.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_19753_1.jpg"
+   ]
+  },
+  {
+   "h": "agjwqx",
+   "name": "Drones hit two explosives workshops at Sverdlov plant in Dzerzhinsk",
+   "date": "2026-04-30",
+   "set": {
+    "weapon": "Liutyi (OSINT estimate)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Kiber Boroshno (May 5, image attached) says two An-196 Liutyi UAVs hit two explosives production workshops of the plant (a producer of TNT, RDX and HMX), despite three Pantsir-S1 systems covering the site, and that both hit workshops have massive earth embankments.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12945_1.jpg"
+   ]
+  },
+  {
+   "h": "10qw29c",
+   "name": "Seven cars of passenger train derail in Bryandino",
+   "date": "2026-04-03",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. RZD (via ASTRA, Apr 3) reported the derailment of 7 cars of the Chelyabinsk-Moscow passenger train near Bryandino station and sent medical teams; RusNews says at least 7 people were injured, one of them a child, and that no one died (photos attached). The preliminary cause given above is the improper condition of the track; no sabotage claim or official statement of an attack was found. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_108772_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/rusnews_82674_1.jpg"
+   ]
+  },
+  {
+   "h": "1mjkdy8",
+   "name": "Roof fire at Moscow Higher Combined Arms Command School",
+   "date": "2026-04-05",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Apr 5, photo attached) relays reports from what it calls hostile resources that the roof of the Moscow Higher Combined Arms Command School is burning; no attack, sabotage or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18461_1.jpg"
+   ]
+  },
+  {
+   "h": "okt1nu",
+   "name": "Fire at Giant shopping and entertainment center in Kaliningrad",
+   "date": "2026-04-05",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Gorod55, Snob and Fontanka (sources listed) report the large fire at the Giant shopping and entertainment centre; no attack, sabotage or claim is stated, and no Telegram post with photo or video was found. Stays N/A."
+  },
+  {
+   "h": "10avg2a",
+   "name": "Fire in glass factory workshop in Zhukovo",
+   "date": "2026-04-06",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Rambler (source listed) reports the fire at the glass factory workshop; no attack, sabotage or claim is stated, and no Telegram post with photo or video was found. Stays N/A."
+  },
+  {
+   "h": "10usyh4",
+   "name": "Pensioner sets fire to police station entrance in Svobodny",
+   "date": "2026-04-09",
+   "set": {
+    "weapon": "Arson"
+   },
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. RusNews (Apr 10, video attached) says police in Svobodny detained a 61-year-old local man who set fire to the entrance of the city police department in the evening and that a criminal case was opened; motives were being established. No Ukrainian unit or official claimed it. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/rusnews_82978_v1.mp4"
+   ]
+  },
+  {
+   "h": "1dqz5ad",
+   "name": "Warehouse explosion in Vladikavkaz kills two",
+   "date": "2026-04-10",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Apr 10, video attached) reported a powerful explosion in Vladikavkaz and said details were being clarified; the warehouse and casualty details in the description above come from the original entry's sources. No attack or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18662_v1.mp4"
+   ]
+  },
+  {
+   "h": "19zyh8u",
+   "name": "Fire at Chiryurt substation in Dagestan",
+   "date": "2026-04-11",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Apr 11, photos attached) reports the Chiryurt 330/110/10 kV substation in Kizilyurt is burning, calling it a node substation between the 330 kV trunk grid and the regional 110 kV networks, and says the scale and cause were being clarified; no attack or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18699_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18699_2.jpg"
+   ]
+  },
+  {
+   "h": "e1c1et",
+   "name": "Fire in workshop at Gagarin aircraft plant in Komsomolsk-on-Amur",
+   "date": "2026-04-11",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Kiber Boroshno and Exilenova+ (Apr 11-14, images attached) report a fire in workshop No. 46 of the Komsomolsk-on-Amur aircraft plant (Sukhoi), which makes polymer composite parts for the Su-57 (about 300 part names); no attack, sabotage or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/kiber_boroshno_12781_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18742_1.jpg"
+   ]
+  },
+  {
+   "h": "lgt7ou",
+   "name": "Explosion at gunpowder plant in Kazan, one killed",
+   "date": "2026-04-14",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. ASTRA (Apr 15), citing the Tatarstan head's press service, reports a collapse after the explosion at the Kazan gunpowder plant with casualties, and Exilenova+ (Apr 14) relays the authorities' comment that the cause was technogenic, there were injured, all services were on site and the production process was not stopped (images attached); no attack or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_109813_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18749_1.jpg"
+   ]
+  },
+  {
+   "h": "1kpto8h",
+   "name": "Explosion at Kommunar plant in Petra Dubrava",
+   "date": "2026-04-15",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Apr 15) says a powerful explosion sounded in the industrial zone of Samara and gives a geolocated map (image attached); no attack or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_18810_1.jpg"
+   ]
+  },
+  {
+   "h": "adnocp",
+   "name": "Fire at Baltic Ship Repair Plant in Saint Petersburg",
+   "date": "2026-04-18",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. ASTRA (Apr 18), citing Fontanka, says a fire broke out in the Saint Petersburg sea port and the preliminary causes are not linked to outside interference; Supernova+ posted the same report with the coordinates 59.873474, 30.219619 (videos attached). No attack or claim is stated. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_110197_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/supernova_plus_50734_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/supernova_plus_50734_v2.mp4"
+   ]
+  },
+  {
+   "h": "13348",
+   "name": "LSR partisans burn oil-hauling electric locomotive in Novokuibyshevsk",
+   "date": "2026-04-03",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says it put 2 expensive electric locomotives hauling oil for export out of action (the record counts at least 1) in a strike on the logistics of the Novokuibyshevsk refinery (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/457#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_457_poster.jpg"
+   ]
+  },
+  {
+   "h": "c2zko1",
+   "name": "LSR partisans burn relay cabinet on military unit railway, Volgograd",
+   "date": "2026-04-06",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says two relay cabinets on the line towards the warehouse of military unit 51473 (37th railway brigade detachment, whose task is keeping the track working for military transport) were put out of action (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/458#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_458_poster.jpg"
+   ]
+  },
+  {
+   "h": "1jraeet",
+   "name": "LSR partisans burn relay cabinet in Tver",
+   "date": "2026-04-07",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the target was the logistics of the Tver Carriage Works (Transmashholding), which it says repairs equipment damaged on the battlefield and supplies the front (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/459#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_459_poster.jpg"
+   ]
+  },
+  {
+   "h": "1f4io2i",
+   "name": "LSR partisans burn power transformer near Nizhny Novgorod",
+   "date": "2026-04-09",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says a power transformer valued at $500,000 was destroyed in the central district of Nizhny Novgorod, in an action aimed at cutting power to a number of military facilities (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/460#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_460_poster.jpg"
+   ]
+  },
+  {
+   "h": "6884l5",
+   "name": "Atesh partisans set fire to diesel locomotive near Likhovskoy",
+   "date": "2026-04-12",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): Atesh says its agents destroyed a diesel locomotive \"beyond repair\" at Likhovskoy station in Rostov Oblast and calls the junction a key transit point for military cargo towards the Zaporizhzhia direction (claim post and video attached). Not independently verified.",
+   "media": [
+    "https://t.me/atesh_ua/9700#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fatesh_ua_9700_poster.jpg"
+   ]
+  },
+  {
+   "h": "1uf7y21",
+   "name": "LSR partisans set fire to communications tower in Melenki",
+   "date": "2026-04-13",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the target was the communications and reconnaissance equipment of V/O Izotop, a Rosatom enterprise (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/469#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_469_poster.jpg"
+   ]
+  },
+  {
+   "h": "1dcjg4z",
+   "name": "LSR partisans burn locomotive in Saint Petersburg",
+   "date": "2026-04-15",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says a rare CHME3T diesel locomotive (a modernised and costlier version of the CHME3) used to supply the front was put out of action, with its control cab burned out (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/470#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_470_poster.jpg"
+   ]
+  },
+  {
+   "h": "cw4hch",
+   "name": "LSR partisans burn relay cabinet in Tula",
+   "date": "2026-04-16",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the burned cabinet was one guarded by military unit 5580 of the Rosgvardia in Tula, which it says escorts military freight on the railways (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/471#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_471_poster.jpg"
+   ]
+  },
+  {
+   "h": "jrnsfk",
+   "name": "LSR partisans set fire to communications tower in Chapayevsk",
+   "date": "2026-04-19",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the target was the reconnaissance equipment of the Volga Region Test Range (FKP PGBIP: munitions testing and quality assessment, also an ammunition store) (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/477#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_477_poster.jpg"
+   ]
+  },
+  {
+   "h": "1k7o96s",
+   "name": "LSR partisans burn relay cabinet in Navlinsky",
+   "date": "2026-04-22",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the target was the logistics of the Navlya plant \"Promsvyaz\", which it says makes dual-use equipment, special communications for the army and armoured special vehicles for laying communications (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/479#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_479_poster.jpg"
+   ]
+  },
+  {
+   "h": "1ybtkqt",
+   "name": "LSR partisans set fire to locomotive in Tolyatti",
+   "date": "2026-04-24",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the burned locomotive was a VL-10U (\"heavy-duty\") electric locomotive at Zhigulyovskoye More station in Tolyatti, used to haul heavy military trains (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/487#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_487_poster.jpg"
+   ]
+  },
+  {
+   "h": "15hbc4i",
+   "name": "LSR partisans burn relay cabinet near Vologda",
+   "date": "2026-04-26",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says the action paralysed logistics on a section of the Northern Railway, at the \"Dikaya\" station, through which it says tonnes of trains with military and dual-use cargo pass (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/488#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_488_poster.jpg"
+   ]
+  },
+  {
+   "h": "f2aux5",
+   "name": "LSR partisans burn EW communications tower near military airfield",
+   "date": "2026-04-28",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says it struck reconnaissance means and EW antennas covering the Uktus airfield, now used as a rear helicopter site for training and repairs (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/489#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_489_poster.jpg"
+   ]
+  },
+  {
+   "h": "6ompwe",
+   "name": "LSR partisans burn power transformer in Solyanka",
+   "date": "2026-04-29",
+   "set": {
+    "weapon": "Arson",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): the LSR channel says it disrupted pilot training at the Privolzhsky airfield training and combat centre (MiG-29SMT trainers) (claim post attached). Not independently verified.",
+   "media": [
+    "https://t.me/soprotivleniye_lsr/490#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_490_poster.jpg"
    ]
   }
  ]
