@@ -1,35 +1,18 @@
 {
- "get": [],
- "probe": [
-  {
-   "id": "gs0911",
-   "ch": "GeneralStaffZSU",
-   "from": 38410,
-   "to": 38515
-  },
-  {
-   "id": "gs1415",
-   "ch": "GeneralStaffZSU",
-   "from": 38640,
-   "to": 38690
-  },
-  {
-   "id": "gs1819",
-   "ch": "GeneralStaffZSU",
-   "from": 38780,
-   "to": 38860
-  },
-  {
-   "id": "gs2223",
-   "ch": "GeneralStaffZSU",
-   "from": 38950,
-   "to": 39030
-  },
-  {
-   "id": "gs2526",
-   "ch": "GeneralStaffZSU",
-   "from": 39110,
-   "to": 39160
-  }
- ]
+ "get": [
+  "https://t.me/GeneralStaffZSU/38684",
+  "https://t.me/GeneralStaffZSU/38718",
+  "https://t.me/GeneralStaffZSU/38852",
+  "https://t.me/GeneralStaffZSU/39022",
+  "https://t.me/GeneralStaffZSU/39143",
+  "https://t.me/exilenova_plus/20808",
+  "https://t.me/exilenova_plus/20897",
+  "https://t.me/exilenova_plus/20899",
+  "https://t.me/exilenova_plus/20916",
+  "https://t.me/exilenova_plus/20221",
+  "https://t.me/exilenova_plus/20217",
+  "https://t.me/exilenova_plus/20247",
+  "https://t.me/exilenova_plus/20254"
+ ],
+ "probe": []
 }
