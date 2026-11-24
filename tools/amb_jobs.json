@@ -1,1 +1,90 @@
-{"get": ["https://t.me/SBUkr/17919", "https://t.me/SBUkr/17953", "https://t.me/SBUkr/17940"], "probe": []}
+{
+ "get": [],
+ "probe": [],
+ "scan": [
+  {
+   "id": "exilenova_plus",
+   "ch": "exilenova_plus",
+   "before": 21600,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "astrapress",
+   "ch": "astrapress",
+   "before": 114600,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "sbukr",
+   "ch": "SBUkr",
+   "before": 17720,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "ukr_sof",
+   "ch": "ukr_sof",
+   "before": 2915,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "dniproofficial",
+   "ch": "DniproOfficial",
+   "before": 7670,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "kiber_boroshno",
+   "ch": "kiber_boroshno",
+   "before": 13150,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "dosye_shpiona",
+   "ch": "dosye_shpiona",
+   "before": 780,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "informnapalm",
+   "ch": "informnapalm",
+   "before": 27700,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "chernayaiskra2",
+   "ch": "chernayaiskra2",
+   "before": 340,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "atesh_ua",
+   "ch": "atesh_ua",
+   "before": 10200,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "soprotivleniye_lsr",
+   "ch": "soprotivleniye_lsr",
+   "before": 540,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  },
+  {
+   "id": "rospartizan",
+   "ch": "rospartizan",
+   "before": 3560,
+   "stop_date": "2025-12-30",
+   "max_pages": 1200
+  }
+ ]
+}

@@ -205,9 +205,44 @@ def do_xtimeline(handle):
         out['tweets'].append({'id': t.get('id_str'), 'date': t.get('created_at'), 'text': (t.get('full_text') or t.get('text') or '')[:300], 'videos': len(vids)})
     return out
 
+
+# ---------------------------------------------------------------- scan: walk a public channel backwards with ?before=ID (20 posts per request), metadata only
+COORD = re.compile(r'(\d{2}\.\d{3,8})\s*[,;]\s*(\d{2,3}\.\d{3,8})')
+def do_scan(job):
+    ch = job['ch']; before = int(job['before']); stop = job['stop_date']
+    out = {'id': job['id'], 'ch': ch, 'posts': [], 'pages': 0}
+    seen = set()
+    while out['pages'] < job.get('max_pages', 1200):
+        page = http('https://t.me/s/%s?before=%d' % (ch, before))
+        out['pages'] += 1
+        bl = parse_blocks(page) if page else []
+        ids = []
+        for x in bl:
+            try: pid = int(x['post'].split('/')[1])
+            except Exception: continue
+            ids.append(pid)
+            if pid in seen: continue
+            seen.add(pid)
+            out['posts'].append({'id': pid, 'date': x['date'], 'text': x['text'][:420],
+                                 'coords': [[float(a), float(b)] for a, b in COORD.findall(x['text'])][:3],
+                                 'v': bool(x['has_video']), 'nv': len(x['videos']), 'np': len(x['photos'])})
+        if not ids: break
+        nb = min(ids)
+        if nb >= before: break
+        before = nb
+        olds = [p['date'] for p in out['posts'] if p['date']]
+        if olds and min(olds)[:10] < stop: break
+    log('SCAN done', ch, len(out['posts']), 'posts in', out['pages'], 'pages')
+    json.dump(out, open(os.path.join(OUT, 'scan_%s.json' % job['id']), 'w', encoding='utf-8'), ensure_ascii=False)
+    return {'id': job['id'], 'ch': ch, 'n': len(out['posts']), 'pages': out['pages']}
+
 def main():
     jobs = json.load(open(sys.argv[1], encoding='utf-8'))
     res = {'get': [], 'probe': []}
+    if jobs.get('scan'):
+        from concurrent.futures import ThreadPoolExecutor
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            res['scan'] = list(ex.map(do_scan, jobs['scan']))
     for u in jobs.get('get', []):
         log('GET', u); res['get'].append(do_get(u))
         if fails['n'] >= 12: log('too many failures, stopping'); break
