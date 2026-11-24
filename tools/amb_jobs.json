@@ -1,47 +1,35 @@
 {
- "get": [
-  "https://t.me/exilenova_plus/20040",
-  "https://t.me/exilenova_plus/20136",
-  "https://t.me/exilenova_plus/20133",
-  "https://t.me/exilenova_plus/20484",
-  "https://t.me/exilenova_plus/20490",
-  "https://t.me/exilenova_plus/20470",
-  "https://t.me/exilenova_plus/20733",
-  "https://t.me/exilenova_plus/20892",
-  "https://t.me/exilenova_plus/20894",
-  "https://t.me/exilenova_plus/20896",
-  "https://t.me/exilenova_plus/21149",
-  "https://t.me/exilenova_plus/21307",
-  "https://t.me/exilenova_plus/21541",
-  "https://t.me/exilenova_plus/21501",
-  "https://t.me/exilenova_plus/21502",
-  "https://t.me/exilenova_plus/21552",
-  "https://t.me/GeneralStaffZSU/38213",
-  "https://t.me/GeneralStaffZSU/38322",
-  "https://t.me/GeneralStaffZSU/38394",
-  "https://t.me/GeneralStaffZSU/38395",
-  "https://t.me/GeneralStaffZSU/38592",
-  "https://t.me/GeneralStaffZSU/38593",
-  "https://t.me/GeneralStaffZSU/38767",
-  "https://t.me/GeneralStaffZSU/38887",
-  "https://t.me/GeneralStaffZSU/39055",
-  "https://t.me/GeneralStaffZSU/39224",
-  "https://t.me/GeneralStaffZSU/39271",
-  "https://t.me/GeneralStaffZSU/39309",
-  "https://t.me/GeneralStaffZSU/39351"
- ],
+ "get": [],
  "probe": [
   {
-   "id": "e_perm",
-   "ch": "exilenova_plus",
-   "from": 20180,
-   "to": 20300
+   "id": "gs0911",
+   "ch": "GeneralStaffZSU",
+   "from": 38410,
+   "to": 38515
   },
   {
-   "id": "e_kstovo",
-   "ch": "exilenova_plus",
-   "from": 20830,
-   "to": 20890
+   "id": "gs1415",
+   "ch": "GeneralStaffZSU",
+   "from": 38640,
+   "to": 38690
+  },
+  {
+   "id": "gs1819",
+   "ch": "GeneralStaffZSU",
+   "from": 38780,
+   "to": 38860
+  },
+  {
+   "id": "gs2223",
+   "ch": "GeneralStaffZSU",
+   "from": 38950,
+   "to": 39030
+  },
+  {
+   "id": "gs2526",
+   "ch": "GeneralStaffZSU",
+   "from": 39110,
+   "to": 39160
   }
  ]
 }
