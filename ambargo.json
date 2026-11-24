@@ -1338,7 +1338,16 @@
     "weapon": "Strike UAVs (model not stated)",
     "operation": "Deep Strike"
    },
-   "note": "Correction: Exilenova+ (Mar 13, photo attached) places this attack at the Uralchem plant in Kirovo-Chepetsk, Kirov Oblast, not in Berezniki; the location and coordinates of this record point to Berezniki, Perm Krai. Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ adds that employees were evacuated to shelters and the incoming shift was sent home; no unit or official Ukrainian statement found. Stays N/A.",
+   "note": "Location corrected (Nov 2026): Exilenova+ (Mar 13, photo attached) places this attack at the Uralchem plant in Kirovo-Chepetsk, Kirov Oblast; the record previously pointed to Berezniki, Perm Krai. Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ adds that employees were evacuated to shelters and the incoming shift was sent home; no unit or official Ukrainian statement found. Stays N/A.",
+   "fix": {
+    "name": "Repeat drone attack on Uralchem plant in Kirovo-Chepetsk",
+    "loc": "Kirovo-Chepetsk",
+    "oblast": "Kirov",
+    "coords": [
+     58.533977,
+     49.948495
+    ]
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_17416_1.jpg"
    ]
@@ -1390,10 +1399,15 @@
    "set": {
     "weapon": "HIMARS MLRS"
    },
-   "note": "Detail (Nov 2026): the Belgorod channel Belpepel (Mar 15) cites the governor that two strikes hit energy facilities in Belgorod overnight and says that, per its data, a missile strike hit the Luch CHP plant and several other energy facilities in Belgorod and the Belgorod district (it calls it a missile strike; the HIMARS identification comes from the original record). Correction: the source link already attached to this record (t.me/belpepel/19114) describes the separate substation strike at Sumskaya and Chicherina streets; the post that mentions the Luch CHP is t.me/belpepel/19090 (added).",
+   "note": "Detail (Nov 2026): the Belgorod channel Belpepel (Mar 15) cites the governor that two strikes hit energy facilities in Belgorod overnight and says that, per its data, a missile strike hit the Luch CHP plant and several other energy facilities in Belgorod and the Belgorod district (it calls it a missile strike; the HIMARS identification comes from the original record). The post that stood here before (t.me/belpepel/19114) describes the separate substation strike at Sumskaya and Chicherina streets and was moved to the substation record.",
    "sources": [
     "https://t.me/belpepel/19090"
-   ]
+   ],
+   "fix": {
+    "dropSources": [
+     "https://t.me/belpepel/19114"
+    ]
+   }
   },
   {
    "h": "f2i3nd",
@@ -1402,7 +1416,7 @@
    "set": {
     "weapon": "HIMARS MLRS"
    },
-   "note": "Detail (Nov 2026): Belpepel (Mar 15) describes the consequences of a missile strike on the electrical substation at the corner of Sumskaya and Chicherina streets in Belgorod; neighbouring shops, including an auto-parts store, were damaged as well. The photos show the damaged substation, a shop front and rocket remains (rocket type not stated). Correction: the source link attached to this record (t.me/belpepel/19090) is the post that mentions the Luch CHP; the substation post is t.me/belpepel/19114 (added).",
+   "note": "Detail (Nov 2026): Belpepel (Mar 15) describes the consequences of a missile strike on the electrical substation at the corner of Sumskaya and Chicherina streets in Belgorod; neighbouring shops, including an auto-parts store, were damaged as well. The photos show the damaged substation, a shop front and rocket remains (rocket type not stated). Source note: t.me/belpepel/19090 is the post whose text mentions the Luch CHP, but its photos and video show this substation; the substation text is t.me/belpepel/19114 (added).",
    "sources": [
     "https://t.me/belpepel/19114"
    ],
@@ -1496,7 +1510,12 @@
     "weapon": "Strike UAVs (model not stated)",
     "operation": "Deep Strike"
    },
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): GS - the General Staff statement of Mar 23, 2026 (t.me/GeneralStaffZSU/36420) says Defense Forces units hit the \"Bashneft-Ufaneftekhim\" refinery in Ufa on Mar 22 and overnight into Mar 23, with a fire confirmed; the executing unit was not named. Caveat: the statement names Ufaneftekhim, while Dosye Shpiona and this record name the AVTM-9 unit at Bashneft-Novoil; both are Bashneft refineries in Ufa and no other statement for that night was found, so the match is by city and date. Confidence: low. The Ukrinform link in the source list is dated later and refers to a separate strike on Novoil. Detail (Nov 2026): Exilenova+ (Mar 22) reports a fire near the Bashneft refinery and locals reporting numerous automatic-weapon bursts and explosions in the industrial zone (photo attached).",
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): GS - the General Staff statement of Mar 23, 2026 (t.me/GeneralStaffZSU/36420) says Defense Forces units hit the \"Bashneft-Ufaneftekhim\" refinery in Ufa on Mar 22 and overnight into Mar 23, with a fire confirmed; the executing unit was not named. Caveat: the statement names Ufaneftekhim, while Dosye Shpiona and this record name the AVTM-9 unit at Bashneft-Novoil; both are Bashneft refineries in Ufa and no other statement for that night was found, so the match is by city and date. Confidence: low. The Ukrinform link formerly listed here described a separate, later strike on Novoil and was removed. Detail (Nov 2026): Exilenova+ (Mar 22) reports a fire near the Bashneft refinery and locals reporting numerous automatic-weapon bursts and explosions in the industrial zone (photo attached).",
+   "fix": {
+    "dropSources": [
+     "https://www.ukrinform.ua/rubric-ato/4108762-genstab-pidtverdiv-urazenna-npz-basneftnovojl-v-ufi.html"
+    ]
+   },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_17785_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_36420_1.jpg"
@@ -1751,7 +1770,10 @@
     "weapon": "Arson",
     "operation": "Unnamed"
    },
-   "note": "Correction: the description above (Sheregesh mine) belongs to a different action. Detail (Nov 2026): the LSR channel says the equipment of a relay cabinet on the railway line to a defence enterprise in Izhevsk was burned out, calling it a logistics facility of the Kalashnikov concern (small arms, missiles, UAVs and ammunition are made in Izhevsk, per the post) (claim post attached). Not independently verified.",
+   "note": "Detail (Nov 2026): the LSR channel says the burned-out relay cabinet equipment stood on the railway line to a defence enterprise; Izhevsk makes small arms, missiles, UAVs and ammunition, per the post (claim post attached). Not independently verified.",
+   "fix": {
+    "note": "Attack on a logistics facility of the Kalashnikov concern. LSR partisans set fire to a relay cabinet on the railway."
+   },
    "media": [
     "https://t.me/soprotivleniye_lsr/412#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_412_poster.jpg"
    ]
