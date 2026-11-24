@@ -121,7 +121,7 @@ def do_get(url):
     ch, pid = m.group(1), m.group(2)
     x = embed(ch, pid)
     if not x: res['err'] = 'embed page not readable'; return res
-    res.update({'date': x['date'], 'text': x['text'][:1200], 'ok': True, 'files': [], 'poster': None, 'big_video': False})
+    res.update({'date': x['date'], 'text': x['text'][:5000], 'ok': True, 'files': [], 'poster': None, 'big_video': False})
     for i, u in enumerate(x['photos'][:6]):
         r = save_photo(u, '%s_%s_%d' % (ch, pid, i + 1))
         if r: res['files'].append(r)
