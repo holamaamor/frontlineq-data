@@ -1,119 +1,85 @@
 {
- "get": [
-  "https://t.me/exilenova_plus/18338",
-  "https://t.me/svoboda_radio/44641",
-  "https://t.me/DniproOfficial/7440",
-  "https://t.me/soprotivleniye_lsr/457",
-  "https://t.me/astrapress/108772",
-  "https://t.me/rusnews/82674",
-  "https://t.me/robert_magyar/2170",
-  "https://t.me/kiber_boroshno/12748",
-  "https://t.me/kiber_boroshno/12763",
-  "https://t.me/robert_magyar/2171",
-  "https://t.me/exilenova_plus/18418",
-  "https://t.me/exilenova_plus/18461",
-  "https://t.me/milinua/51505",
-  "https://t.me/astrapress/108981",
-  "https://t.me/exilenova_plus/18449",
-  "https://t.me/glebnikitin_nn/8920",
-  "https://t.me/exilenova_plus/18456",
-  "https://t.me/exilenova_plus/18460",
-  "https://t.me/robert_magyar/2173",
-  "https://t.me/kiber_boroshno/12761",
-  "https://t.me/robert_magyar/2177",
-  "https://t.me/exilenova_plus/18493",
-  "https://t.me/exilenova_plus/18545",
-  "https://t.me/soprotivleniye_lsr/458",
-  "https://t.me/exilenova_plus/18542",
-  "https://t.me/kiber_boroshno/12757",
-  "https://t.me/soprotivleniye_lsr/459",
-  "https://t.me/rusnews/82978",
-  "https://t.me/exilenova_plus/18611",
-  "https://t.me/GeneralStaffZSU/37100",
-  "https://t.me/soprotivleniye_lsr/460",
-  "https://t.me/ukr_sof/2695",
-  "https://t.me/exilenova_plus/18646",
-  "https://t.me/exilenova_plus/18670",
-  "https://t.me/exilenova_plus/18662",
-  "https://t.me/exilenova_plus/18676",
-  "https://t.me/svoboda_radio/44857",
-  "https://t.me/GeneralStaffZSU/37182",
-  "https://t.me/exilenova_plus/18699",
-  "https://t.me/kiber_boroshno/12781",
-  "https://t.me/exilenova_plus/18742",
-  "https://t.me/atesh_ua/9700",
-  "https://t.me/soprotivleniye_lsr/469",
-  "https://t.me/exilenova_plus/18705",
-  "https://t.me/astrapress/109813",
-  "https://t.me/exilenova_plus/18749",
-  "https://t.me/soprotivleniye_lsr/470",
-  "https://t.me/exilenova_plus/19082",
-  "https://t.me/milinua/51831",
-  "https://t.me/kiber_boroshno/12800",
-  "https://t.me/exilenova_plus/18810",
-  "https://t.me/exilenova_plus/18883",
-  "https://t.me/kiber_boroshno/12807",
-  "https://t.me/usf_army/1799",
-  "https://t.me/exilenova_plus/18855",
-  "https://t.me/soprotivleniye_lsr/471",
-  "https://t.me/exilenova_plus/19004",
-  "https://t.me/robert_magyar/2226",
-  "https://t.me/DniproOfficial/7466",
-  "https://t.me/DniproOfficial/7467",
-  "https://t.me/robert_magyar/2255",
-  "https://t.me/exilenova_plus/18953",
-  "https://t.me/milinua/51934",
-  "https://t.me/zloyodessit/27057",
-  "https://t.me/astrapress/110197",
-  "https://t.me/supernova_plus/50734",
-  "https://t.me/supernova_plus/50733",
-  "https://t.me/soprotivleniye_lsr/477",
-  "https://t.me/milinua/51950",
-  "https://t.me/exilenova_plus/19104",
-  "https://t.me/exilenova_plus/19308",
-  "https://t.me/exilenova_plus/19459",
-  "https://t.me/GeneralStaffZSU/37562",
-  "https://t.me/exilenova_plus/19191",
-  "https://t.me/soprotivleniye_lsr/479",
-  "https://t.me/exilenova_plus/19276",
-  "https://t.me/radiosvoboda/96830",
-  "https://t.me/kiber_boroshno/12930",
-  "https://t.me/soprotivleniye_lsr/487",
-  "https://t.me/informnapalm/27369",
-  "https://t.me/kiber_boroshno/12917",
-  "https://t.me/GeneralStaffZSU/38028",
-  "https://t.me/kiber_boroshno/12976",
-  "https://t.me/exilenova_plus/19428",
-  "https://t.me/kiber_boroshno/12866",
-  "https://t.me/DniproOfficial/7497",
-  "https://t.me/soprotivleniye_lsr/488",
-  "https://t.me/astrapress/110832",
-  "https://t.me/exilenova_plus/19447",
-  "https://t.me/robert_magyar/2266",
-  "https://t.me/exilenova_plus/19518",
-  "https://t.me/kiber_boroshno/12884",
-  "https://t.me/soprotivleniye_lsr/489",
-  "https://t.me/robert_magyar/2283",
-  "https://t.me/kiber_boroshno/12897",
-  "https://t.me/dosye_shpiona/753",
-  "https://t.me/fedorenkoys/1828",
-  "https://t.me/robert_magyar/2292",
-  "https://t.me/svoboda_radio/45207",
-  "https://t.me/exile_plus/1045",
-  "https://t.me/soprotivleniye_lsr/490",
-  "https://t.me/exilenova_plus/19753",
-  "https://t.me/kiber_boroshno/12945"
- ],
+ "get": [],
  "probe": [
   {
-   "id": "p10",
-   "ch": "exilenova_plus",
-   "q": "Калининград Гигант"
+   "id": "g_ting1",
+   "ch": "GeneralStaffZSU",
+   "q": "Тінгута"
   },
   {
-   "id": "p15",
+   "id": "g_ting2",
+   "ch": "GeneralStaffZSU",
+   "q": "Тингута"
+  },
+  {
+   "id": "g_ros1",
+   "ch": "GeneralStaffZSU",
+   "q": "Россош"
+  },
+  {
+   "id": "g_ros2",
+   "ch": "GeneralStaffZSU",
+   "q": "Росош"
+  },
+  {
+   "id": "g_ros3",
+   "ch": "GeneralStaffZSU",
+   "q": "Розсош"
+  },
+  {
+   "id": "g_belg",
+   "ch": "GeneralStaffZSU",
+   "q": "Бєлгород"
+  },
+  {
+   "id": "g_belg2",
+   "ch": "GeneralStaffZSU",
+   "q": "підстанція Південна"
+  },
+  {
+   "id": "k_ting",
+   "ch": "kiber_boroshno",
+   "q": "Тінгута"
+  },
+  {
+   "id": "k_ting2",
+   "ch": "kiber_boroshno",
+   "q": "Тингута"
+  },
+  {
+   "id": "e_gig1",
    "ch": "exilenova_plus",
-   "q": "Жуково стекольный"
+   "q": "Гігант"
+  },
+  {
+   "id": "e_gig2",
+   "ch": "exilenova_plus",
+   "q": "Калінінград"
+  },
+  {
+   "id": "e_zhu1",
+   "ch": "exilenova_plus",
+   "q": "Жуково"
+  },
+  {
+   "id": "e_zhu2",
+   "ch": "exilenova_plus",
+   "q": "скляний"
+  },
+  {
+   "id": "e_msk",
+   "ch": "exilenova_plus",
+   "q": "командне училище"
+  },
+  {
+   "id": "d_ros",
+   "ch": "DniproOfficial",
+   "q": "Россош"
+  },
+  {
+   "id": "k_ros",
+   "ch": "kiber_boroshno",
+   "q": "Россош"
   }
  ]
 }
