@@ -1,77 +1,104 @@
 {
- "get": [
-  "https://t.me/exilenova_plus/15232",
-  "https://t.me/astrapress/100968",
-  "https://t.me/exilenova_plus/15353",
-  "https://t.me/exilenova_plus/15352",
-  "https://t.me/exilenova_plus/15433",
-  "https://t.me/astrapress/101342",
-  "https://t.me/exilenova_plus/15390",
-  "https://t.me/exilenova_plus/15409",
-  "https://t.me/astrapress/101332",
-  "https://t.me/exilenova_plus/15431",
-  "https://t.me/exilenova_plus/15445",
-  "https://t.me/astrapress/101601",
-  "https://t.me/exilenova_plus/15517",
-  "https://t.me/ukr_sof/2398",
-  "https://t.me/exilenova_plus/15554",
-  "https://t.me/astrapress/101867",
-  "https://t.me/exilenova_plus/15537",
-  "https://t.me/exilenova_plus/15573",
-  "https://t.me/DniproOfficial/7063",
-  "https://t.me/exilenova_plus/15641",
-  "https://t.me/soprotivleniye_lsr/355",
-  "https://t.me/exilenova_plus/15681",
-  "https://t.me/exilenova_plus/16109",
-  "https://t.me/exilenova_plus/16110",
-  "https://t.me/astrapress/104142",
-  "https://t.me/astrapress/104230",
-  "https://t.me/astrapress/104185",
-  "https://t.me/exilenova_plus/16513",
-  "https://t.me/astrapress/104760",
-  "https://t.me/exilenova_plus/16679",
-  "https://t.me/astrapress/105093",
-  "https://t.me/exilenova_plus/16786",
-  "https://t.me/exilenova_plus/17324",
-  "https://t.me/exilenova_plus/17510",
-  "https://t.me/DniproOfficial/7299",
-  "https://t.me/exilenova_plus/17594",
-  "https://t.me/astrapress/107466",
-  "https://t.me/exilenova_plus/17941",
-  "https://t.me/astrapress/108082",
-  "https://t.me/exilenova_plus/18014",
-  "https://t.me/exilenova_plus/18030",
-  "https://t.me/exilenova_plus/18067",
-  "https://t.me/astrapress/108270",
-  "https://t.me/astrapress/108775",
-  "https://t.me/exilenova_plus/18417",
-  "https://t.me/astrapress/108963",
-  "https://t.me/exilenova_plus/18501",
-  "https://t.me/exilenova_plus/18656",
-  "https://t.me/rospartizan/3493",
-  "https://t.me/astrapress/109746",
-  "https://t.me/exilenova_plus/18785",
-  "https://t.me/exilenova_plus/18811",
-  "https://t.me/astrapress/109825",
-  "https://t.me/exilenova_plus/18850",
-  "https://t.me/exilenova_plus/18879",
-  "https://t.me/astrapress/110349",
-  "https://t.me/astrapress/110303",
-  "https://t.me/exilenova_plus/19189",
-  "https://t.me/exilenova_plus/19528",
-  "https://t.me/astrapress/111226",
-  "https://t.me/astrapress/111171",
-  "https://t.me/astrapress/111299",
-  "https://t.me/astrapress/111363",
-  "https://t.me/exilenova_plus/20328",
-  "https://t.me/exilenova_plus/20335",
-  "https://t.me/exilenova_plus/20293",
-  "https://t.me/astrapress/112898",
-  "https://t.me/astrapress/112872",
-  "https://t.me/astrapress/112923",
-  "https://t.me/astrapress/114169",
-  "https://t.me/exilenova_plus/21552",
-  "https://t.me/exilenova_plus/16765"
- ],
- "probe": []
+ "get": [],
+ "probe": [],
+ "scan": [
+  {
+   "id": "jul_exilenova_plus",
+   "ch": "exilenova_plus",
+   "before": 28500,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_astrapress",
+   "ch": "astrapress",
+   "before": 121200,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_sbukr",
+   "ch": "SBUkr",
+   "before": 18200,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_ukr_sof",
+   "ch": "ukr_sof",
+   "before": 3030,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_dniproofficial",
+   "ch": "DniproOfficial",
+   "before": 7900,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_kiber_boroshno",
+   "ch": "kiber_boroshno",
+   "before": 13700,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_dosye_shpiona",
+   "ch": "dosye_shpiona",
+   "before": 810,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_informnapalm",
+   "ch": "informnapalm",
+   "before": 28300,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_chernayaiskra2",
+   "ch": "chernayaiskra2",
+   "before": 520,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_atesh_ua",
+   "ch": "atesh_ua",
+   "before": 10900,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_soprotivleniye_lsr",
+   "ch": "soprotivleniye_lsr",
+   "before": 620,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_rospartizan",
+   "ch": "rospartizan",
+   "before": 3640,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_generalstaffzsu",
+   "ch": "GeneralStaffZSU",
+   "before": 41350,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  },
+  {
+   "id": "jul_zloyodessit",
+   "ch": "zloyodessit",
+   "before": 28800,
+   "stop_date": "2026-06-29",
+   "max_pages": 1500
+  }
+ ]
 }
