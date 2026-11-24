@@ -150,7 +150,7 @@ def do_probe(job):
             x = embed(ch, pid)
             if x: out['posts'].append(x)
     for x in out['posts']:
-        x['text'] = x['text'][:700]
+        x['text'] = x['text'][:1800]
         x['n_photos'] = len(x.pop('photos')); x['n_videos'] = len(x.pop('videos')); x.pop('thumbs'); x.pop('preview')
     return out
 

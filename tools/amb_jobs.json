@@ -2,84 +2,16 @@
  "get": [],
  "probe": [
   {
-   "id": "g_ting1",
+   "id": "gs_a",
    "ch": "GeneralStaffZSU",
-   "q": "Тінгута"
+   "from": 36940,
+   "to": 37200
   },
   {
-   "id": "g_ting2",
+   "id": "gs_b",
    "ch": "GeneralStaffZSU",
-   "q": "Тингута"
-  },
-  {
-   "id": "g_ros1",
-   "ch": "GeneralStaffZSU",
-   "q": "Россош"
-  },
-  {
-   "id": "g_ros2",
-   "ch": "GeneralStaffZSU",
-   "q": "Росош"
-  },
-  {
-   "id": "g_ros3",
-   "ch": "GeneralStaffZSU",
-   "q": "Розсош"
-  },
-  {
-   "id": "g_belg",
-   "ch": "GeneralStaffZSU",
-   "q": "Бєлгород"
-  },
-  {
-   "id": "g_belg2",
-   "ch": "GeneralStaffZSU",
-   "q": "підстанція Південна"
-  },
-  {
-   "id": "k_ting",
-   "ch": "kiber_boroshno",
-   "q": "Тінгута"
-  },
-  {
-   "id": "k_ting2",
-   "ch": "kiber_boroshno",
-   "q": "Тингута"
-  },
-  {
-   "id": "e_gig1",
-   "ch": "exilenova_plus",
-   "q": "Гігант"
-  },
-  {
-   "id": "e_gig2",
-   "ch": "exilenova_plus",
-   "q": "Калінінград"
-  },
-  {
-   "id": "e_zhu1",
-   "ch": "exilenova_plus",
-   "q": "Жуково"
-  },
-  {
-   "id": "e_zhu2",
-   "ch": "exilenova_plus",
-   "q": "скляний"
-  },
-  {
-   "id": "e_msk",
-   "ch": "exilenova_plus",
-   "q": "командне училище"
-  },
-  {
-   "id": "d_ros",
-   "ch": "DniproOfficial",
-   "q": "Россош"
-  },
-  {
-   "id": "k_ros",
-   "ch": "kiber_boroshno",
-   "q": "Россош"
+   "from": 37330,
+   "to": 37430
   }
  ]
 }
