@@ -52,3 +52,8 @@ they need insignia, a unique name for text matching and a deploy). Optional: `ht
 (leave out inputs of steps that did not run). Then
 `git add auto.json state reports && git commit -m "Daily auto update <date>: <one-line summary>" && git pull --rebase && git push`.
 The final answer of the task is the report text itself (Turkish).
+
+## Repo size note
+`amb/media/` holds the photos and short videos linked from `ambargo.json` (they grow every month; videos are re-encoded to 480p). The daily task never needs
+them: clone with `git clone --depth 1 --single-branch --branch main` and, if the checkout is slow, `git sparse-checkout set --no-cone '/*' '!/amb/media'`.
+Never delete or rename files in `amb/media/` (the site links to them by raw.githubusercontent.com URL).

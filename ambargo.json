@@ -1,18 +1,6 @@
 {
- "updated": "2026-11-24 19:30",
+ "updated": "2026-11-24 21:10",
  "records": [
-  {
-   "h": "wzz78j",
-   "name": "Drone attack on oil depot in Stary Oskol",
-   "date": "2026-01-06",
-   "set": {
-    "weapon": "Arson"
-   },
-   "note": "Detail (Nov 2026): claimed by the LSR partisan channel on Telegram; the claim post is attached. Not independently verified.",
-   "media": [
-    "https://t.me/soprotivleniye_lsr/347"
-   ]
-  },
   {
    "h": "6zfdly",
    "name": "LSR partisans burn relay cabinet on air base rail route, Michurinsk",
@@ -22,6 +10,9 @@
    },
    "note": "Detail (Nov 2026): the LSR channel says a relay cabinet on the road serving the Tambov-region military air base was burned to disrupt the base's logistics and aircraft maintenance (claim post attached). Not independently verified.",
    "media": [
+    "https://t.me/soprotivleniye_lsr/348#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_348_poster.jpg"
+   ],
+   "sources": [
     "https://t.me/soprotivleniye_lsr/348"
    ]
   },
@@ -34,6 +25,9 @@
    },
    "note": "Detail (Nov 2026): claim post of the \"Chernaya Iskra\" channel attached. Not independently verified.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/chernayaiskra2_126_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/chernayaiskra2/126"
    ]
   },
@@ -54,6 +48,9 @@
    },
    "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
    "media": [
+    "https://t.me/soprotivleniye_lsr/356#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_356_poster.jpg"
+   ],
+   "sources": [
     "https://t.me/soprotivleniye_lsr/356"
    ]
   },
@@ -66,6 +63,12 @@
    },
    "note": "Detail (Nov 2026): claim post of the \"Atesh\" channel attached. Not independently verified.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9130_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9130_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9130_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9130_3.jpg"
+   ],
+   "sources": [
     "https://t.me/atesh_ua/9130"
    ]
   },
@@ -78,6 +81,14 @@
    },
    "note": "Detail (Nov 2026): claim post of the \"Atesh\" channel attached. Not independently verified.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9155_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9155_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9155_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9155_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9155_3.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/atesh_ua_9155_4.jpg"
+   ],
+   "sources": [
     "https://t.me/atesh_ua/9155"
    ]
   },
@@ -90,6 +101,9 @@
    },
    "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
    "media": [
+    "https://t.me/soprotivleniye_lsr/365#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_365_poster.jpg"
+   ],
+   "sources": [
     "https://t.me/soprotivleniye_lsr/365"
    ]
   },
@@ -102,6 +116,9 @@
    },
    "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
    "media": [
+    "https://t.me/soprotivleniye_lsr/366#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_366_poster.jpg"
+   ],
+   "sources": [
     "https://t.me/soprotivleniye_lsr/366"
    ]
   },
@@ -114,6 +131,9 @@
    },
    "note": "Detail (Nov 2026): claim post of the LSR channel attached. Not independently verified.",
    "media": [
+    "https://t.me/soprotivleniye_lsr/367#flposter=https%3A%2F%2Fraw.githubusercontent.com%2Fholamaamor%2Ffrontlineq-data%2Fmain%2Famb%2Fmedia%2Fsoprotivleniye_lsr_367_poster.jpg"
+   ],
+   "sources": [
     "https://t.me/soprotivleniye_lsr/367"
    ]
   },
@@ -131,6 +151,9 @@
    "date": "2026-01-22",
    "note": "Detail (Nov 2026): the General Staff said units of the Defence Forces hit the Tamannaftogaz oil terminal in Volna (Taman port) overnight on 22 January; explosions and fire were recorded and the extent of damage was \"being clarified\". The same statement listed radar stations in Crimea (59N6-E, 55Zh6, 55Zh6M), a drone depot in Kherson Oblast, a 76th Air Assault Division command post near Selydove and a logistics-brigade ammunition depot at Debaltseve. No executing unit or drone model was named.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/DniproOfficial_7078_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/DniproOfficial/7078"
    ]
   },
@@ -141,7 +164,15 @@
    "set": {
     "weapon": "Kamikaze drones (model not stated)"
    },
-   "note": "Detail (Nov 2026): Militarnyi reports the drones hit around 04:00 on 23 January while local authorities blamed \"falling debris\". Satellite imagery (Planet Labs, published by Radio Svoboda) shows at least one fuel tank destroyed and neighbouring tanks heat-damaged; the fire burned for more than two days. The strike was later confirmed by the General Staff."
+   "note": "Detail (Nov 2026): Militarnyi reports the drones hit around 04:00 on 23 January while local authorities blamed \"falling debris\". Satellite imagery (Planet Labs, published by Radio Svoboda) shows at least one fuel tank destroyed and neighbouring tanks heat-damaged; the fire burned for more than two days. The strike was later confirmed by the General Staff.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15828_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15828_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15835_1.jpg"
+   ],
+   "sources": [
+    "https://t.me/exilenova_plus/15828"
+   ]
   },
   {
    "h": "q9znce",
@@ -152,6 +183,10 @@
    },
    "note": "Detail (Nov 2026): General Staff statement of 26 January: explosions were recorded near the target and elements of the primary oil-processing unit were reportedly hit; the scale of damage was \"being clarified\". Same statement: logistics depots in occupied Donetsk and Zaporizhzhia, a UAV control point near Velyka Novosilka and troop concentrations near Yunakivka and Kolisnykivka.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15943_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15943_1.jpg"
+   ],
+   "sources": [
     "https://t.me/exilenova_plus/15943"
    ]
   },
@@ -161,6 +196,9 @@
    "date": "2026-01-28",
    "note": "Detail (Nov 2026): General Staff (Telegram): a fire of oil products was confirmed at the depot, with thick smoke; results \"being clarified\". Same statement: a Russian drone warehouse and control centre, manpower concentrations near Velyka Novosilka, Shakhove, Hryhorivka, Huliaipole and Kolotylivka, an ammunition depot near Nyzhnya Duvanka and a battalion command post near Berezove. Executing unit and drone model not named.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15981_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/exilenova_plus/15981"
    ]
   },
@@ -178,6 +216,10 @@
    "name": "HIMARS strike on Belgorodskaya CHP plant cuts power and heating",
    "date": "2026-01-24",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15918_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15918_1.jpg"
+   ],
+   "sources": [
     "https://t.me/exilenova_plus/15918"
    ]
   },
@@ -185,7 +227,13 @@
    "h": "r1xszx",
    "name": "Drone attack on electrical substation near Khomutovka",
    "date": "2026-01-04",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Kursk Governor Khinshtein blamed Ukrainian drones for the strike on an energy facility at Khomutovka (115 settlements and 11,000+ consumers lost power); no Ukrainian unit or official claimed it. Stays N/A."
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Kursk Governor Khinshtein blamed Ukrainian drones for the strike on an energy facility at Khomutovka (115 settlements and 11,000+ consumers lost power); no Ukrainian unit or official claimed it. Stays N/A.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15343_1.jpg"
+   ],
+   "sources": [
+    "https://t.me/exilenova_plus/15343"
+   ]
   },
   {
    "h": "1vhajxg",
@@ -203,10 +251,7 @@
    "h": "vhu83o",
    "name": "Drone attack on Nevinnomyssky Azot plant",
    "date": "2026-01-14",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Militarnyi and Euromaidan Press say \"Ukrainian Defence Forces\" struck the plant on 14 January, with fire footage from the Supernova+ channel, but quote no unit or official statement (the General Staff confirmation found in searches concerns the 4 December 2025 strike). Stays N/A.",
-   "media": [
-    "https://t.me/supernova_plus/47406"
-   ]
+   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Militarnyi and Euromaidan Press say \"Ukrainian Defence Forces\" struck the plant on 14 January, with fire footage from the Supernova+ channel, but quote no unit or official statement (the General Staff confirmation found in searches concerns the 4 December 2025 strike). Stays N/A."
   },
   {
    "h": "1mdkai2",
@@ -220,6 +265,10 @@
    "date": "2026-01-17",
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The local head, Alexey Shimko, called the fire at the \"Oka\" substation an accident (24 power cables damaged, 46 diesel generators deployed); no attack or claim stated. Stays N/A.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15688_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15688_v2.mp4"
+   ],
+   "sources": [
     "https://t.me/exilenova_plus/15688"
    ]
   },
@@ -229,6 +278,9 @@
    "date": "2026-01-20",
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Reports (Astra, Governor Klychkov) mention minor damage to fuel and energy infrastructure and partial power and water outages in the Severny and Zheleznodorozhny districts of Oryol; no party claimed it on the record and the drone type is not stated. (A Navy Neptune strike on the same CHP plant was announced on 31 October 2025 - a different event.) Stays N/A.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15776_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/exilenova_plus/15776"
    ]
   },
@@ -238,6 +290,13 @@
    "date": "2026-01-21",
    "note": "Attribution (Nov 2026 N/A review, fifth pass): not a Ukrainian strike. Analysts cited by iStories (ASTRA, Ruslan Leviev, Yan Matveev) say footage shows a Russian air-defence missile that went astray while countering a drone raid on the evening of 20 January; local authorities described a drone strike. Remains were found under the rubble, 13 people were reported injured and 12 buildings damaged. Stays N/A.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_102428_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_102428_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_102428_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_102428_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_102428_3.jpg"
+   ],
+   "sources": [
     "https://t.me/astrapress/102428"
    ]
   },
@@ -259,6 +318,10 @@
    "date": "2026-01-27",
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The only source is the Exilenova+ post (no cause or claim in the available text). Stays N/A.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15974_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_15974_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/exilenova_plus/15974"
    ]
   },
@@ -286,6 +349,9 @@
    "date": "2026-01-28",
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The only source is a Shot Telegram post; no cause or claim. Stays N/A.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/shot_shot_91728_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/shot_shot/91728"
    ]
   },
@@ -295,6 +361,10 @@
    "date": "2026-01-29",
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. A roof fire of about 15 sq m at CHP-3 killed two contractor workers (a third was hospitalised with burns); preliminary cause: a damaged fuel-oil pipeline near a boiler; no attack stated. Stays N/A.",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/rusnews_79685_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/rusnews_79685_1.jpg"
+   ],
+   "sources": [
     "https://t.me/rusnews/79685"
    ]
   },
@@ -303,6 +373,9 @@
    "name": "Ukrainian aviation bombs fortified house in Tyotkino",
    "date": "2026-01-29",
    "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/soniah_hub_14210_v1.mp4"
+   ],
+   "sources": [
     "https://t.me/soniah_hub/14210"
    ]
   }
