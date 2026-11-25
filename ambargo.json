@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 11:23",
+ "updated": "2026-11-25 14:30",
  "records": [
   {
    "h": "pqt1cn",
@@ -3654,9 +3654,9 @@
    "date": "2026-08-20",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Deep Strike"
+    "operation": "Crimean Switch Off"
    },
-   "note": "Detail (Nov 2026): Exilenova+ (Aug 20, photos attached) reported the night attack on the 500 kV Taman substation together with the Tamanneftegaz terminal; the USF commander's summary of Aug 22 (in sources) lists the 500 kV \"Taman\" substation near Starotitarovskaya among the targets of the 412th Brigade \"Nemesis\" and the 413th Regiment \"Reid\" of the USF during Aug 17-22, without giving the exact date.",
+   "note": "Detail (Nov 2026): Exilenova+ (Aug 20, photos attached) reported the night attack on the 500 kV Taman substation together with the Tamanneftegaz terminal; the USF commander's summary of Aug 22 (in sources) lists the 500 kV \"Taman\" substation near Starotitarovskaya among the targets of the 412th Brigade \"Nemesis\" and the 413th Regiment \"Reid\" of the USF during Aug 17-22, without giving the exact date; the post belongs to the USF operation \"Crimean Switch Off\" (in the post: \"Кримський рубильник off\"), which the record is tagged with.",
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29279_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29279_2.jpg"
@@ -3771,7 +3771,7 @@
    "date": "2026-08-22",
    "set": {
     "weapon": "FP-1",
-    "operation": "Wild Berries"
+    "operation": "Ozon"
    },
    "note": "Detail (Nov 2026): Exilenova+ (Aug 22, videos attached) posted several videos of the moment of the attack on the Ozon sorting complex in Chapayevsk, Samara Oblast, and the fire that kept spreading; Dnipro Osint (Aug 22, photo attached) says FP-1 drones destroyed one of the Ozon sorting complexes for the first time; the Ukrainian Ministry of Defence confirmed the strike as work of Defense Forces (Slovo i Dilo, in sources).",
    "media": [
@@ -3851,7 +3851,7 @@
    "date": "2026-08-23",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Wild Berries"
+    "operation": "Ozon"
    },
    "note": "Detail (Nov 2026): Exilenova+ (Aug 23, video attached) says the Ozon warehouse in Orenburg was attacked and, per local residents, at least one impact was recorded; Militarnyi (in sources) calls it the largest Ozon warehouse.",
    "media": [
@@ -3997,7 +3997,7 @@
    "date": "2026-08-24",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Wild Berries"
+    "operation": "Ozon"
    },
    "note": "Detail (Nov 2026): Exilenova+ (Aug 24, videos and photos attached) posted the burning and exploding Ozon complex in the Tyube industrial park, Dagestan, with the fire, the impacts and the air defense at work; Astra (Aug 24, videos attached) says its OSINT analysis shows the largest Ozon warehouse in the North Caucasus was attacked and burning, and posted the moment of an attack on the warehouse from another angle; the Exilenova+ digest of Aug 24 (photo attached) says satellite images show the Ozon complex in Tyube, about 130,000 sq. m, almost completely destroyed.",
    "media": [
@@ -4024,7 +4024,7 @@
    "date": "2026-08-24",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Wild Berries"
+    "operation": "Ozon"
    },
    "note": "Detail (Nov 2026): Exilenova+ (Aug 23, video attached) says the Ozon logistics center in Adygea near the settlement of Enem, about 91,000 sq. m, was under attack and its post of Aug 24 (video attached) shows the hub still burning after the night attack; Astra (Aug 24, videos attached) says that the warehouse named by the Ozon press service as attacked in Krasnodar is in fact in Adygea, according to local readers; the Exilenova+ digest of Aug 24 (photo attached) says satellite images show the Enem complex, about 91,200 sq. m, almost completely destroyed.",
    "media": [
@@ -4472,7 +4472,7 @@
    "date": "2026-08-29",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Deep Strike"
+    "operation": "DNS"
    },
    "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Astra (Aug 29, videos attached) says its OSINT analysis shows the DNS warehouse in Aksay was probably attacked and a residential building on Mira Street was damaged; Zaxid and The Moscow Times (in sources) report drones hitting Ozon and DNS warehouses in Rostov Oblast; no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
    "media": [
@@ -4749,7 +4749,7 @@
    "date": "2026-08-30",
    "set": {
     "weapon": "Missiles (type not stated)",
-    "operation": "Wild Berries"
+    "operation": "Ozon"
    },
    "note": "Detail (Nov 2026): Ozon confirmed the strike on its sorting center in Belgorod (Astra, Aug 30, in sources): the workers were evacuated, there are injured people and a fire started and was localized; Exilenova+ (Aug 30, photo attached) says the warehouses of Estate Logistics caught fire after explosions; Falconins (Aug 30, in sources) gives the geolocation of the hit at 50 35 13.88 N, 36 33 58.90 E. InformNapalm (Aug 30, videos and photos attached) published an OSINT monitoring of the objects hit in the massive strike on Belgorod that day, with the Belgorod thermal power plant, the Estate Logistics complex with the Ozon hub and the area of the TV tower among the locations confirmed from open sources.",
    "media": [
@@ -5054,7 +5054,10 @@
    "h": "zx3w41",
    "name": "Fire on tanker Volganeft-114 in Azov",
    "date": "2026-09-04",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The e-Radar channel (Sep 5, in sources) says the tanker Volganeft-114 caught fire \"mysteriously\" and burned in the Azov port on Sep 4, with an area of over 200 sq. m on fire; the post names no cause or claimant, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Sep 1-Oct 3 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "The tanker \"Volganeft-114\" is on fire. The fire area is over 200 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "2o7twd",
@@ -5127,19 +5130,19 @@
    "h": "1vt7qpx",
    "name": "Fire at Proton-PM plant in Perm",
    "date": "2026-09-04",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The e-Radar channel (Sep 2, in sources) says a fire broke out for unknown reasons at the Proton-PM plant in the village of Novye Lyady near Perm on Sep 2, two days before the date in the tab; the post names no cause or claimant and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Sep 1-Oct 3 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "The plant of JSC \"Proton-PM\" is on fire. The fire area is over 2,100 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "187mz42",
    "name": "Fire on icebreaker Admiral Makarov in Saint Petersburg",
    "date": "2026-09-05",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Astra (Sep 5, video attached) says the Russian emergency ministry reported a fire on the icebreaker Admiral Makarov, which stands under repair in Kronstadt, at 14:20 on Sep 5; no attack or claimant is reported, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Sep 1-Oct 3 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_124343_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_124343_1.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_124343_2.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_124343_3.jpg"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "The icebreaker \"Admiral Makarov\" is on fire*. The fire area is 80 sq. m. * The coordinates are approximate. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "xqeihm",
@@ -5267,7 +5270,10 @@
    "h": "ezsuj7",
    "name": "Fire at shopping pavilions in Borodino",
    "date": "2026-09-07",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The e-Radar channel (Sep 7, in sources) says shopping pavilions of 400 sq. m in Borodino, Krasnoyarsk Krai, caught fire and burned down for unknown reasons; the post reports no attack or claimant, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Sep 1-Oct 3 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "Shopping pavilions are on fire. The fire area is 400 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "zmfjy4",
@@ -5520,7 +5526,10 @@
    "h": "1rlgszd",
    "name": "Fire at army-supplying sewing workshop in Vyshny Volochyok",
    "date": "2026-09-10",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. The e-Radar channel (Sep 11, in sources) says a sewing workshop of 2,400 sq. m on the territory of the women's penal colony VK-5 in Vyshny Volochyok burned down, and that it made sleeping bags, thermal underwear and uniform items for the Russian army; the post says the cause is unknown and names no attack or claimant, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Sep 1-Oct 3 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "A sewing workshop that works for the needs of the Russian army is on fire. The fire area is 2,400 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "13s9ufg",
@@ -5561,7 +5570,7 @@
    "date": "2026-09-11",
    "set": {
     "weapon": "FP-1",
-    "operation": "Wild Berries"
+    "operation": "Ozon"
    },
    "note": "Detail (Nov 2026): Exilenova+ (Sep 11, videos attached) posted the burning complex, and Dnipro Osint (Sep 13, photo attached) says Defense Forces FP-1 drones destroyed another Ozon warehouse complex, this time in Saratov, an area of 85,000 sq. m designed to store more than 30 million items, and gives its coordinates. Astra (Sep 11, videos attached) relays a statement of the drone and missile maker Fire Point, which says FP-1 drones destroyed the Ozon warehouse in Saratov and Flamingo missiles hit the Volgogradpromproekt chemical plant in Volgograd; Fire Point is a manufacturer, not a unit used in this tab.",
    "media": [
@@ -5694,7 +5703,7 @@
     "weapon": "Strike UAVs (model not stated)",
     "operation": "Deep Strike"
    },
-   "note": "Detail (Nov 2026): Exilenova+ (Sep 12, videos attached) relays the SBU report with footage, and Exilenova+ (Sep 12, in sources) names the Atlant Aero enterprise, which designs and builds strike and reconnaissance drones. The General Staff statement of Sep 15 (in sources) says explosions and a fire were recorded at Atlant Aero in the night of Sep 15, so the enterprise was hit again three days after this record; a record for Sep 15 is not in the tab.",
+   "note": "Detail (Nov 2026): Exilenova+ (Sep 12, videos attached) relays the SBU report with footage, and Exilenova+ (Sep 12, in sources) names the Atlant Aero enterprise, which designs and builds strike and reconnaissance drones. The General Staff statement of Sep 15 (in sources) says explosions and a fire were recorded at Atlant Aero in the night of Sep 15, so the enterprise was hit again three days after this record; that strike has its own record (\"Missile strike on Atlant Aero drone plant in Taganrog\").",
    "sources": [
     "https://t.me/GeneralStaffZSU/42242",
     "https://t.me/exilenova_plus/30877"
@@ -5827,18 +5836,13 @@
    "h": "cmvsrv",
    "name": "Nebo-M radar hit in Millerovo",
    "date": "2026-09-15",
-   "set": {
-    "weapon": "RAM-2X",
-    "operation": "Deep Strike"
+   "fix": {
+    "hide": true,
+    "note": "Drones hit the \"Nebo-M\" radar. Hidden (Nov 2026 review): duplicate of the record \"Drone strike on Nebo-M radar near Millerovo\" - one Nebo-M radar was hit on Sep 15 (InformNapalm, Ukrainska Pravda, United24), and both records carry the same sources."
    },
-   "note": "Detail (Nov 2026): The InformNapalm post of Sep 15 (videos attached) says the 429th Unmanned Systems Brigade \"Achilles\", together with the 43rd Separate Artillery Brigade, reported hitting a Russian Nebo-M radar near the Millerovo military airfield with a RAM-2X, about 175 km from the line of contact, after an Achilles hit on a Nebo-U radar at the same airfield on Aug 27; the post describes one radar strike, so it is not clear whether the two records are two radar modules or one strike. Madyar's air defence summary of Sep 19 (in sources) lists one Nebo-M radar at Dolotinka, Rostov Oblast, for the 429th Brigade among the targets of Sep 10-18.",
-   "sources": [
-    "https://t.me/robert_magyar/2829"
-   ],
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/informnapalm_28661_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/informnapalm_28661_v2.mp4"
-   ]
+   "set": {
+    "operation": "Deep Strike"
+   }
   },
   {
    "h": "pl5663",
@@ -5848,7 +5852,7 @@
     "weapon": "RAM-2X",
     "operation": "Deep Strike"
    },
-   "note": "Detail (Nov 2026): The InformNapalm post of Sep 15 (videos attached) says the 429th Unmanned Systems Brigade \"Achilles\", together with the 43rd Separate Artillery Brigade, reported hitting a Russian Nebo-M radar near the Millerovo military airfield with a RAM-2X, about 175 km from the line of contact, after an Achilles hit on a Nebo-U radar at the same airfield on Aug 27; the post describes one radar strike, so it is not clear whether the two records are two radar modules or one strike. Madyar's air defence summary of Sep 19 (in sources) lists one Nebo-M radar at Dolotinka, Rostov Oblast, for the 429th Brigade among the targets of Sep 10-18.",
+   "note": "Detail (Nov 2026): The InformNapalm post of Sep 15 (videos attached) says the 429th Unmanned Systems Brigade \"Achilles\", together with the 43rd Separate Artillery Brigade, reported hitting a Russian Nebo-M radar near the Millerovo military airfield with a RAM-2X, about 175 km from the line of contact, after an Achilles hit on a Nebo-U radar at the same airfield on Aug 27; the post describes a single radar strike, so the second record for the same strike (1.5 km to the north, same sources) was merged into this one and hidden. Madyar's air defence summary of Sep 19 (in sources) lists one Nebo-M radar at Dolotinka, Rostov Oblast, for the 429th Brigade among the targets of Sep 10-18.",
    "sources": [
     "https://t.me/robert_magyar/2829"
    ],
@@ -5902,18 +5906,21 @@
    "h": "1mamd9f",
    "name": "Missile strike on Ozon warehouse in Taganrog",
    "date": "2026-09-15",
-   "note": "Detail (Nov 2026): Astra (Sep 15, video and photos attached) relays the Rostov governor and the mayor of Taganrog, who describe a massive missile attack on the city with a fire at the Ozon warehouse and agricultural warehouses, so the record keeps the missile method from these Russian reports. Militarnyi (in sources) says drones hit workshops of the Rostselmash plant, where the Ozon warehouse is located, on the morning of Sep 15, and gives no formal claim; it bases the attribution to Ukraine on NASA FIRMS fire data and says the nearby Beriev aircraft design bureau was probably the main target.",
+   "set": {
+    "weapon": "Missiles (type not stated)",
+    "operation": "Ozon"
+   },
+   "note": "Detail (Nov 2026): Astra (Sep 15, video and photos attached) relays the Rostov governor and the mayor of Taganrog, who describe a massive missile attack on the city with a fire at the Ozon warehouse and agricultural warehouses, so the record keeps the missile method from these Russian reports. Militarnyi (in sources) says drones hit workshops of the Rostselmash plant, where the Ozon warehouse is located, on the morning of Sep 15, and gives no formal claim; it bases the attribution to Ukraine on NASA FIRMS fire data and says the nearby Beriev aircraft design bureau was probably the main target. The missile reading is kept after a further check: the General Staff weekly summary of Sep 21 (in sources) confirms a strike on Atlant Aero in Taganrog in the night of Sep 15, and Exilenova+ satellite imagery (relayed by Militarnyi and Ukrainska Pravda, Sep 18) shows three production buildings of Atlant Aero destroyed by Neptune missiles; the Ozon warehouse of this record lies less than 1 km from the Atlant Aero site, so it was probably damaged in the same missile strike. The weapon type for the warehouse itself is not confirmed.",
+   "sources": [
+    "https://t.me/GeneralStaffZSU/42317",
+    "https://militarnyi.com/en/news/taganrog-neptune-strike-atlant-aero-factory/",
+    "https://t.me/astrapress/125220"
+   ],
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_125220_v1.mp4",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_125220_1.jpg",
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_125220_2.jpg"
-   ],
-   "sources": [
-    "https://t.me/astrapress/125220"
-   ],
-   "set": {
-    "operation": "Wild Berries"
-   }
+   ]
   },
   {
    "h": "1tngm1p",
@@ -6083,6 +6090,7 @@
    "sources": [
     "https://t.me/astrapress/125722",
     "https://t.me/astrapress/125766",
+    "https://english.nv.ua/russian-war/ukrainian-fp-1-drones-hit-warehouse-complex-near-moscow-fire-point-says-50642921.html",
     "https://t.me/exilenova_plus/31182",
     "https://t.me/exilenova_plus/31189",
     "https://t.me/exilenova_plus/31311",
@@ -6090,7 +6098,7 @@
    ],
    "fix": {
     "unit": "GS",
-    "note": "Drones attack the logistics complex \"Sovremennye Skladskie Tekhnologii\". As a result of the attack, the complex was completely destroyed. Attribution (Nov 2026 review): GS - Zelensky's statement of Sep 20 (relayed by Astra, in sources) says Ukrainian long-range assets hit one of the key oil enterprises of Russia and a logistics facility in the Moscow region in the night of Sep 20. Astra reads the second as the Sofyino warehouse complex, so the match is by place and date; no unit or General Staff statement names this site, so it is attributed to GS as an operation of Defense Forces units. Confidence: low."
+    "note": "Drones attack the logistics complex \"Sovremennye Skladskie Tekhnologii\". As a result of the attack, the complex was completely destroyed. Attribution (Nov 2026 review): GS - Zelensky's statement of Sep 20 (relayed by Astra, in sources) says Ukrainian long-range assets hit one of the key oil enterprises of Russia and a logistics facility in the Moscow region in the night of Sep 20. Astra reads the second as the Sofyino warehouse complex, so the match is by place and date. Fire Point, the maker of the FP-1, said its FP-1 drones destroyed the warehouse complex (NV, in sources), and Dnipro Osint says Defense Forces units attacked it; no unit or General Staff statement names this site (the General Staff weekly summary of Sep 21 does not list it), so it is attributed to GS as an operation of Defense Forces units. Confidence: medium."
    },
    "media": [
     "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31182_v1.mp4",
@@ -6249,11 +6257,10 @@
    "h": "1yqx16n",
    "name": "Fire at Neryungri district power plant in Yakutia",
    "date": "2026-09-22",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Sep 22, videos attached) says the Neryungri district power plant in Yakutia, 5,500 km from the Ukrainian border, burned in the morning, with the transformer substation, a generator, equipment, wall panels and cable floors damaged over 90 sq. m by the Russian emergency ministry's report, and that, as the Russian reports say, the fire started by itself and no sabotage group was found or reported; the record has no attack and no claimant, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Sep 1-Oct 3 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31502_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31502_v2.mp4"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "The Neryungri district power plant (DRES) is on fire. The fire area is 90 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "iv2p2p",
@@ -6285,9 +6292,9 @@
    "date": "2026-09-23",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Crimean Breaker Off"
+    "operation": "Crimean Switch Off"
    },
-   "note": "Detail (Nov 2026): no photo or video of the strike and no General Staff, SBU or SOF statement naming this site was found in the posts checked; the strike is known from the USF commander's post of Sep 23 (in sources) on the operation \"Crimean Breaker Off\", which lists it among the 38 energy nodes hit."
+   "note": "Detail (Nov 2026): no photo or video of the strike and no General Staff, SBU or SOF statement naming this site was found in the posts checked; the strike is known from the USF commander's post of Sep 23 (in sources) on the USF operation \"Crimean Switch Off\" (in the post: \"Кримський рубильник off\"), which lists it among the 38 energy nodes hit."
   },
   {
    "h": "1on7qpt",
@@ -6295,9 +6302,9 @@
    "date": "2026-09-23",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Crimean Breaker Off"
+    "operation": "Crimean Switch Off"
    },
-   "note": "Detail (Nov 2026): no photo or video of the strike and no General Staff, SBU or SOF statement naming this site was found in the posts checked; the strike is known from the USF commander's post of Sep 23 (in sources) on the operation \"Crimean Breaker Off\", which lists it among the 38 energy nodes hit."
+   "note": "Detail (Nov 2026): no photo or video of the strike and no General Staff, SBU or SOF statement naming this site was found in the posts checked; the strike is known from the USF commander's post of Sep 23 (in sources) on the USF operation \"Crimean Switch Off\" (in the post: \"Кримський рубильник off\"), which lists it among the 38 energy nodes hit."
   },
   {
    "h": "1msfszs",
@@ -6305,9 +6312,9 @@
    "date": "2026-09-23",
    "set": {
     "weapon": "Strike UAVs (model not stated)",
-    "operation": "Crimean Breaker Off"
+    "operation": "Crimean Switch Off"
    },
-   "note": "Detail (Nov 2026): no photo or video of the strike and no General Staff, SBU or SOF statement naming this site was found in the posts checked; the strike is known from the USF commander's post of Sep 23 (in sources) on the operation \"Crimean Breaker Off\", which lists it among the 38 energy nodes hit."
+   "note": "Detail (Nov 2026): no photo or video of the strike and no General Staff, SBU or SOF statement naming this site was found in the posts checked; the strike is known from the USF commander's post of Sep 23 (in sources) on the USF operation \"Crimean Switch Off\" (in the post: \"Кримський рубильник off\"), which lists it among the 38 energy nodes hit."
   },
   {
    "h": "1i41vzx",
@@ -6580,6 +6587,124 @@
    ],
    "sources": [
     "https://t.me/exilenova_plus/31728"
+   ]
+  },
+  {
+   "h": "1ge7we8",
+   "name": "Car of Russian serviceman Roman Syromyatnikov blown up",
+   "date": "2026-10-02",
+   "set": {
+    "weapon": "Explosive device (planted under the car floor)",
+    "operation": "Unnamed"
+   },
+   "note": "Detail (Nov 2026): Roman Syromyatnikov served in a parachute-assault company of the 51st regiment of the 106th Tula Airborne Division and, after returning from the war, worked as a teacher. The Moscow Times (Oct 3, in sources), citing the VChK-OGPU channel, says unknown persons planted an explosive device under the floor of the car on the driver's side, many security officers, Rosgvardia among them, came to the scene, and nobody was identified or charged; Exilenova+ (Oct 3, photo attached) shows the scene in Novomoskovsk, where the street was closed for a long time and the Russian special services searched for a trail, and says he was wanted in Ukraine; Supernova+ (cited by The Moscow Times) says Ukrainian authorities accuse him of torturing Ukrainian prisoners of war, and the paper adds that he was listed in the Myrotvorets database in Oct 2025. These accusations are not independently verified. Attribution (Nov 2026 review): GUR stays, by the site rule for targeted killings inside Russia; no unit or official claim was found in the General Staff posts of Oct 2-6, the Madyar (USF) reports of Oct 4-15 and the GUR channel search that were checked. Confidence: low.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31901_1.jpg"
+   ]
+  },
+  {
+   "h": "18rldy0",
+   "name": "Lukoil-Volgogradneftepererabotka refinery hit in Volgograd",
+   "date": "2026-10-02",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "fix": {
+    "unit": "SBU",
+    "coUnits": [
+     "GUR"
+    ],
+    "note": "Drones hit the \"Lukoil-Volgogradneftepererabotka\" oil refinery*. Fire on the territory of the enterprise. * The exact point of impact has not been identified. Detail (Nov 2026): Exilenova+ (Oct 2, videos attached) posted clips of explosions that were heard for a long time in the city and in the industrial zone of the refinery; the General Staff statement of Oct 2 (card attached) says Defense Forces units hit the Lukoil refinery in Volgograd, with explosions and a fire on the site; the SBU post of Oct 2 (card attached) says the refinery was hit together with the GUR, and that NASA FIRMS recorded fire seats near the delayed coking unit and the ELOU-AVT-1 and ELOU-AVT-5 units, which are key capacities of the plant. Attribution (Nov 2026 review): SBU - the SBU post names the SBU together with the GUR as the executing side for the Volgograd refinery (for the Samara facilities the same post names the SBU Alpha center with the USF, SOF and GUR); GUR is listed as a co-unit. It replaces the earlier GS attribution, which only reflected the General Staff summary where the executing unit was not named."
+   },
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31830_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31831_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/sbukr_18730_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_42444_1.jpg"
+   ],
+   "sources": [
+    "https://t.me/exilenova_plus/31830",
+    "https://t.me/exilenova_plus/31831",
+    "https://t.me/sbukr/18730"
+   ]
+  },
+  {
+   "h": "m6zuw2",
+   "name": "Samara pumping and dispatch station hit near Prosvet",
+   "date": "2026-10-02",
+   "set": {
+    "weapon": "FP-1 (claim by Exilenova+)",
+    "operation": "Deep Strike"
+   },
+   "sources": [
+    "https://t.me/GeneralStaffZSU/42498",
+    "https://t.me/exilenova_plus/31835",
+    "https://t.me/exilenova_plus/31859",
+    "https://t.me/exilenova_plus/31832",
+    "https://t.me/sbukr/18730",
+    "https://t.me/ukr_sof/3459"
+   ],
+   "fix": {
+    "unit": "SOF",
+    "coUnits": [
+     "SBU",
+     "USF",
+     "GUR"
+    ],
+    "dropSources": [
+     "https://t.me/exilenova_plus/31835,"
+    ],
+    "note": "Prosvet village, Samara Oblast. Drones attack the linear production and dispatch station \"Samara\". A large-scale fire on the territory of the enterprise. Detail (Nov 2026): Exilenova+ (Oct 2, photos attached) relayed local reports of explosions and a fire in Samara, and its later post (Oct 2, ten photos of the aftermath, in sources) calls the attack a night attack by FP-1 strike drones, which is the channel's own label; the General Staff statement of Oct 2 (card attached) says the station was hit near Prosvet with a fire on the site, and its results statement of Oct 7 (card attached) confirms damage to eleven RVS-20000 tanks, three RVSPK-50000 tanks, a section of pipelines and the automated product loading station; the SBU post of Oct 2 (card attached) says the drones of the SBU Alpha center, together with the USF, SOF and GUR, hit the station and also the pumping stations \"Samara-1\" and \"Samara-2\" near Prosvet, with fires recorded on all three sites; the SOF post of Oct 2 (card attached) says the SOF Deep Strike units hit the station in interaction with the USF, GUR and SBU. The station belongs to Transneft and mixes high- and low-sulphur oil for the Urals export blend. Attribution (Nov 2026 review): SOF - the SOF statement names its Deep Strike units as the executing unit and the USF, GUR and SBU as partners; the SBU post claims the same strike for its Alpha center with the USF, SOF and GUR, so SBU, USF and GUR are listed as co-units. It replaces the earlier GS attribution. The Samara-1 and Samara-2 pumping stations named by the SBU are not separate records because the posts give no separate points."
+   },
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31832_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31832_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31832_3.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31835_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/sbukr_18730_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/ukr_sof_3459_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_42444_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/GeneralStaffZSU_42498_1.jpg"
+   ]
+  },
+  {
+   "h": "cipxh",
+   "name": "Strike drone storage and launch site hit at Tsimbulova",
+   "date": "2026-10-03",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Oct 3, photos attached) says the Tsimbulova UAV launch base was under a massive attack and that NASA FIRMS recorded several fire seats from 01:33 near the place of storing, preparing and launching strike drones, at 53°22'01\"N 35°49'12\"E (the record's point). Militarnyi (in sources) describes the site as a large complex about 175-180 km from the border that is used to launch Geran-4 and Geran-5 drones, says the FIRMS fires were relayed from the Falcon Insight Map channel and that no unit or group claimed the strike, and treats a Defense Forces strike as the most likely cause because Russian monitoring channels reported drone flights over the oblast that night; it also describes the new domed shelters and launchers seen on the Sep 29 satellite images. Attribution (Nov 2026 review): none found - no unit or official claim was found in the General Staff posts of Oct 2-6, the Madyar (USF) reports of Oct 4-15 and the GUR channel search that were checked. Stays N/A. The damage is not confirmed: only the fires are.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31880_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31880_2.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_31880_3.jpg"
+   ]
+  },
+  {
+   "h": "1e82twl",
+   "name": "Volodarskaya pumping and dispatch station attacked in Konstantinovo",
+   "date": "2026-10-06",
+   "set": {
+    "weapon": "Strike UAVs (model not stated)",
+    "operation": "Deep Strike"
+   },
+   "note": "Detail (Nov 2026): Exilenova+ (Oct 6, videos and photos attached) posted footage of the burning \"Volodarskaya\" station after the attack and gave its point near the settlement of Volodarsky and the village of Konstantinovo (55°29'31\"N 37°59'52\"E); Slovo i Dilo (Oct 6, in sources) calls it the largest oil depot and the main dispatch point for trunk oil products in the Moscow region, says a fire most likely broke out after the massed drone attack on Moscow and the oblast of Oct 5-6, and quotes Mayor Sobyanin on dozens of drones shot down and a reported 650 drones flying toward the Moscow region, 105 of them destroyed on the approach to Moscow, while Rosaviatsia restricted four Moscow airports. Attribution (Nov 2026 review): none found - no unit or official claim was found in the General Staff posts of Oct 2-6, the Madyar (USF) reports of Oct 4-15 and the GUR channel search that were checked. Stays N/A. The damage is not confirmed.",
+   "media": [
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32034_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32034_v2.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32038_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32045_v1.mp4",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32034_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32043_1.jpg",
+    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_32043_2.jpg"
+   ],
+   "sources": [
+    "https://t.me/exilenova_plus/32034",
+    "https://t.me/exilenova_plus/32038",
+    "https://t.me/exilenova_plus/32045"
    ]
   }
  ]
