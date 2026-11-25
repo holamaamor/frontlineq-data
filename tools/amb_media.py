@@ -243,6 +243,14 @@ def main():
         from concurrent.futures import ThreadPoolExecutor
         with ThreadPoolExecutor(max_workers=4) as ex:
             res['scan'] = list(ex.map(do_scan, jobs['scan']))
+    if jobs.get('texts'):
+        from concurrent.futures import ThreadPoolExecutor
+        def _tx(u):
+            m = re.match(r'https?://(?:t|telegram)\.me/([^/?#]+)/(\d+)', u)
+            x = embed(m.group(1), m.group(2)) if m else None
+            return {'url': u, 'ok': bool(x), 'date': (x or {}).get('date'), 'text': ((x or {}).get('text') or '')[:6000]}
+        with ThreadPoolExecutor(max_workers=4) as ex:
+            res['texts'] = list(ex.map(_tx, jobs['texts']))
     for u in jobs.get('get', []):
         log('GET', u); res['get'].append(do_get(u))
         if fails['n'] >= 12: log('too many failures, stopping'); break
