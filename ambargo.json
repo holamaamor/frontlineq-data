@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 10:17",
+ "updated": "2026-11-25 10:24",
  "records": [
   {
    "h": "pqt1cn",
@@ -2500,27 +2500,19 @@
    "h": "18f5sj6",
    "name": "Fire at KZM company premises in Perm",
    "date": "2026-08-04",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Aug 4, videos attached) relayed a fire on the territory of the Kama Oil Plant (KZM) in Perm; Kommersant (in sources) quotes the regional emergency ministry that a fire of about 800 sq m began in the evening of Aug 4 and was put out in the night, most likely from a violation of the production process regulation, with investigators still checking and no drone or sabotage version mentioned; no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_28084_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_28086_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_28086_v2.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_28084_1.jpg"
-   ],
-   "sources": [
-    "https://t.me/exilenova_plus/28084",
-    "https://t.me/exilenova_plus/28086"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "Fire on the territory of LLC \"KZM\". The fire area is 800 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "1w5e3ll",
    "name": "Fire at filling station in Rostov-on-Don",
    "date": "2026-08-05",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Astra (Aug 5, video attached) first reported an attack on a filling station in Rostov-on-Don from geolocated eyewitness footage, then updated that, according to residents and Rostov media, the cause was human: a van driver filling a euro-cube with petrol set it alight and the fire spread to 22 cars in a nearby yard; Osnmedia (in sources) also reports a fire safety violation, so the event is not an attack; no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_121229_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_121229_v2.mp4"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "Fire at a filling station. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "1spurhd",
@@ -3366,13 +3358,19 @@
    "h": "7wk45o",
    "name": "Fuel and lubricant tank fire at shipbuilding plant in Blagoveshchensk",
    "date": "2026-08-14",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. eRadar (Aug 14, in sources) reports that containers with fuel and lubricants at the oil depot of the shipyard caught fire \"for unknown reasons\" over about 100 sq. m with six fire brigades called out; no strike, sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "Fuel and lubricant tanks are burning on the territory of a shipbuilding plant. The fire area is 100 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "1lkk2rk",
    "name": "Fire at Stroyformat building materials warehouse and store in Zhigulevsk",
    "date": "2026-08-14",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. eRadar (Aug 14, in sources) reports that the Stroyformat building materials store and its warehouse caught fire \"for unknown reasons\" over about 500 sq. m; no strike, sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "The warehouse and store of building materials \"Stroyformat\" are on fire. The fire area is 500 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "1aqpoll",
@@ -3427,7 +3425,10 @@
    "h": "fs6ymx",
    "name": "Fire at Brusnika construction site in Omsk",
    "date": "2026-08-15",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. eRadar (Aug 15, in sources) reports that insulation on the construction site of the developer \"Brusnika\" caught fire \"for unknown reasons\" over about 1,000 sq. m, and Interfax (in sources) reports two injured; no strike, sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "The construction site of the developer company \"Brusnika\" is on fire*. The fire area is 1000 sq. m. * The coordinates are approximate. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "19yq345",
@@ -3525,19 +3526,10 @@
    "h": "8mynip",
    "name": "Fire at TETs-20 power plant, blackout in Moscow",
    "date": "2026-08-18",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Aug 18, videos attached) posted the blackout in part of Moscow and Astra (Aug 18, videos and photos attached) reports a partial blackout in several districts and failures of the Russian internet; NV (Aug 18, in sources) says the Telegram channel 112 reported an explosion at the site on Vavilova Street that appears to be TETs-20. No official cause, strike or sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29211_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29211_v2.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122522_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122522_v2.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122522_1.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122522_2.jpg"
-   ],
-   "sources": [
-    "https://t.me/exilenova_plus/29211",
-    "https://t.me/astrapress/122522"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "The TETs-20 combined heat and power plant is on fire. A blackout in several districts of the city, a large-scale disruption of the internet and services across the country. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "1v8j7d4",
@@ -3720,7 +3712,10 @@
    "h": "18fq3x0",
    "name": "Fire at warehouse and vehicles in Taganrog",
    "date": "2026-08-21",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. eRadar (Aug 21, in sources) reports that a warehouse complex and vehicles near Andreev Bay caught fire \"for unknown reasons\" over about 350 sq. m; no strike, sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A."
+   "fix": {
+    "hide": true,
+    "note": "A warehouse and vehicles are on fire. The fire area is 350 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "111f68e",
@@ -3914,31 +3909,19 @@
    "h": "1t0abbd",
    "name": "Warehouse fire over 82,000 sq. m in Saint Petersburg",
    "date": "2026-08-23",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Astra (Aug 23, videos and photos attached) reports a large warehouse fire in Saint Petersburg growing from 22,000 to 82,000 sq. m while the authorities had not declared a drone or missile alert, and says the burning warehouse stands 350 m from an Ozon warehouse; Exilenova+ (Aug 23, videos attached) says the fire of the \"Otvetstvennoe khranenie Logistera\" warehouse in Kolpino was accidental and that there was no drone attack, and its post of Aug 24 says the 79,200 sq. m warehouse burned out from inside. No strike, sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122955_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122950_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122950_v2.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29473_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122955_1.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/astrapress_122955_2.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29473_1.jpg"
-   ],
-   "sources": [
-    "https://t.me/astrapress/122950",
-    "https://t.me/exilenova_plus/29473"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "A warehouse is on fire. The fire area is 82,000 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "z0bu7o",
    "name": "Warehouse fire of 200 sq. m in Akulovo",
    "date": "2026-08-23",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Aug 23, video attached) and the local channel odi_city (Aug 23, in sources) report a strong fire in the industrial zone behind Akulovo, Moscow Oblast, of a warehouse over about 200 sq. m; no strike, sabotage claim or unit statement was found, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29511_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29511_1.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29511_2.jpg"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "A warehouse is on fire. The fire area is 200 sq. m. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "k4svvh",
@@ -4294,20 +4277,10 @@
    "h": "1cb3jru",
    "name": "Large fire at AGKhK in Svobodny",
    "date": "2026-08-25",
-   "note": "Attribution (Nov 2026 N/A review, fifth pass): none found. Exilenova+ (Aug 25, videos attached) posted the fire at the pyrolysis unit of the Amur Gas Chemical Complex under construction in Svobodny, about 7,000 km from Ukraine, and later said the fire broke out where smoking rules were violated; Astra (in sources) reports the company confirming an explosion and fire at the construction site with several dead and missing, and the toll rose to eight. This is an industrial accident with no strike or sabotage claim, and no unit or official claim was found in the General Staff, SBU, SOF and Madyar (USF) posts of Aug 1-Sep 2 that were checked. Stays N/A.",
-   "media": [
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29671_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29671_v2.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29682_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29708_v1.mp4",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29682_1.jpg",
-    "https://raw.githubusercontent.com/holamaamor/frontlineq-data/main/amb/media/exilenova_plus_29682_2.jpg"
-   ],
-   "sources": [
-    "https://t.me/exilenova_plus/29671",
-    "https://t.me/exilenova_plus/29682",
-    "https://t.me/exilenova_plus/29708"
-   ]
+   "fix": {
+    "hide": true,
+    "note": "A large-scale fire on the territory of AGKhK. Probably, barrels of methanol are exploding at the enterprise. Hidden (Nov 2026 review): a fire with no confirmed attack and no unit or official claim; it is not an attack record, so it is removed from the list."
+   }
   },
   {
    "h": "1c39yji",
