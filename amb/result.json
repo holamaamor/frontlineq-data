@@ -1,1496 +1,800 @@
 {
- "get": [
+ "get": [],
+ "probe": [],
+ "scan": [
   {
-   "url": "https://t.me/exilenova_plus/26244",
-   "ok": true,
-   "date": "2026-07-22T01:24:51+00:00",
-   "text": "По предварительным данным, атакован один из крупнейших и наиболее важных логистических центров Wildberries в России, расположенный в Краснодаре.\nНа кадрах, опубликованных местными жителями, виден крупный пожар.\n45.05022490262433, 39.0286478826954 Osint",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26244_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      444
-     ],
-     "bytes": 121566
-    },
-    {
-     "file": "amb/media/exilenova_plus_26244_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 58106
-    },
-    {
-     "file": "amb/media/exilenova_plus_26244_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 747678,
-     "bytes": 747678
-    },
-    {
-     "file": "amb/media/exilenova_plus_26244_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1706052,
-     "bytes": 1706052
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_astrapress",
+   "ch": "astrapress",
+   "n": 2382,
+   "pages": 195
   },
   {
-   "url": "https://t.me/exilenova_plus/26253",
-   "ok": true,
-   "date": "2026-07-22T01:30:01+00:00",
-   "text": "По предварительным данным, атакован один из крупнейших и наиболее важных логистических центров Wildberries в России, расположенный в Краснодаре. На кадрах, опубликованных местными жителями, виден крупный пожар. 45.05022490262433, 39.0286478826954 Osint",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26253_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 62917
-    },
-    {
-     "file": "amb/media/exilenova_plus_26253_2.jpg",
-     "kind": "image",
-     "orig": [
-      602,
-      800
-     ],
-     "bytes": 61539
-    },
-    {
-     "file": "amb/media/exilenova_plus_26253_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 51596
-    },
-    {
-     "file": "amb/media/exilenova_plus_26253_4.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 35602
-    },
-    {
-     "file": "amb/media/exilenova_plus_26253_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 10126671,
-     "bytes": 1924351
-    },
-    {
-     "file": "amb/media/exilenova_plus_26253_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2998401,
-     "bytes": 2998401
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_exilenova_plus",
+   "ch": "exilenova_plus",
+   "n": 1694,
+   "pages": 142
   },
   {
-   "url": "https://t.me/exilenova_plus/26292",
-   "ok": true,
-   "date": "2026-07-22T01:50:13+00:00",
-   "text": "Краснодарский Wildberries",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26292_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 68347
-    },
-    {
-     "file": "amb/media/exilenova_plus_26292_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 55631
-    },
-    {
-     "file": "amb/media/exilenova_plus_26292_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 68347
-    },
-    {
-     "file": "amb/media/exilenova_plus_26292_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 7331105,
-     "bytes": 7331105
-    },
-    {
-     "file": "amb/media/exilenova_plus_26292_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 3440565,
-     "bytes": 3440565
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_generalstaffzsu",
+   "ch": "generalstaffzsu",
+   "n": 609,
+   "pages": 38
   },
   {
-   "url": "https://t.me/exilenova_plus/26300",
-   "ok": true,
-   "date": "2026-07-22T01:52:08+00:00",
-   "text": "Краснодарский Wildberries",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26300_1.jpg",
-     "kind": "image",
-     "orig": [
-      601,
-      800
-     ],
-     "bytes": 62251
-    },
-    {
-     "file": "amb/media/exilenova_plus_26300_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 54506
-    },
-    {
-     "file": "amb/media/exilenova_plus_26300_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 3324972,
-     "bytes": 3324972
-    },
-    {
-     "file": "amb/media/exilenova_plus_26300_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1338372,
-     "bytes": 1338372
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_sbukr",
+   "ch": "sbukr",
+   "n": 101,
+   "pages": 12
   },
   {
-   "url": "https://t.me/exilenova_plus/26320",
-   "ok": true,
-   "date": "2026-07-22T02:07:40+00:00",
-   "text": "Невинномысск",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26320_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5948125,
-     "bytes": 5948125
-    },
-    {
-     "file": "amb/media/exilenova_plus_26320_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 5948125,
-     "bytes": 5948125
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_ukr_sof",
+   "ch": "ukr_sof",
+   "n": 69,
+   "pages": 8
   },
   {
-   "url": "https://t.me/exilenova_plus/26346",
-   "ok": true,
-   "date": "2026-07-22T02:28:59+00:00",
-   "text": "Невинномысск",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26346_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1338675,
-     "bytes": 1338675
-    },
-    {
-     "file": "amb/media/exilenova_plus_26346_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 6076627,
-     "bytes": 6076627
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_chernayaiskra2",
+   "ch": "chernayaiskra2",
+   "n": 63,
+   "pages": 4
   },
   {
-   "url": "https://t.me/exilenova_plus/26376",
-   "ok": true,
-   "date": "2026-07-22T02:55:16+00:00",
-   "text": "Невинномысск",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26376_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 3894017,
-     "bytes": 3894017
-    },
-    {
-     "file": "amb/media/exilenova_plus_26376_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 3894017,
-     "bytes": 3894017
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25497",
-   "ok": true,
-   "date": "2026-07-18T01:32:57+00:00",
-   "text": "Электросталь, московская область предварительно был атакован логистичекский хаб Вайлдберис.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25497_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      600
-     ],
-     "bytes": 50305
-    },
-    {
-     "file": "amb/media/exilenova_plus_25497_2.jpg",
-     "kind": "image",
-     "orig": [
-      360,
-      800
-     ],
-     "bytes": 52299
-    },
-    {
-     "file": "amb/media/exilenova_plus_25497_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1948062,
-     "bytes": 1948062
-    },
-    {
-     "file": "amb/media/exilenova_plus_25497_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 611076,
-     "bytes": 611076
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25501",
-   "ok": true,
-   "date": "2026-07-18T01:35:00+00:00",
-   "text": "Электросталь, московская область предварительно был атакован логистичекский хаб Вайлдберис.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25501_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 78674
-    },
-    {
-     "file": "amb/media/exilenova_plus_25501_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 58705
-    },
-    {
-     "file": "amb/media/exilenova_plus_25501_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 86591
-    },
-    {
-     "file": "amb/media/exilenova_plus_25501_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 2123824,
-     "bytes": 2123824
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/26964",
-   "ok": true,
-   "date": "2026-07-24T06:03:01+00:00",
-   "text": "В третьем по величине складе Wildberries в Шушарах всё ещё пытаются потушить пожар.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26964_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1872770,
-     "bytes": 1872770
-    },
-    {
-     "file": "amb/media/exilenova_plus_26964_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1540530,
-     "bytes": 1540530
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27386",
-   "ok": true,
-   "date": "2026-07-29T03:20:48+00:00",
-   "text": "Еще кадры с Wildberries в Рязани после атаки.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27386_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 47632
-    },
-    {
-     "file": "amb/media/exilenova_plus_27386_2.jpg",
-     "kind": "image",
-     "orig": [
-      601,
-      800
-     ],
-     "bytes": 63924
-    },
-    {
-     "file": "amb/media/exilenova_plus_27386_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 784854,
-     "bytes": 784854
-    },
-    {
-     "file": "amb/media/exilenova_plus_27386_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 506181,
-     "bytes": 506181
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27428",
-   "ok": true,
-   "date": "2026-07-29T11:05:57+00:00",
-   "text": "Рязань. Обстановка біля палаючого логістичного хабу Wildberries.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27428_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4234663,
-     "bytes": 4234663
-    },
-    {
-     "file": "amb/media/exilenova_plus_27428_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 4234663,
-     "bytes": 4234663
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27409",
-   "ok": true,
-   "date": "2026-07-29T06:16:23+00:00",
-   "text": "FP-1 парою прямують до цілей в Рязані сьогодні вранці. Слідом прямує ще одна пара БПЛА.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27409_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4838875,
-     "bytes": 4838875
-    },
-    {
-     "file": "amb/media/exilenova_plus_27409_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 6404792,
-     "bytes": 6404792
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27429",
-   "ok": true,
-   "date": "2026-07-29T12:31:08+00:00",
-   "text": "Українські БПЛА FP-1 виконують тактичні маневри над Рязанню перед успішним заходом на цілі.\n\nРанок 29.07",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27429_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 10797948,
-     "bytes": 1236872
-    },
-    {
-     "file": "amb/media/exilenova_plus_27429_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 10552927,
-     "bytes": 1921324
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27491",
-   "ok": true,
-   "date": "2026-07-30T06:23:06+00:00",
-   "text": "Сарапул, момент одного з уражень складу подвійного призначення.\n\nСьогодні по складам відпрацював Лютий, брат FP.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27491_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1237548,
-     "bytes": 1237548
-    },
-    {
-     "file": "amb/media/exilenova_plus_27491_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1773538,
-     "bytes": 1773538
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27496",
-   "ok": true,
-   "date": "2026-07-30T06:40:32+00:00",
-   "text": "Сарапул, ВБ. Наслідки війни, яку розв'язала російська федерація.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27496_1.jpg",
-     "kind": "image",
-     "orig": [
-      450,
-      800
-     ],
-     "bytes": 73088
-    },
-    {
-     "file": "amb/media/exilenova_plus_27496_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4078500,
-     "bytes": 4078500
-    },
-    {
-     "file": "amb/media/exilenova_plus_27496_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 863306,
-     "bytes": 863306
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27642",
-   "ok": true,
-   "date": "2026-07-31T05:24:19+00:00",
-   "text": "Волгоград. Момент атаки БПЛА на склади ВБ вночі та наслідки.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27642_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 2946965,
-     "bytes": 2946965
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27552",
-   "ok": true,
-   "date": "2026-07-31T00:21:25+00:00",
-   "text": "Волгоград затягнуло димами , ймовірно горить логістичний хаб Wildberries.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27552_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1025881,
-     "bytes": 1025881
-    },
-    {
-     "file": "amb/media/exilenova_plus_27552_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1262486,
-     "bytes": 1262486
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27549",
-   "ok": true,
-   "date": "2026-07-31T00:09:39+00:00",
-   "text": "У Волгограді гарно горить.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27549_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 739903,
-     "bytes": 739903
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27513",
-   "ok": true,
-   "date": "2026-07-30T07:36:36+00:00",
-   "text": "Панорама на порт Тамань який був уражений цієї ночі. Вид з Анапи.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27513_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5709460,
-     "bytes": 5709460
-    },
-    {
-     "file": "amb/media/exilenova_plus_27513_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 5709460,
-     "bytes": 5709460
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/26002",
-   "ok": true,
-   "date": "2026-07-20T02:36:13+00:00",
-   "text": "Момент атаки в Подольске на ВБ.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26002_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 8400670,
-     "bytes": 1843320
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25926",
-   "ok": true,
-   "date": "2026-07-20T01:11:05+00:00",
-   "text": "Еще видео с Коледино",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25926_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 8288371,
-     "bytes": 8288371
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/26034",
-   "ok": true,
-   "date": "2026-07-20T04:01:51+00:00",
-   "text": "Нефтебаза в Подольске и реакция местных сразу после взрыва.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26034_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1626163,
-     "bytes": 1626163
-    },
-    {
-     "file": "amb/media/exilenova_plus_26034_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2815178,
-     "bytes": 2815178
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25997",
-   "ok": true,
-   "date": "2026-07-20T02:22:20+00:00",
-   "text": "Домодедово, индустриальный парк Южные Врата, операторы для вас не боятся залезть на крышу.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25997_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 6688144,
-     "bytes": 6688144
-    },
-    {
-     "file": "amb/media/exilenova_plus_25997_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 6688144,
-     "bytes": 6688144
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/26041",
-   "ok": true,
-   "date": "2026-07-20T04:45:45+00:00",
-   "text": "Еще видео с атаками в Домодедово по складу.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26041_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 11883260,
-     "bytes": 4129731
-    },
-    {
-     "file": "amb/media/exilenova_plus_26041_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 7708858,
-     "bytes": 7708858
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/26955",
-   "ok": true,
-   "date": "2026-07-24T05:46:04+00:00",
-   "text": "🦩Прилёт ракеты Фламинго по Вятскому машиностроительному предприятию “АВИТЕК”» в Кирове. Предприятие производит ЗУРы для Тор М1/М2, и катапультные кресла для авиации. 1250 км от ГГУ.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26955_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1696626,
-     "bytes": 1696626
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27224",
-   "ok": true,
-   "date": "2026-07-27T00:58:43+00:00",
-   "text": "Ростов , момент прильоту БПЛА.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27224_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1424902,
-     "bytes": 1424902
-    },
-    {
-     "file": "amb/media/exilenova_plus_27224_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1424902,
-     "bytes": 1424902
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27220",
-   "ok": true,
-   "date": "2026-07-27T00:57:32+00:00",
-   "text": "Ростов , кадри атаки.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27220_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 664279,
-     "bytes": 664279
-    },
-    {
-     "file": "amb/media/exilenova_plus_27220_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2572335,
-     "bytes": 2572335
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27243",
-   "ok": true,
-   "date": "2026-07-27T05:49:07+00:00",
-   "text": "Сарапул, обстановка",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27243_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 3912132,
-     "bytes": 3912132
-    },
-    {
-     "file": "amb/media/exilenova_plus_27243_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 3912132,
-     "bytes": 3912132
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25802",
-   "ok": true,
-   "date": "2026-07-19T00:05:21+00:00",
-   "text": "Еще с Михайловска.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25802_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 418671,
-     "bytes": 418671
-    },
-    {
-     "file": "amb/media/exilenova_plus_25802_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 4933428,
-     "bytes": 4933428
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25840",
-   "ok": true,
-   "date": "2026-07-19T01:38:27+00:00",
-   "text": "Многочисленные очаги в Михайловске после атаки.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25840_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5914731,
-     "bytes": 5914731
-    },
-    {
-     "file": "amb/media/exilenova_plus_25840_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 4240104,
-     "bytes": 4240104
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27024",
-   "ok": true,
-   "date": "2026-07-24T23:09:56+00:00",
-   "text": "Энгельс. Местные жители пишут, что одно из зданий казарм просто загорелось. По их словам, никакой атаки не было.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27024_1.jpg",
-     "kind": "image",
-     "orig": [
-      460,
-      800
-     ],
-     "bytes": 47573
-    },
-    {
-     "file": "amb/media/exilenova_plus_27024_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 40794
-    },
-    {
-     "file": "amb/media/exilenova_plus_27024_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 55375
-    },
-    {
-     "file": "amb/media/exilenova_plus_27024_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 356188,
-     "bytes": 356188
-    },
-    {
-     "file": "amb/media/exilenova_plus_27024_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 285370,
-     "bytes": 285370
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119511",
-   "ok": true,
-   "date": "2026-07-22T01:36:58+00:00",
-   "text": "В пригороде Краснодара начался масштабный пожар в результате украинской атаки. Очевидцы публикуют кадры из города, на которых видно несколько источников возгорания По словам подписчика ASTRA, он услышал 20-30 взрывов, а сирену включили уже после произошедшего…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119511_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 10449084,
-     "bytes": 910999
-    },
-    {
-     "file": "amb/media/astrapress_119511_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 9227155,
-     "bytes": 705348
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119525",
-   "ok": true,
-   "date": "2026-07-22T03:13:52+00:00",
-   "text": "В Краснодаре загорелся складской комплекс, повреждены многоквартирные и частные жилые дома. В Армавире возгорание на территории одного из предприятий после украинской атаки БПЛА, — местные власти Как сообщили в оперативном штабе Кубани, в результате падения…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119525_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      534
-     ],
-     "bytes": 47520
-    },
-    {
-     "file": "amb/media/astrapress_119525_2.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      531
-     ],
-     "bytes": 42424
-    },
-    {
-     "file": "amb/media/astrapress_119525_3.jpg",
-     "kind": "image",
-     "orig": [
-      530,
-      800
-     ],
-     "bytes": 46836
-    },
-    {
-     "file": "amb/media/astrapress_119525_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 7399851,
-     "bytes": 7399851
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119522",
-   "ok": true,
-   "date": "2026-07-22T03:01:28+00:00",
-   "text": "Очевидцы публикуют кадры с масштабным пожаром на нежилом объекте в Невинномысске Ставропольского края.\n\n📸 Прислать фото/видео/информацию: @helloastrabot\n\n💫 Подписаться на ASTRA в Instagram, Facebook, X на русском, X на английском, WhatsApp и DeltaChat, TikTok",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119522_1.jpg",
-     "kind": "image",
-     "orig": [
-      449,
-      800
-     ],
-     "bytes": 69178
-    },
-    {
-     "file": "amb/media/astrapress_119522_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5708169,
-     "bytes": 5708169
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119535",
-   "ok": true,
-   "date": "2026-07-22T04:25:24+00:00",
-   "text": "Власти сообщили о 2 пострадавших после украинской атаки по складскому комплексу в Невинномысске Ставропольского края. В Wildberries объявили об эвакуации объекта «Вследствие атаки БПЛА на окраине Невинномысска загорелся складской комплекс. Работают пожарные…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119535_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      527
-     ],
-     "bytes": 114907
-    },
-    {
-     "file": "amb/media/astrapress_119535_2.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      427
-     ],
-     "bytes": 65041
-    },
-    {
-     "file": "amb/media/astrapress_119535_3.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      546
-     ],
-     "bytes": 63728
-    },
-    {
-     "file": "amb/media/astrapress_119535_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5234716,
-     "bytes": 5234716
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119768",
-   "ok": true,
-   "date": "2026-07-24T02:24:00+00:00",
-   "text": "Момент атаки на склад Wildberries под Санкт-Петербургом попал на видео очевидцев 📸 Прислать фото/видео/информацию: @helloastrabot",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119768_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4805517,
-     "bytes": 4805517
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119806",
-   "ok": true,
-   "date": "2026-07-24T04:21:24+00:00",
-   "text": "Момент атаки на склад Wildberries под Санкт-Петербургом попал на видео очевидцев 📸 Прислать фото/видео/информацию: @helloastrabot",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119806_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 68097
-    },
-    {
-     "file": "amb/media/astrapress_119806_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 94273
-    },
-    {
-     "file": "amb/media/astrapress_119806_3.jpg",
-     "kind": "image",
-     "orig": [
-      368,
-      800
-     ],
-     "bytes": 42586
-    },
-    {
-     "file": "amb/media/astrapress_119806_4.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      599
-     ],
-     "bytes": 68351
-    },
-    {
-     "file": "amb/media/astrapress_119806_5.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      369
-     ],
-     "bytes": 44623
-    },
-    {
-     "file": "amb/media/astrapress_119806_6.jpg",
-     "kind": "image",
-     "orig": [
-      368,
-      800
-     ],
-     "bytes": 35990
-    },
-    {
-     "file": "amb/media/astrapress_119806_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5938078,
-     "bytes": 5938078
-    },
-    {
-     "file": "amb/media/astrapress_119806_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2742346,
-     "bytes": 2742346
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119775",
-   "ok": true,
-   "date": "2026-07-24T03:02:46+00:00",
-   "text": "Обстановка у второго атакованного склада WB в Шушарах в Петербурге прямо сейчас Работники подтвердили ASTRA, что всех эвакуировали. О пострадавших неизвестно. 📸 Прислать фото/видео/информацию: @helloastrabot ☮ Сайт издания ASTRA на английском и русском…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119775_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 469316,
-     "bytes": 469316
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119836",
-   "ok": true,
-   "date": "2026-07-24T05:20:02+00:00",
-   "text": "OSINT-анализ ASTRA подтверждает атаку и пожар на втором атакованном за утро складе Wildberries в Петербурге в поселке Шушары Кадрами пожара на складе, атакованном 24 июля, с редакцией поделились очевидцы. Согласно нашему анализу видео, горит логистический…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119836_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 2383296,
-     "bytes": 2383296
-    },
-    {
-     "file": "amb/media/astrapress_119836_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 981214,
-     "bytes": 981214
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/120430",
-   "ok": true,
-   "date": "2026-07-29T05:26:47+00:00",
-   "text": "Под Рязанью горит логистический центр Wildberries после украинской атаки, — OSINT-анализ ASTRA Очевидцы опубликовали кадры с густым дымом на промышленном предприятии после украинской атаки БПЛА. Изучив фото очевидцев, OSINT-аналитик ASTRA установил, что…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_120430_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      598
-     ],
-     "bytes": 64178
-    },
-    {
-     "file": "amb/media/astrapress_120430_2.jpg",
-     "kind": "image",
-     "orig": [
-      592,
-      800
-     ],
-     "bytes": 117822
-    },
-    {
-     "file": "amb/media/astrapress_120430_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 7777627,
-     "bytes": 7777627
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/120560",
-   "ok": true,
-   "date": "2026-07-30T06:18:49+00:00",
-   "text": "В Сарапуле в Удмуртии после атаки БПЛА горит склад Wildberries, подтверждает OSINT-анализ ASTRA Дым поднимается над логистическим комплексом Wildberries по адресу Ижевский тракт, 22 в Сарапуле Удмуртской Республики, установил по видео очевидцев OSINT-аналитик…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_120560_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 6797327,
-     "bytes": 6797327
-    },
-    {
-     "file": "amb/media/astrapress_120560_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 6797327,
-     "bytes": 6797327
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/120576",
-   "ok": true,
-   "date": "2026-07-30T07:08:52+00:00",
-   "text": "Кадры атаки беспилотника на логистический комплекс Wildberries в Сарапуле Удмуртской Республики, в результате которой возник пожар 📸 Прислать фото/видео/информацию: @helloastrabot 💫 Подписаться на ASTRA в Instagram, Facebook, X на русском, X на английском…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_120576_1.jpg",
-     "kind": "image",
-     "orig": [
-      449,
-      800
-     ],
-     "bytes": 61026
-    },
-    {
-     "file": "amb/media/astrapress_120576_2.jpg",
-     "kind": "image",
-     "orig": [
-      449,
-      800
-     ],
-     "bytes": 52520
-    },
-    {
-     "file": "amb/media/astrapress_120576_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 2205018,
-     "bytes": 2205018
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/120666",
-   "ok": true,
-   "date": "2026-07-31T03:59:38+00:00",
-   "text": "Склад Wildberries атакован и горит в Волгограде, — OSINT-анализ ASTRA Также, вероятно, атакован и горит НПЗ «Лукойл-Волгограднефтепереработка» В ночь на 31 июля жители Волгограда и области сообщали о взрывах и пожарах. Губернатор написал о 5 пострадавших.…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_120666_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      573
-     ],
-     "bytes": 53984
-    },
-    {
-     "file": "amb/media/astrapress_120666_2.jpg",
-     "kind": "image",
-     "orig": [
-      599,
-      800
-     ],
-     "bytes": 54200
-    },
-    {
-     "file": "amb/media/astrapress_120666_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 50485
-    },
-    {
-     "file": "amb/media/astrapress_120666_4.jpg",
-     "kind": "image",
-     "orig": [
-      491,
-      800
-     ],
-     "bytes": 25541
-    },
-    {
-     "file": "amb/media/astrapress_120666_5.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      406
-     ],
-     "bytes": 49302
-    },
-    {
-     "file": "amb/media/astrapress_120666_6.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 59680
-    },
-    {
-     "file": "amb/media/astrapress_120666_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 199074,
-     "bytes": 199074
-    },
-    {
-     "file": "amb/media/astrapress_120666_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 495462,
-     "bytes": 495462
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/120727",
-   "ok": true,
-   "date": "2026-07-31T07:54:01+00:00",
-   "text": "Пожар на складе Wildberries в Волгограде этим утром после украинской атаки 📸 Прислать фото/видео/информацию: @helloastrabot 💫 Защитить себя и своих близких от слежки в интернете, купить ASTRA VPN или подключить бесплатный Прокси: @astrvpn_bot",
-   "files": [
-    {
-     "file": "amb/media/astrapress_120727_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 9152632,
-     "bytes": 957838
-    },
-    {
-     "file": "amb/media/astrapress_120727_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 9152632,
-     "bytes": 957838
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119218",
-   "ok": true,
-   "date": "2026-07-20T02:19:33+00:00",
-   "text": "Логистический центр Wildberries Коледино в Подольске атакуют дроны, сообщают местные жители На кадры попал пролет дрона над складом. 📸Прислать фото/видео/информацию: @helloastrabot",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119218_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1597117,
-     "bytes": 1597117
-    },
-    {
-     "file": "amb/media/astrapress_119218_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1597117,
-     "bytes": 1597117
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119231",
-   "ok": true,
-   "date": "2026-07-20T04:24:08+00:00",
-   "text": "Склад в индустриальном комплексе «Южные Врата» горит после атаки в Домодедово Московской области, следует из OSINT-анализа кадров ASTRA от очевидцев В ночь на 20 июля жители Московской области сообщали о большом количестве взрывов и пожарах. Согласно анализу…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119231_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 455066,
-     "bytes": 455066
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119273",
-   "ok": true,
-   "date": "2026-07-20T07:47:21+00:00",
-   "text": "Власти Домодедово подтвердили пожары в результате атаки БПЛА в индустриальном парке «Южные ворота» и жилом доме по адресу улица Курыжова, 20, ранее установленные OSINT-анализом ASTRA «Сегодня ночью силами ПВО была отражена атака беспилотных летательных аппаратов.…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119273_1.jpg",
-     "kind": "image",
-     "orig": [
-      598,
-      800
-     ],
-     "bytes": 52989
-    },
-    {
-     "file": "amb/media/astrapress_119273_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 2191498,
-     "bytes": 2191498
-    },
-    {
-     "file": "amb/media/astrapress_119273_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 6164797,
-     "bytes": 6164797
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119856",
-   "ok": true,
-   "date": "2026-07-24T07:00:13+00:00",
-   "text": "Завод «АВИТЕК», производящий в том числе зенитные ракеты для армии РФ, атакован и горит в Кирове, — OSINT-анализ ASTRA Утром 24 июля жители Кирова сообщили о взрывах и пожаре. Согласно анализу ASTRA кадров от очевидцев, атаковано и горит АО «Вятское ма…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119856_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 83949
-    },
-    {
-     "file": "amb/media/astrapress_119856_2.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      710
-     ],
-     "bytes": 109919
-    },
-    {
-     "file": "amb/media/astrapress_119856_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1699612,
-     "bytes": 1699612
-    },
-    {
-     "file": "amb/media/astrapress_119856_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 5287860,
-     "bytes": 5287860
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/120251",
-   "ok": true,
-   "date": "2026-07-27T06:34:29+00:00",
-   "text": "В Удмуртии, вероятно, атакован ФГКУ комбинат «Приоритет» Росрезерва, — OSINT-анализ ASTRA \n\nФГКУ комбинат «Приоритет» Росрезерва (ранее известный как «Горизонт») — это стратегический объект закрытого типа, выполняющий функции крупной нефтебазы государственного значения. Он расположен в поселке Борок Камбарского района Удмуртии и находится под военизированной охраной. Его главной функцией является долгосрочное хранение государственного материального резерва — масштабных запасов топлива, нефтепродуктов и горюче-смазочных материалов в специальных резервуарах на случай чрезвычайных ситуаций или военных нужд, из-за чего данные об объемах хранения и руководстве полностью скрыты.\n\nКроме того, «Коммерсант» пишет, что в Сарапуле из-за атаки эвакуировали персонал склада Wildberries. Как отмечается, склад не был поврежден.\n\nРанее глава региона Александр Бречалов сообщил, что силы ПВО отражают самую массированную атаку беспилотников за последнее время на объекты республики. Что именно оказалось под ударом, он не уточнил. По его словам, пострадавших нет.\n\nВидео: Supernova+\n\n📸 Прислать фото/видео/информацию: @helloastrabot\n\n💫 Для продолжения работы ASTRA важны даже самые минимальные, но регулярные донаты читателей: Patreon, Крипта, BuyMeACoffee, с российской карты",
-   "files": [
-    {
-     "file": "amb/media/astrapress_120251_1.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      425
-     ],
-     "bytes": 90237
-    },
-    {
-     "file": "amb/media/astrapress_120251_2.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      354
-     ],
-     "bytes": 59986
-    },
-    {
-     "file": "amb/media/astrapress_120251_3.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      380
-     ],
-     "bytes": 74405
-    },
-    {
-     "file": "amb/media/astrapress_120251_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1183215,
-     "bytes": 1183215
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/astrapress/119089",
-   "ok": true,
-   "date": "2026-07-19T06:36:08+00:00",
-   "text": "Три нефтебазы могут гореть в Ставрополе и его окрестностях после украинской атаки в ночь на 19 июля, — OSINT-анализ ASTRA — Власти Ставрополья сообщили о трех очагах возгорания в двух промзонах поблизости с городом. Ранее ASTRA опубликовала видео очевидца…",
-   "files": [
-    {
-     "file": "amb/media/astrapress_119089_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 8502283,
-     "bytes": 4790776
-    },
-    {
-     "file": "amb/media/astrapress_119089_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 7156889,
-     "bytes": 7156889
-    }
-   ],
-   "poster": null,
-   "big_video": false
+   "id": "aug_dniproofficial",
+   "ch": "dniproofficial",
+   "n": 78,
+   "pages": 5
   }
  ],
- "probe": []
+ "texts": [
+  {
+   "url": "https://t.me/DIUkraine/9046",
+   "ok": true,
+   "date": "2026-08-08T07:59:35+00:00",
+   "text": "Уражено ільскій НПЗ — майстри ГУР провели чергову успішну операцію на росії\n \n🔥 У ніч на 8 серпня 2026 року оператори Департаменту активних дій та Департаменту безпілотних систем ГУР МО України в межах deepstrike-операції на росії уразили ільскій нафтопереробний завод у краснодарскому краї.\n \nВнаслідок атаки на НПЗ, що живить ресурсами злочинну війну росії проти України, виникла пожежа.\n \n🦾 Збройна боротьба триває!\n \nСлава Україні!\n\nГУР в інших соціальних мережах: \n🔹Facebook 🔹YouTube 🔹 Viber \n🔹Instagram 🔹Twitter 🔹 Threads \n🔹 WhatsApp🔹 Telegram Bot\n🔹 TikTok"
+  },
+  {
+   "url": "https://t.me/DniproOfficial/7977",
+   "ok": true,
+   "date": "2026-08-02T01:48:52+00:00",
+   "text": "⚡️ Дрони уразили Саратовський НПЗ. Горить установка ЕЛОУ-АВТ-6 з потужністю 6 млн. тонн нафти на рік\n\nКоординати: 51.455801° 45.936708°\n\n🎃 Dnipro Osint | Чат"
+  },
+  {
+   "url": "https://t.me/DniproOfficial/7997",
+   "ok": true,
+   "date": "2026-08-03T12:13:31+00:00",
+   "text": "🔍 Супутникові знімки Саратовського НПЗ після атаки БпЛА вранці 2 серпня.\n\nЗнімки поганої якості, але можна побачити пошкодження установки ЕЛОУ-АВТ-6, а також палаючий резервуар з нафтою\n\n🎃 Dnipro Osint | Чат"
+  },
+  {
+   "url": "https://t.me/DniproOfficial/8073",
+   "ok": true,
+   "date": "2026-08-22T16:32:33+00:00",
+   "text": "Заявлено як порт у Ейську після атаки БПЛА. Краснодарський Край."
+  },
+  {
+   "url": "https://t.me/DniproOfficial/8077",
+   "ok": true,
+   "date": "2026-08-23T12:25:20+00:00",
+   "text": "Впольовано три одиниці хробачої авіації: Су-33, МіГ-29, ударно-розвідувальний Оріон, та цілий зоопарк елементів ворожого ППО: 8 комплексів РЛС, позицію дівізіону С-400 у Геленджику і 2 ЗРК/ЗРГК Тор + Панцир. 11 з 14-ти цілей результативно відпрацьовано на…"
+  },
+  {
+   "url": "https://t.me/DniproOfficial/8079",
+   "ok": true,
+   "date": "2026-08-23T19:43:38+00:00",
+   "text": "Нижнекамск, момент прилета по НПЗ"
+  },
+  {
+   "url": "https://t.me/DniproOfficial/8091",
+   "ok": true,
+   "date": "2026-08-25T20:13:52+00:00",
+   "text": "🔥 Супутникові знімки Афіпського НПЗ після нічної атаки. Було уражено технологічну установку спільної переробки газу та газового конденсату\n\nКоординати: 44.883828° 38.825930°\n\n🎃 Dnipro Osint | Чат | Підтримати"
+  },
+  {
+   "url": "https://t.me/DniproOfficial/8111",
+   "ok": true,
+   "date": "2026-08-31T12:42:38+00:00",
+   "text": "🇺🇦🔥Сили оборони за допомогою безпілотників ⚡️FP-1 уразили інфраструктуру аеродрому «Міллєрово».\n\n30 серпня у Ростовській області дрони FP-1 знищили дві радіолокаційні станції та уразили інфраструктуру військового аеродрому «Міллєрово».\n\nВерифіковано ураження чотирьох цілей:\n\n• РЛС «РСП-27»\n48.953803° 40.296889°\n• РЛС «Небо-СВ»\n48.932208° 40.294460°\n• Склади БП\n48.947273° 40.291718°\n• Технічно-експлуатаційна частина\n48.951479° 40.301451°\n\n🕊Instagram 😎Facebook\n🔗LinkedIn 🧵Threads\n🔥Fire Point 👥X"
+  },
+  {
+   "url": "https://t.me/Falconins/10418",
+   "ok": true,
+   "date": "2026-08-09T21:54:32+00:00",
+   "text": "Геленджицька різанина\n\nЛокація знищеного комплексу РЕБ «Волна Купол Гарант»:\n44°34'17.73\"N 37°59'22.13\"E\n\nЛокація знищеної ПУ С-400:\n44°34'08.06\"N 37°59'46.00\"E\n\nСлід від пожежі біля позиції комплексу ППО С-400 «Тріумф»:\n44°34'06.68\"N 37°59'47.74\"E\n\nЗнищений прикордонний корабель фсб рф «Ізумруд»: \n44°33'52.63\"N 37°59'36.30\"E"
+  },
+  {
+   "url": "https://t.me/Falconins/10426",
+   "ok": true,
+   "date": "2026-08-10T14:31:21+00:00",
+   "text": "Тюменській області атаковано газофракціонуючу установку (ЦГФУ) СИБУР у Тобольську."
+  },
+  {
+   "url": "https://t.me/Falconins/10445",
+   "ok": true,
+   "date": "2026-08-10T23:27:49+00:00",
+   "text": "Воронеж."
+  },
+  {
+   "url": "https://t.me/Falconins/10493",
+   "ok": true,
+   "date": "2026-08-13T16:13:04+00:00",
+   "text": "Чишми (Chishmy) Башкортостан, рф\nлогістичний хаб Wildberries: \n\n54°39'17.22\"N 55°28'29.08\"E\n\nБудівництво здійснювалося на території агропарку «Центр Агротехнологій». На етапі початкових домовленостей цифри планової загальної площі варіювалися від 80 до 180–220 тисяч кв. м (2-3 споруди), проте фактична площа становить 123 000 м² (1 споруда). На другому зображенні (супутниковий знімок від 12.08.2026) видно цю єдину споруду, яка повноцінно використовувалась за призначенням"
+  },
+  {
+   "url": "https://t.me/Falconins/10695",
+   "ok": true,
+   "date": "2026-08-30T14:47:41+00:00",
+   "text": "Бєлґород, Бєлгородська область, рф\nПопередньо атаковано 2 склада Ozon які орендували приміщення у \"Естей Логістик\" (Esteyt Logistik):\n\n50°35'15.30\"N 36°34'26.44\"E\n\nБелгородська ТЕЦ:\n\n50°35'58.95\"N 36°37'04.80\"E\n\nРОV: 50°35'33.71\"N 36°37'08.22\"E"
+  },
+  {
+   "url": "https://t.me/Falconins/10697",
+   "ok": true,
+   "date": "2026-08-30T14:59:22+00:00",
+   "text": "Бєлґород, Бєлгородська область, рф\nПідтвердження по \"Естей Логістик\" (Esteyt Logistik)\n РОV: 50°35'13.88\"N 36°33'58.90\"E"
+  },
+  {
+   "url": "https://t.me/Falconins/10703",
+   "ok": true,
+   "date": "2026-08-31T12:39:21+00:00",
+   "text": "Цимбулова (Tsimbulova), Орловська область, рф. База запусків «Шахедів» \n\nГеолокація: 53°22'26\"N 35°48'14\"E\n\nБаза, яка має розмір 5 кв. км, на фоні якої довколишні села навіть не видно"
+  },
+  {
+   "url": "https://t.me/GeneralStaffZSU/41861",
+   "ok": true,
+   "date": "2026-08-12T16:45:20+00:00",
+   "text": "⚡️⚡️Уражено чотири військові кораблі ворога у Новоросійську\n\nУ ніч на 12 серпня 2026 року в рамках спільної операції підрозділи Сил оборони України уразили військово-морську базу у Новоросійську Краснодарського краю рф.\n\nЗа попередньою інформацією, пошкоджень різного ступеню зазнали чотири військові кораблі російського агресора: два фрегата проєкту 11356, «Адмірал Макаров» та «Адмірал Ессен», малий ракетний корабель проєкту 21631 «Буян-М» та сторожовий корабель проєкту 22160 «Василь Биков».\n\nІнформація уточнюється.\n\nСили оборони України послідовно знижують спроможність російської федерації продовжувати збройну агресію.\n\nДалі буде!"
+  },
+  {
+   "url": "https://t.me/GeneralStaffZSU/41973",
+   "ok": true,
+   "date": "2026-08-21T10:04:22+00:00",
+   "text": "⚡️⚡️ Уражено НПЗ «Лукойл-Пермнефтеоргсинтез» та аеродром «Маринівка»\n\n⚡️У ніч на 21 серпня 2026 року підрозділи Сил оборони України завдали ураження нафтопереробному заводу «Лукойл-Пермнефтеоргсинтез» у Пермі Пермського краю рф.\n\n На території підприємства зафіксовано пожежу.\n\nНПЗ розташований на відстані понад 1500 кілометрів від кордону України.\n\nℹ️ «Лукойл-Пермнефтеоргсинтез» – одне з провідних нафтопереробних підприємств рф, розташоване в Пермі. Проектна потужність заводу становить понад 13 млн тонн нафти на рік .\n\nЗавод переробляє нафту та виробляє понад 60 видів продукції.\nГлибина переробки нафти становить близько 98 відсотків — це один з найвищих показників серед усіх нафтопереробних підприємств рф.\n\nПідприємство задіяне в забезпеченні армії рф.\n\n⚡️Також уражено аеродром «Маринівка» у Волгоградській області рф.\n\nСтупінь завданих збитків уточнюється.\n\nРобота по ключових військових та воєнно-економічних цілях противника триває.\n\nДалі буде! 💥\n\nПідписатися на офіційний Telegram-канал Генерального штабу ЗСУ\n\n🇺🇦 Сайт Збройних Сил України"
+  },
+  {
+   "url": "https://t.me/GeneralStaffZSU/41981",
+   "ok": true,
+   "date": "2026-08-22T08:10:20+00:00",
+   "text": "⚡️⚡️ Уражено НПЗ «Новокуйбишевский»\n\nУ ніч на 22 серпня 2026 року підрозділи Сил оборони України уразили потужності нафтопереробного заводу «Новокуйбишевский» у Самарській області рф, з подальшою пожежею на території підприємства.\n\nСтупінь завданих збитків уточнюється.\n\nℹ️ «Новокуйбышевский» НПЗ – одне з найбільших нафтопереробних підприємств рф, що входить до складу ПАТ «НК «Роснефть». Потужність підприємства становить близько 8,8 млн тонн нафти на рік. Завод виробляє понад 20 видів продукції, зокрема автомобільне та авіаційне пальне, дизель, компоненти мастильних матеріалів.\n\nПродукція підприємства використовується для забезпечення потреб збройних сил рф.\n\nРобота по ключових об'єктах противника триває.\n\nДалі буде! 💥\n\nПідписатися на офіційний Telegram-канал Генерального штабу ЗСУ\n\n🇺🇦 Сайт Збройних Сил України"
+  },
+  {
+   "url": "https://t.me/GeneralStaffZSU/42026",
+   "ok": true,
+   "date": "2026-08-26T09:00:04+00:00",
+   "text": "⚡️⚡️ Уражено НПЗ «Лукойл-Нижегороднефтеоргсинтез»\n\nУ ніч на 26 серпня 2026 року підрозділи Сил оборони України уразили потужності нафтопереробного заводу ТОВ «Лукойл-Нижегороднефтеоргсинтез» у Кстово Нижньогородської області рф.\n\nПідтверджується ураження цілі з подальшою пожежею на території заводу.\n\nСтупінь завданих збитків уточнюється.\n\nℹ️ Довідково. ТОВ «Лукойл-Нижегороднефтеоргсинтез» – одне з найбільших нафтопереробних підприємств рф, що входить до групи «Лукойл». Потужність підприємства становить близько 17 млн тонн нафти на рік. Завод виробляє автомобільні бензини, дизельне та авіаційне паливо, мазут, бітум, сірку та іншу нафтопродукцію.\nПідприємство задіяне в забезпеченні потреб збройних сил рф.\n\nРобота по ключових об’єктах противника триває.\n\nДалі буде! 💥\n\nПідписатися на офіційний Telegram-канал Генерального штабу ЗСУ\n\n🇺🇦 Сайт Збройних Сил України"
+  },
+  {
+   "url": "https://t.me/GeneralStaffZSU/42096",
+   "ok": true,
+   "date": "2026-09-02T13:12:14+00:00",
+   "text": "⚡️⚡️ Підтверджено знищення літака МіГ-29 та вертольота Ка-27. Уражено склади боєприпасів і МТЗ противника\n\n1 вересня та в ніч на 2 вересня 2026 року підрозділи Сил оборони України уразили низку військових цілей російського агресора.\n\n⚡️Так, у Володимирівці Донецької області уражено склад боєприпасів противника.\n\n⚡️Також в Очеретиному Донецької області уражено склад матеріально-технічних засобів підрозділу окупантів.\n\n⚡️У Речиці Брянської області рф уражено район зосередження озброєння та військової техніки противника.\n\nСтупінь завданих збитків уточнюється.\n\n⚡️За результатами аналізу додаткових даних підтверджено знищення 30 серпня 2026 року вертольота Ка-27 у районі аеродрому «Єйськ» Краснодарському краї рф.\n\n⚡️Також підтверджено знищення 27 серпня 2026 року літака МіГ-29 у районі аеродрому «Міллерово» в Ростовській області рф.\n\nРобота по ключових військових цілях противника триває.\n\nДалі буде! 💥\n\nПідписатися на офіційний Telegram-канал Генерального штабу ЗСУ\n\n🇺🇦 Сайт Збройних Сил України"
+  },
+  {
+   "url": "https://t.me/SBUkr/18250",
+   "ok": true,
+   "date": "2026-08-01T11:15:02+00:00",
+   "text": "СБУ уразила три НПЗ в Башкортостані та чотири російські РЛС у Краснодарському краї\n\nСлужба безпеки України цієї ночі завдала чергових успішних ударів по паливній та військовій інфраструктурі рф. Ці спецоперації здійснюються на виконання поставлених Президентом України Володимиром Зеленським завдань щодо зниження військового потенціалу ворога.\n\nДалекобійні безпілотники СБУ уразили інфраструктуру трьох нафтопереробних заводів у місті Уфа (Республіка Башкортостан, рф), що розташовані на відстані 1600 км від державного кордону України. Йдеться про підприємства «Башнафта-УНПЗ», «Башнафта-Новойл» та «Башнафта-Уфанафтохім», які входять до структури «Башнефті» та утворюють один із найбільших нафтопереробних кластерів росії.\n\nЗагальна потужність цих підприємств становить понад 23 млн тонн нафти на рік. Уфа є одним із ключових центрів нафтопереробки рф, а місцеві НПЗ забезпечують виробництво бензину, дизельного пального, авіаційного гасу, мастильних матеріалів та іншої продукції, яка використовується, зокрема, для забезпечення потреб російської армії.\n\nОкрім цього, дрони СБУ уразили у Краснодарському краї три радіолокаційні станції «Подльот-К1» та одну РЛС «Каста-2Е2», які використовуються ворогом для виявлення повітряних цілей.\n\nНафтопереробні заводи залишаються одними з найважливіших законних військових цілей на території рф. Саме вони забезпечують російську армію пальним, а також формують значну частину доходів, за рахунок яких кремль фінансує свою агресію. СБУ й надалі системно завдаватиме ударів по таких об'єктах, позбавляючи ворога ресурсів для ведення війни."
+  },
+  {
+   "url": "https://t.me/SBUkr/18355",
+   "ok": true,
+   "date": "2026-08-12T16:45:02+00:00",
+   "text": "СБУ спільно із іншими складовими Сил оборони уразила три військові кораблі та низку об’єктів у порту «Новоросійськ»\n\nНа виконання завдання Президента України Володимира Зеленського Служба безпеки України спільно з Генеральним штабом ЗСУ, ГУР МО, ДПСУ, ВМС ЗСУ та іншими складовими Сил оборони провела масштабну спецоперацію на території військово-морської бази «Новоросійськ», а також на об’єктах портової та нафтової інфраструктури у Краснодарському краї рф.\n\nУ результаті атаки підтверджено ураження двох носіїв «Калібрів» — фрегатів «Адмирал Ессен» та «Адмирал Макаров», а також патрульного корабля «Василий Быков».\n\nТакож уражено:\n◾ РЛС 30Н6Е, яка входить до складу зенітно-ракетної системи С-300;\n◾ мобільну вогневу групу на пірсі №2 порту «Новоросійськ»;\n◾ портал тунелю нафтобази «Грушова» — терміналу «Шесхаріс»;\n◾ інфраструктуру причалів №3, №6 та №7.\n\nУкраїнські безпілотники, реактивні дрони «Паляниця», ракети «Нептун» та ударні системи з наших морських платформ влучно відпрацювали по визначених цілях. \n\nВійськово-морська база «Новоросійськ» є одним із ключових об’єктів Чорноморського флоту рф та його головним форпостом у Чорному морі. Ворог перемістив сюди значну частину своїх кораблів після успішних спецоперацій Сил оборони, коли втратив можливість безпечно базуватися в тимчасово окупованому Криму.\n\nУраження цієї бази має стратегічне значення. СБУ послідовно зменшує спроможності росії контролювати Чорне море та використовувати військовий флот для ведення війни проти України."
+  },
+  {
+   "url": "https://t.me/ares57ombr/116",
+   "ok": true,
+   "date": "2026-08-09T10:37:30+00:00",
+   "text": "🔥 ARES 57 спільно з ББпС \"Булава\" 72 ОМБр нищать ворога далеко в його тилу.\n\nОперативно виявили техніку, яка вночі обстрілювала те, що залишилося від Вовчанська.\n\n📍 Виявили.\n✈️ Прилетіли.\n💥 Знищили.\n\n🇺🇦 Працюємо далі. Ворог не сховається.\n\n#Вовчанськ #ARES #fpv #ББпС_Булава"
+  },
+  {
+   "url": "https://t.me/astrapress/121229",
+   "ok": true,
+   "date": "2026-08-05T03:59:15+00:00",
+   "text": "В Ростове-на-Дону ночью была атакована АЗС, следует из видео очевидцев (кадры геолоцированы ASTRA) \n\nПострадавших нет.\n\nUpd: по данным местных жителей и ростовских СМИ, причина пожара на заправке — не в атаке БПЛА, а в человеческом факторе. «Водитель фургона наливал в еврокуб, и бензин загорелся. Он скинул один, который взорвался и спалил заправку до тла. Затем он заехал во дворы на Космонавтов, 41/3 и попытался там потушить. Когда понял, что не справляется, то просто убежал, а во дворе сгорели 22 машины», — пишет «Ростов-Главный»."
+  },
+  {
+   "url": "https://t.me/astrapress/121623",
+   "ok": true,
+   "date": "2026-08-08T18:24:51+00:00",
+   "text": "Российский «суперРЭБ» уничтожен в Геленджике при атаке 7 августа, — Dnipro Osint \n\nВСУ уничтожили комплекс РЭБ «Волна Купол Гарант» в Геленджике 7 августа. Об этом свидетельствуют спутниковые снимки, опубликованные украинским OSINT-проектом Dnipro Osint. \n\nСистема РЭБ «Волна Купол Гарант» предназначена для подавления спутниковой связи Starlink. По утверждению советника министра обороны Украины Сергея Бескрестнова, один такой комплекс способен прикрывать около 20 кв. км. Систему производит компания из аннексированного Симферополя «Русский купол». В марте 2025 года по поручению «главы» Крыма Сергея Аксенова была создана группа инженеров, которая занялась разработкой комплекса. Спустя несколько месяцев, по данным российских СМИ, система заступила на боевое дежурство.\n\nОтмечается, что это уже третий случай уничтожения комплекса, зафиксированный в открытых источниках."
+  },
+  {
+   "url": "https://t.me/astrapress/121736",
+   "ok": true,
+   "date": "2026-08-10T10:35:17+00:00",
+   "text": "В Генштабе ВСУ заявили, что целью утренней атаки на Нижнекамск стал НПЗ «Татнефти» (АО «ТАНЕКО»)\n\nНа объекте зафиксирован пожар.\n\nASTRA предполагала, что в Нижнекамске атаке, вероятно, подверглось ПАО «Нижнекамскнефтехим». \n\nРанее пресс-служба главы Татарстана передавала, что украинские БПЛА атаковали производственные и гражданские объекты в Нижнекамске. На данный момент известно о 13 погибших и 48 пострадавших. \n\nКроме того, украинское ведомство уточнило, что в результате атаки на НПЗ «Ильский» 8 августа в Краснодарском крае РФ подтверждено повреждение колонны первичной переработки нефти АВТ-6."
+  },
+  {
+   "url": "https://t.me/astrapress/121957",
+   "ok": true,
+   "date": "2026-08-13T05:33:50+00:00",
+   "text": "Атаку БПЛА отражают в Башкортостане. Обломки одного дрона упали в промзоне Салавата, возникло возгорание, подтвердил глава Радий Хабиров"
+  },
+  {
+   "url": "https://t.me/astrapress/121966",
+   "ok": true,
+   "date": "2026-08-13T06:29:13+00:00",
+   "text": "Wildberries подтвердила атаку на логистический объект в Башкортостане\n\n«Из-за воздушной атаки в Башкирии на территорию промышленной зоны, где расположен один из объектов компании, произошло возгорание. На месте работают пожарные расчеты. На объекте была проведена заблаговременная эвакуация в соответствии с требованиями безопасности. На указанном объекте хранение товаров не осуществляется», — говорится в сообщении пресс-службы.\n\nРанее ASTRA писала об ударе по складу в Чишминском районе."
+  },
+  {
+   "url": "https://t.me/astrapress/122596",
+   "ok": true,
+   "date": "2026-08-19T13:25:30+00:00",
+   "text": "В Чебоксарах произошел пожар на подстанции у «ВНИИР-Прогресс», подтвердила ASTRA. На предприятии производятся комплектующие для дронов и антенны\n\nКак следует из OSINT-анализа ASTRA, загорелась подстанция на территории завода. \n\nМэр Чебоксар Станислав Трофимов подтвердил происшествие на электроподстанции «на проспекте Яковлева», позже он отчитался о тушении пожара. На этой улице расположен и ВНИИР «Прогресс», само предприятие Трофимов не упомянул. \n\nО звуке взрыва и последующем пожаре местные СМИ сообщили в полдень. О причинах не сообщалось. \n\nВ ночь с 9 на 10 июня по «ВНИИР-Прогресс» ударила украинская ракета «Фламинго», тогда здание было сильно повреждено, несмотря на антидроновые сетки. Пострадали три человека. Всего предприятие пережило уже несколько дроновых атак с конца 2025 года.\n\n📱 Защитить себя и своих близких от слежки в интернете, купить ASTRA VPN или подключить бесплатный Прокси: @astrvpn_bot"
+  },
+  {
+   "url": "https://t.me/astrapress/122955",
+   "ok": true,
+   "date": "2026-08-23T04:39:00+00:00",
+   "text": "Кадры очевидцев с тушением масштабного пожара на складском комплексе в Санкт-Петербурге. 📸 Прислать фото/видео/информацию: @helloastrabot 💫 Подписаться на ASTRA в Instagram, Facebook, X на русском, X на английском, WhatsApp и DeltaChat, TikTok"
+  },
+  {
+   "url": "https://t.me/astrapress/123647",
+   "ok": true,
+   "date": "2026-08-29T05:17:26+00:00",
+   "text": "В Аксае Ростовской области, вероятно, атакован склад DNS — OSINT-анализ ASTRA\n\nВо время атаки БПЛА на Ростовскую область пользователи соцсетей неоднократно сообщали о том, что загорелся склад DNS в Аксае. OSINT-аналитик ASTRA проанализировал доступные материалы и пришел к выводу, что дым действительно может подниматься над складом по адресу: Новочеркасское шоссе, 180, стр. 3.\n\nРядом со складом DNS находится склад OZON — Новочеркасское шоссе, 180Б, стр. 1. В пресс-службе OZON сообщили, что и их объект в Аксае подвергся удару БПЛА.\n\n«Сегодня ночью под удар БПЛА попал один из наших логистических объектов в Ростовской области. Мы заранее эвакуировали всех работников. По предварительной информации, пострадавших нет. Возникло небольшое возгорание, но его сразу же потушили. Мы на время остановили работу комплекса, чтобы экстренные службы осмотрели территорию и убедились, что находиться там абсолютно безопасно. Пока не принимаем здесь поставки продавцов, а те, что в пути, — перенаправляем на другие объекты», — сообщили в OZON.\n\nВ компании уточнили, что из их второго логистического центра «в районе» были эвакуированы работники, но прилета в него не было. Тем не менее и там «из соображений безопасности» работа приостановлена — поставки продавцов не принимаются.\n\nРанее OSINT-эксперт ASTRA установил адрес многоквартирного жилого дома в Аксае, где на верхнем этаже на фоне атаки БПЛА возник пожар. В Ростове-на-Дону ASTRA также установила адреса двух многоквартирных жилых домов, поврежденных во время атаки беспилотников.\n\nГубернатор Ростовской области Юрий Слюсарь сообщил, что в результате «массированно» атаки на Ростовскую область 7 человек пострадали. В Ростове-на-Дону госпитализированы 4 человека - двое взрослых и двое детей. Один ребенок в тяжелом состоянии. В Аксайском районе за медицинской помощью обратились 3 человека. \n\nСлюсарь уточнил, что в Пролетарском районе Ростова-на-Дону два многоквартирных дома получили повреждения «в результате падения обломков БПЛА». В Аксайском районе обломки БПЛА обнаружены «на территории складских помещений» и в результате падения обломков БПЛА «произошло возгорание в лесополосе». В Багаевском районе повреждены частные дома. Пострадавших нет, уточнил губернатор.\n\n📸 Прислать фото/видео/информацию: @helloastrabot\n\n💫 Для продолжения работы ASTRA важны даже самые минимальные, но регулярные донаты читателей: Patreon, Крипта, BuyMeACoffee, с российской карты"
+  },
+  {
+   "url": "https://t.me/astrapress/123681",
+   "ok": true,
+   "date": "2026-08-29T08:56:29+00:00",
+   "text": "В Аксае Ростовской области в результате атаки БПЛА поврежден жилой дом на улице Мира — OSINT-анализ ASTRA На кадрах очевидцев зафиксирован пожар на верхнем этаже многоквартирного жилого дома в городе Аксай по адресу: улица Мира, дом 7, установил OSINT-эксперт…"
+  },
+  {
+   "url": "https://t.me/atesh_ua/11087",
+   "ok": true,
+   "date": "2026-08-19T04:00:48+00:00",
+   "text": "🔥 «АТЕШ» ослабил систему управления оккупантов на Курском направлении\n\nАгенты «АТЕШ» уничтожили три вышки связи в районах населённых пунктов Дарьино, Малая Локня и Свердликово. Эти объекты поддерживали закрытые каналы передачи информации и связывали командные пункты оккупационных подразделений, действующих на данном участке.\n\nПотеря сразу нескольких элементов сети привела к сбоям в обмене оперативной обстановкой и передаче приказов. Наиболее ощутимо это отразилось на взаимодействии между 83-й отдельной гвардейской десантно-штурмовой бригадой и 1443-м мотострелковым полком: согласование действий, передача информации и реагирование на изменения обстановки были затруднены.\n\nОккупационное командование вынуждено искать временные способы восстановить управление, однако разрыв коммуникаций снижает темп действий и лишает подразделения возможности действовать согласованно.\n\nТри уничтоженные вышки — три новых разрыва в системе управления оккупантов.\n\n📩 Присоединяйся: @Svyaznoy_Atesh"
+  },
+  {
+   "url": "https://t.me/belpepel/23650",
+   "ok": true,
+   "date": "2026-08-05T07:52:01+00:00",
+   "text": "По данным «Пепла», вчера беспилотник атаковал АЗС «Татнефть» в районе села Погореловка Корочанского округа.\n\nПри ударе повреждено оборудование заправки и автомобиль.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/23715",
+   "ok": true,
+   "date": "2026-08-07T05:55:21+00:00",
+   "text": "По данным «Пепла», в Валуйках под ракетный удар попала АЗС «Газпром» на улице Максима Горького.\n\nПосле удара на месте «прилётов» горят две бензоколонки. Есть ли пострадавшие при обстреле — пока неизвестно.\n\nЕсли у вас есть подробности о последствиях на земле, фото или видео, напишите нам в бота — @pepelnewsbot.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/23772",
+   "ok": true,
+   "date": "2026-08-07T15:19:31+00:00",
+   "text": "По предварительным данным, от ударов БПЛА загорелась птицефабрика в селе Ясные Зори Белгородского округа. Если у вас есть подробности о последствиях на земле, фото или видео, напишите нам в бота — @pepelnewsbot. ▪️ Подписаться на «Пепел» ▪️ Оплатить подписки…"
+  },
+  {
+   "url": "https://t.me/belpepel/23964",
+   "ok": true,
+   "date": "2026-08-11T10:07:00+00:00",
+   "text": "ВСУ атаковали тяжёлую огнемётную систему «Солнцепёк» в Шебекинском округе.\n\nВидео сегодня опубликовал украинский телеграм-канал «Харківський напрямок».\n\nНа нём видно, как беспилотник подлетает к бронетехнике, которая разворачивается на дороге, после чего атакует её.\n\nСудя по облаку дыма в районе установки, перед ударом БПЛА «Солнцепёк» выпустил несколько снарядов прямо посреди дороги.\n\nВ описании к ролику указано, что он был снят в районе села Графовка, однако, согласно геолокации «Пепла», видео снято рядом с микрорайоном Титовка в Шебекино.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24028",
+   "ok": true,
+   "date": "2026-08-13T06:29:01+00:00",
+   "text": "По данным «Пепла», беспилотник атаковал АЗС «Роснефть» в посёлке Волоконовка. От удара загорелась одна из бензоколонок. Если у вас есть подробности произошедшего, фото или видео, напишите нам в бота — @pepelnewsbot. ▪️ Подписаться на «Пепел» ▪️ Оплатить…"
+  },
+  {
+   "url": "https://t.me/belpepel/24040",
+   "ok": true,
+   "date": "2026-08-13T11:03:01+00:00",
+   "text": "ВСУ атаковали две САУ «Мста-С» в Шебекинском округе.\n\nВидео 9 августа опубликовало украинское подразделение артиллерийской разведки ARES 57-й отдельной мотопехотной бригады ВСУ.\n\nНа нём видно, как беспилотник подлетает к одной установке, которая уже горит после атаки БПЛА, после чего долетает до второй САУ и атакует её.\n\nСогласно геолокации, видео снято в районе села Графовка Шебекинского округа.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24072",
+   "ok": true,
+   "date": "2026-08-14T10:56:48+00:00",
+   "text": "Атака дрона на АЗС «Белнефть» в посёлке Борисовка.\n\nВидео сегодня опубликовал украинский телеграм-канал «Харківський напрямок».\n\nНа нём видно, как беспилотник залетает на территорию заправки, которая обтянута антидроновой сеткой, после чего атакует газовую колонку.\n\nМесто удара подтверждает геолокация объектов на панорамах Google Maps.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24137",
+   "ok": true,
+   "date": "2026-08-17T10:29:01+00:00",
+   "text": "Атаки дронов на российских военных и антенну на вышке сотовой связи в Грайвороне.\n\nВидео вчера опубликовала 105-я отдельная бригада теробороны ВСУ. На нём видно, как один беспилотник атаковал пикап мобильной огневой группы. Второй БПЛА атаковал антенну на вышке сотовой связи.\n\nМесто атак подтверждается геолокацией (1, 2) объектов, видимых на видео и спутниковых снимках.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24238",
+   "ok": true,
+   "date": "2026-08-19T14:48:20+00:00",
+   "text": "По данным «Пепла», в Шебекино после авиаудара горит электроподстанция.\n\nНад городом виден огромный столб чёрного дыма.\n\nЕсли у вас есть подробности о последствиях на земле, фото или видео, напишите нам в бота — @pepelnewsbot.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24394",
+   "ok": true,
+   "date": "2026-08-25T05:57:19+00:00",
+   "text": "Два округа Белгородской области остались без электричества из-за атаки беспилотников на электроподстанцию в поселке Борисовка.\n\nПо данным «Пепла», электроподстанцию ночью атаковали три БПЛА. \n\nБез электроснабжения остаются жители Борисовского и частично Грайворонского округов.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24444",
+   "ok": true,
+   "date": "2026-08-26T12:50:29+00:00",
+   "text": "Авиаудар ВСУ по позициям российских военных в Краснояружском округе.\n\nВидео вчера опубликовал украинский телеграм-канал «Соняшник». \n\nВ описании к ролику указано, что пилоты поразили «позиции операторов БПЛА, которые запускали беспилотники в сторону Сум и трассы Сумы — Харьков».\n\nНа нём видно, как две авиабомбы падают на позиции ВС РФ, после чего на месте поднимается большой столб дыма.\n\nСогласно геолокации, видео снято в районе посёлка Прилесье Краснояружского округа.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24446",
+   "ok": true,
+   "date": "2026-08-26T13:09:16+00:00",
+   "text": "Беспилотники атаковали 19 населённых пунктов Белгородской области. Ранен мужчина.\n\n➜ В Шебекинском округе\n\n• В Шебекино при ударе БПЛА по территории предприятия мужчина получил проникающее ранение груди. На месте атаки повреждены стены, окна здания и оборудование. От атаки ещё одного беспилотника загорелся объект инфраструктуры — повреждены крыша и фасад.\n• В селе Нижнее Берёзово-Второе из-за атаки дрона повреждена электроподстанция — часть жителей остаётся без электричества.\n• В селе Доброе дроны атаковали грузовик и автомобиль.\n• В селе Новая Таволжанка при атаках БПЛА один частный дом сгорел, во втором — повреждён фронтон.\n\n➜ В Грайворонском округе\n\n• В селе Гора-Подол из-за атак дронов повреждены частный дом, автомобиль и электроподстанция — часть жителей остаётся без электричества.\n• В селе Смородино беспилотник атаковал частный дом — повреждены крыша, окна и забор.\n• В селе Почаево от удара БПЛА повреждены крыша хозпостройки и забор.\n• В селе Дорогощь после атаки дрона загорелся частный дом, также повреждены крыша и окна.\n\n➜ В Валуйском округе\n\n• В селе Казначеевка при взрыве дрона повреждена крыша соцобъекта.\n• В Валуйках от удара БПЛА сгорел грузовик, также повреждены автомобиль и три коммерческих объекта.\n\n➜ В Ракитянском округе\n\n• В селе Солдатское из-за атаки дрона повреждено оборудование на предприятии.\n• В селе Дмитриевка БПЛА атаковал объект инфраструктуры.\n• В посёлке Пролетарский при атаке беспилотников повреждены четыре автомобиля, два коммерческих объекта и соцобъект.\n• В селе Илёк-Кошары дрон атаковал территорию предприятия — повреждены пять автомобилей.\n\n➜ В Белгородском округе\n\n• В посёлке Октябрьский от удара БПЛА повреждены крыша и окна частного дома, а также хозпостройка\n• В селе Ясные Зори при взрыве дрона повреждены крыльцо, окна и крыша частного дома.\n• В селе Чайки на территории предприятия беспилотник атаковал грузовик.\n\n➜ В Борисовском округе\n\nВ селе Грузское от взрыва дрона осколками посекло автомобиль.\n\n➜ В Краснояружском округе\n\nВ Красной Яруге при ударе БПЛА посечены шесть автомобилей.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24506",
+   "ok": true,
+   "date": "2026-08-28T08:12:24+00:00",
+   "text": "«Не работаем». В посёлке Маслова Пристань Шебекинского округа после атаки дрона закрылась единственная АЗС.\n\n21 августа беспилотник атаковал АЗС «Роснефть» в посёлке — при ударе осколками посекло четыре автомобиля. \n\nПосле этого руководство приняло решение закрыть заправку — въезд перекрыли конусами, а на стойке висит объявление «Не работаем».\n\nТеперь местные жители не знают, где можно купить топливо, поскольку ближайшие работающие АЗС находятся в посёлке Разумное Белгородского округа.\n\n▪️ Заправку совсем закрыли. Разберитесь, пожалуйста, с данной проблемой. Всё же посёлок находится в 20 километрах от границы, без топлива никак! — пишет житель Масловой Пристани.\n\n▪️ Подписаться на «Пепел»\n▪️ Оплатить подписки на зарубежные сервисы\n▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24547",
+   "ok": true,
+   "date": "2026-08-29T12:58:36+00:00",
+   "text": "В поселке Разумное Белгородского округа дрон атаковал АЗС «Газпром». ▪️ Подписаться на «Пепел» ▪️ Оплатить подписки на зарубежные сервисы ▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/belpepel/24607",
+   "ok": true,
+   "date": "2026-08-30T14:51:29+00:00",
+   "text": "На Белгородской ТЭЦ после ракетного удара начался сильный пожар. ▪️ Подписаться на «Пепел» ▪️ Оплатить подписки на зарубежные сервисы ▪️ VPN, который обходит «белые списки»"
+  },
+  {
+   "url": "https://t.me/chernayaiskra2/558",
+   "ok": true,
+   "date": "2026-08-10T14:47:42+00:00",
+   "text": "🔥Крупнейший нефтехимический комплекс дружков Путина в огне\n\n«Черная искра» совместно с ССО Украины нанесли мощный удар по ООО «ЗапСибНефтехим» в Тобольске Тюменской области.\n\nЭто крупнейший нефтехимический комплекс России, который производит около 2,5 млн тонн полимеров в год, в том числе двойного назначения. Предприятие является жемчужиной и флагманом холдинга СИБУР, который напрямую и опосредованно принадлежит в том числе миллиардерам Тимченко и Ковальчуку. Перечисленные персонажи сделали свои состояния исключительно на дружбе с Путиным.\n\n«ЗапСибНефтехим» превратился сейчас в горящий факел.\n\nЭто горит не просто денежный поток, питающий экономику Путина, это горят деньги его пособников.\n\nТак будет с каждым приспешником преступного режима!\n\nБудь с \"Черной искрой\":\n\nTelegram\n\nНаш сайт\n\nTikTok\n\nYouTube\n\nX\n\nСтань одним из нас: blckspark@proton.me"
+  },
+  {
+   "url": "https://t.me/chernayaiskra2/607",
+   "ok": true,
+   "date": "2026-08-24T05:39:01+00:00",
+   "text": "🔥Железная дорога без локомотивов. Расширяем географию присутствия\n\nВ течение недели вывели из строя два маневровых тепловоза: на узловой станции Михнево в Московской области и станции Верхнекондинская в г. Советский Ханты-Мансийского автономного округа. Первая станция задействована для переброски промышленных грузов на пересечении Павелецкого направления и Большого кольца Московской железной дороги. Вторая станция — стратегический транспортный узел для перевалки труб, металлоконструкций, оборудования, ГСМ и многого другого для нужд крупнейших нефтегазовых компаний, работающих в ХМАО, в том числе «Газпром трансгаз Югра». Потеря маневровых тепловозов существенно осложнила сортировку грузов на обеих станциях.\n\nЖ/д станция Батайск в Ростовской области стала еще одним новым для нас полем боя. Здесь нашел свой последний приют магистральный электровоз ВЛ80. Он участвовал в переброске составов с нефтью, идущих к черноморским и азовским портам юга России.\n\nПозднее расскажем еще о паре локомотивов, не переживших летнюю жару в Татарстане и Приморском крае…\n\nБудь с \"Черной искрой\":\n\nTelegram\n\nНаш сайт\n\nTikTok\n\nYouTube\n\nX\n\nСтань одним из нас: blckspark@proton.me"
+  },
+  {
+   "url": "https://t.me/chernayaiskra2/660",
+   "ok": true,
+   "date": "2026-08-31T05:42:01+00:00",
+   "text": "🔥Татарстан и Приморье лишились по локомотиву. Общий счет потерь по всей России превышает 100 единиц\n\nПо прямой между Набережными Челнами в Татарстане и пгт Сибирцево в Приморье 5,5 тыс. км.\n\nКазалось бы, какая связь? И там, и там действуют наши люди.\n\nКак обещали ранее, рассказываем о выводе из строя еще двух железнодорожных локомотивов.\n\nВ Набережных Челнах был сожжен маневровый тепловоз ТЭМ2-690, а в пгт Сибирцево от устроенного нами же экстремального перегрева обуглился его более современный собрат ТЭМ2-6946.\n\nДля сведения: с начала года по всей России «Черная искра» уничтожила и повредила более 100 локомотивов различных марок. Из них можно было сформировать крупное эксплуатационное депо. Военно-воровская экономика Путина потеряла несколько миллиардов рублей. И это не конец.\n\nБудь с \"Черной искрой\":\n\nTelegram\n\nНаш сайт\n\nTikTok\n\nYouTube\n\nX\n\nСтань одним из нас: blckspark@proton.me"
+  },
+  {
+   "url": "https://t.me/chernayaiskra2/751",
+   "ok": true,
+   "date": "2026-10-03T05:13:02+00:00",
+   "text": "Возить ГСМ по железке становится все дороже\n \n13 августа, станция «Косулино» в пгт Верхнее Дуброво Свердловской области.\n\nСразу три цистерны с 220 тыс. л ГСМ уничтожены нашими агентами. Для понимания, этого объема хватило бы с лихвой, чтобы заполнить резервуары одной крупной АЗС.\nЦена вопроса более 30 млн руб.\n\nНикакого энергетического перемирия у нас с Путиным не будет. Уничтожали и будем уничтожать его топливную инфраструктуру пока он у власти.\n\nПриложим все силы, чтобы железнодорожные перевозки ГСМ приносили как можно больше убытков экономике Путина и его клевретам.\n\nСкоро покажем очередную серию очень эффектных подрывов цистерн в другом регионе…\n\nБудь с \"Черной искрой\":\n\nTelegram\n\nНаш сайт\n\nTikTok\n\nYouTube\n\nX\n\nСтань одним из нас: blckspark@proton.me"
+  },
+  {
+   "url": "https://t.me/dosye_shpiona/794",
+   "ok": true,
+   "date": "2026-08-27T09:43:30+00:00",
+   "text": "💥Атаки БПЛА.\n\n23.08.2026 был нанесен ряд ударов по Адлерскому району, г. Сочи.\n\nИспользовано 15 БПЛА.\nПо имеющейся информации, все были сбиты средствами ПВО.\n\nОднако, один из сбитых БПЛА упал на ЗРПК «Панцирь-С1». Трое военнослужащих 1721 зрп (в/ч 11754, Сочи) получили осколочные ранения.\n\n24.08.2026 была совершена атака по территории 91 центральной базы хранения автомобильной техники (в/ч 48670, Каменск-Шахтинский).\n\nВ результате атаки 25 БПЛА уничтожено существенное количество мотоциклов, 2 «КамАЗа», 1 «Урал», 5 «УАЗов».\n\nСтоит отметить, что это уже четвертая атака на Каменск-Шахтинский за месяц. \n\nРанее, 14.08 была совершена атака по позициям 51 дивизии ПВО, в результате чего было уничтожено две многофункциональные РЛС и два мобильных комплекса обнаружения и целеуказания из состава ЗРК С-400.\n\n16.08 и 24.08 были совершены атаки по объектам предприятия «Комбинат Каменский» - производителю твердого ракетного топлива.\n\n@dosye_shpiona"
+  },
+  {
+   "url": "https://t.me/eRadarrua/105340",
+   "ok": true,
+   "date": "2026-08-14T10:11:43+00:00",
+   "text": "📍 Благовєщенськ, Амурська область, так звана росія\n\n📅 14 серпня 2026 року\n\nЗ невідомих причин самозайнялися та згоріли до біса контейнери з пальним і мастилом на нафтосховищі суднобудівного заводу. Вогонь швидко охопив площу близько 100 квадратних метрів. До ліквідації залучили шість пожежних бригад, зокрема від МНС. Про постраждалих чи жертв місцева влада традиційно мовчить.\n\n#єСанкції\n\n@eRadarrua"
+  },
+  {
+   "url": "https://t.me/eRadarrua/105352",
+   "ok": true,
+   "date": "2026-08-14T12:36:27+00:00",
+   "text": "📍 Жигульовськ, Самарська область, так звана росія\n\n📅 14 серпня 2026 року\n\nЗ невідомих причин самозайнявся та згорів до біса магазин будматеріалів «Стройформат» разом із великим складом. Потужна пожежа охопила площу близько 500 квадратних метрів, над містом підіймається величезний стовп чорного диму. \nІнформація про масштаб руйнувань та постраждалих наразі уточнюється.\n\n#єСанкції\n\n@eRadarrua"
+  },
+  {
+   "url": "https://t.me/eRadarrua/105390",
+   "ok": true,
+   "date": "2026-08-15T08:25:03+00:00",
+   "text": "Омськ, Омська область, так звана росія\n\n15 серпня 2026 року\n\nЗ невідомих причин самозайнявся та згорів до біса китайський отруйний утеплювач на будівництві житлового комплексу «Квартали Драверта». \n\nЗагоряння сталося одразу з трьох сторін, після чого масштабне полум'я перекинулося на будівельні крани. \n\nВеличезний стовп їдкого чорного диму повністю охопив будівельний майданчик компанії-забудовника «Брусніка».\n\nВідать чівойта случілась. \n\n#єСанкції \n\n@eRadarrua"
+  },
+  {
+   "url": "https://t.me/eRadarrua/106559",
+   "ok": true,
+   "date": "2026-08-21T20:50:26+00:00",
+   "text": "Таганрог, Ростовська область, так звана росія\n21 серпня 2026 року\n\nЗ невідомих причин самозайнявся та згорів до біса складський комплекс поблизу бухти Андрєєва на вулиці Соціалістичній, 152. \n\nПотужне полум'я швидко охопило близько 350 кв.м. складу, а також перекинулося на майданчик неподалік, де вщент випалило припарковані транспортні засоби на площі до 100 кв.м.\n\nРегіональні надзвичайні служби намагаються приборкати вогонь, а про кількість знищених машин та жертв традиційно мовчать.\n\n#єСанкції \n@eRadarrua"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/25439",
+   "ok": true,
+   "date": "2026-07-16T16:18:43+00:00",
+   "text": "Супутниковий знімок підтверджує пошкодження АВТ-4 НПЗ «Газпром нафтохім Салават» станом на 14.07.2026\n\nНа супутниковому знімку видно численні пошкодження установки АВТ-4 — другої установки первинної переробки нафти потужністю 4 мільйони тонн на рік, а також сусідніх технічних естакад (позначено червоним).\nРаніше Exilenova+ вже опублікували знімки, які підтверджують пошкодження головної установки первинної переробки нафти АВТ-6 потужністю 6 мільйонів тонн нафти на рік.\nКоординати: 53.413955, 55.884765\n\nВарто нагадати, що після атаки очільник Башкортостану заявив: «Было несколько очагов воспламенения. Практически все они ликвидированы. Основные объекты не пострадали. Есть некоторые повреждения эстакад, по которым подаются ресурсы, проходят электрические кабели».\nЦе вкотре підтверджує тезу: «Якщо росіянин не бреше, варто перевірити його пульс».\n\nКрім того, помічено серйозні пошкодження даху логістично-виробничого приміщення цеху № 20, де виготовляють поліетилен високої щільності у вигляді гранул різних сортів. Це приміщення використовується як склад і водночас містить габаритні верстати для виробництва плівки та рукавів різних форматів (позначено жовтим).\nКоординати: 53.416219, 55.884378\n\nПідтримати нас."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27711",
+   "ok": true,
+   "date": "2026-08-02T00:35:36+00:00",
+   "text": "Саратов НПЗ добрий ранок."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27745",
+   "ok": true,
+   "date": "2026-08-02T01:35:38+00:00",
+   "text": "Также сообщают о взрывах на аэродроме Энгельс."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27810",
+   "ok": true,
+   "date": "2026-08-02T05:13:44+00:00",
+   "text": "Сьогодні під ударом опинився логістичний центр Wildberries у Новосемейкіно (Самарська область).\n\nБуло уражено розподільчий центр Wildberries у селищі Новосемейкіно. Логістичний комплекс площею 178 600 м² є одним із ключових хабів компанії у Поволжі.\n\nЦентр забезпечує розподіл і доставку товарів для Самарської області та сусідніх регіонів, підтримуючи роботу логістичної мережі Wildberries у центральній частині європейської Росії.\n\nПоказово, що поруч із об'єктом нанесено символіку рашизму\n\nКоординати: 53.389975, 50.332925"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27903",
+   "ok": true,
+   "date": "2026-08-03T01:16:08+00:00",
+   "text": "В Бєлгороді вибухи."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27910",
+   "ok": true,
+   "date": "2026-08-03T04:28:00+00:00",
+   "text": "Під атакою один із найбільших логістичних центрів Wildberries\n\nСьогодні, 03.08.2026, під атакою опинився логістичний центр Wildberries площею 171 900 м².\n\nЦей об'єкт є одним із найбільших логістичних хабів компанії та відіграє ключову роль у розподілі товаропотоку між Московським регіоном і центральною, північно-західною та північною частинами європейської Росії. \n\nКоординати об'єкта 56.050675, 40.125891"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28085",
+   "ok": true,
+   "date": "2026-08-04T15:01:02+00:00",
+   "text": "Щось горить на території Камського заводу масел. Пермь.\nПідприємство спеціалізується на виробництві мастильних матеріалів та іншої продукції нафтопереробної галузі."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28126",
+   "ok": true,
+   "date": "2026-08-05T02:31:33+00:00",
+   "text": "05.08.2026 під удар потрапив один із найбільших розподільчих центрів Wildberries в Олексині (Тульська область) площею 194 500 м².\n\nЛогістичний центр був відкритий у 2022 році та відігравав ключову роль у зберіганні й розподілі товарів. Хаб забезпечував покриття Тульської, Калузької, Орловської, Брянської, Курської, Липецької, Рязанської та інших прилеглих областей Центральної Росії, а також частково розвантажував логістичні центри Московського регіону.\n\nЗа наявними кадрами, пожежа охопила значну або повну частину комплексу."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28187",
+   "ok": true,
+   "date": "2026-08-05T12:48:57+00:00",
+   "text": "Повідомляють про пожежу на території «ЦНИИмаш» (Центральный научно-исследовательский институт машиностроения в Московській області."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28306",
+   "ok": true,
+   "date": "2026-08-07T04:28:40+00:00",
+   "text": "Склад WB всрф розгорається після атаки українського волелюбного птаха. 2.000+ км від домівки. Екатеринбург."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28363",
+   "ok": true,
+   "date": "2026-08-07T11:17:44+00:00",
+   "text": "Ще з Брянська. Горить в районі складських приміщень/Брянської таможні.\n\n53.2267041736, 34.40590630802"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28386",
+   "ok": true,
+   "date": "2026-08-07T23:56:38+00:00",
+   "text": "Сызрань, Самарская область, местные сообщают об атаке на Сызранский НПЗ."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28425",
+   "ok": true,
+   "date": "2026-08-08T17:59:43+00:00",
+   "text": "Геленджик, Краснодарський край, рф. Напрямок вибуху вказує на територію військової частини 2156 та прилеглий військовий полігон, де розташована прикордонна служба ФСБ рф, РЛС/ППО: 44°34'18.67\"N 37°59'21.41\"E РОV: 44°33'05.77\"N 38°02'54.56\"E"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28568",
+   "ok": true,
+   "date": "2026-08-11T05:30:52+00:00",
+   "text": "Дорозвідка OSINTом вказує на ймовірне ураження установки ЕЛОУ-АВТ на «Орськнафтооргсинтез» (Орський НПЗ)."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28684",
+   "ok": true,
+   "date": "2026-08-12T12:51:24+00:00",
+   "text": "Поки готується потужний аналіз по Новоросійську, показуємо Орськ, де було уражено всі 4 АВТ що є на заводі.\n\nОдна з найуспішніших атак на НПЗ за останній час."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28690",
+   "ok": true,
+   "date": "2026-08-12T15:21:09+00:00",
+   "text": "Новоросійськ 12.08\n\nОдна з найуспішніших атак Сил оборони України на одне з самих захищених міст росії.\n\n \nНКХП — зерновий і мазутний термінали\nБаза ВМФ РФ у Новоросійську\nНафтоекспортний термінал «Шесхаріс»\n\n1. НКХП — зерновий і мазутний термінали\n\nЗафіксовані ураження:\nНа території зернового терміналу НКХП помітні численні ураження зерносховищ та об’єктів транспортної інфраструктури, зокрема елеваторів.\n\nНКХП є одним із трьох основних зернових терміналів Новоросійська та забезпечує близько 12% російського експорту зерна.\nДва інші термінали — НЗТ (12%) і КСК (14%) — за супутниковими знімками залишилися неураженими.\nТри зернові термінали Новоросійська разом забезпечують близько 40% російського експорту зерна. Загалом через Азово-Чорноморський басейн проходить близько 80% такого експорту.\n\n2. База ВМФ РФ у Новоросійську\n\nЙмовірно уражені кораблі та судна:\n\nФрегат проєкту 11356Р «Адмірал Макаров» — ушкодження в районі пускових установок ракет «Калібр», а також задньої надбудови з радарними системами.\n\nФрегат проєкту 11356Р «Адмірал Ессен» — ушкодження в районі пускових установок «Калібр». Кожен фрегат має по 8 пускових комірок.\n\nТральщик проєкту 266М.\n\nДослідне судно проєкту 20360 ОС «Віктор Чероков».\n\nПатрульний корабель проєкту 22160 — конкретне судно не ідентифіковане.\n\nРозвідувальний корабель проєкту 864 «Приазов'є» — можливе ураження кормової частини; ступінь пошкоджень за наявними знімками визначити складно.\n\nНевстановлене суховантажне судно.\n\nБерегова інфраструктура:\nТакож зафіксовано декілька уражень наземної інфраструктури 4-ї бригади підводних човнів.\n\nОцінка:\nАтака демонструє вразливість сил Чорноморського флоту РФ у Новоросійську та можливість завдавати ударів по кораблях навіть у межах основної бази. Подальші атаки можуть поступово скорочувати кількість боєздатних кораблів флоту.\n\n3. Нафтоекспортний термінал «Шесхаріс»\n\nЗафіксовані ураження:\nУдарів зазнали головні причали терміналу, зокрема причал № 1, який використовується для обслуговування великих танкерів класів Aframax і Suezmax.\nСудна:\nПід час завантаження, ймовірно, було атаковано танкер класу Aframax.\n\nНа супутниковому знімку помітні:\nсліди горіння;\nзначна кількість пожежної піни;\nнафтові плями у воді.\n\n\n\nСо-автор - КіберБорошно (підтримка їх проекту)"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28781",
+   "ok": true,
+   "date": "2026-08-14T06:43:28+00:00",
+   "text": "Наслідки атаки на порт Усть-Луга цієї ночі. \n\nПрилітало багато. Чекаємо супутникові знімки."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28816",
+   "ok": true,
+   "date": "2026-08-14T10:23:50+00:00",
+   "text": "10 серпня далекобійні санкції України демілітаризували центральну газофракціонуючу установку №1 (ЦГФУ-1) на нафтохімічному комплексі «Тобольск-Нефтехим» / СИБУР.\n\nЦГФУ - один із ключових вузлів комплексу, через який проходить сировина для подальшого виробництва полімерів. Установка має потужність близько 3,8 млн тонн сировини на рік, що становить 51% потужності заводу.\nА сам «ЗапСибНефтехим» - найбільший у рф виробничий майданчик поліетилену: проєктна потужність становить 1,5 млн тонн на рік.\n\nСудячи з характеру пошкоджень, установка виведена з ладу на невизначений термін. Після атаки «ЗапСибНефтехим» зупинив виробництво. 🔥\n\nСерія успішних ударів по потужностям країни-терориста продовжується."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28824",
+   "ok": true,
+   "date": "2026-08-14T12:23:07+00:00",
+   "text": "Уражено комплекс «НОВАТЭК-Усть-Луга»"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28886",
+   "ok": true,
+   "date": "2026-08-15T08:12:27+00:00",
+   "text": "🔥Удар крилатими ракетами FP-5 \"Фламінго\" по РКЦ \"Прогрес\", Самара, 15.08.2026\n\nУ ніч на 15 серпня Сили оборони уразили ракетно-космічний центр «Прогрес» у Самарі - єдине в Росії підприємство серійного складання ракет-носіїв сімейства «Союз-2».\n\nВлучання, імовірно, прийшлось по корпусу 106А - 53.217623,50.303163. Він входить до виробничого масиву РН «Союз». Корпус 106А працює у високому класі чистоти: тут монтують бортову електротехніку, прилади та друковані плати - фактично «нервову систему» носія: систему управління, кабельну мережу, приладовий відсік. Без цього етапу ракета не збирається, навіть коли корпус і баки готові.\n\nПоруч також знаходиться корпус 106Б, що є корпусом кінцевого складання.\n\nТакий об'єкт відновлюється довше за звичайне виробництво. Пожежа, кіптява й вода пожежогасіння у приміщенні високого класу чистоти означають не ремонт даху, а рекваліфікацію чистих зон, ресертифікацію техпроцесу та повторний контроль запиленості - місяці, а не тижні. Додається санкційний контур: бортова електроніка «Союзів» зав'язана на імпортну та обмежену до постачання елементну базу, яку сьогодні не докупити.\n\nСтратегічна вага «Прогреса» - в його унікальності. Це єдина точка збірки всієї лінійки «Союз-2», якими Росія виводить і поповнення військового орбітального угруповання (радіотехнічна розвідка й цілевказання «Ліана», оптична розвідка «Персона»/«Раздан»), і власний «Старлінк» - супутниковий інтернет «Рассвет» від «Бюро 1440», що розгортається виключно носіями «Союз-2.1б». Дубля цьому виробництву немає.\n\nМасштаб ураження уточнюється за супутниковими знімками.\n\nПідтримати нас."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28970",
+   "ok": true,
+   "date": "2026-08-16T02:01:41+00:00",
+   "text": "Горят склад Wildberries в Коледино и мультимодальный логистический комплекс «Северное Домодедово»."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/28974",
+   "ok": true,
+   "date": "2026-08-16T02:05:01+00:00",
+   "text": "ВБ Коледино, пошла жара."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29056",
+   "ok": true,
+   "date": "2026-08-16T06:21:44+00:00",
+   "text": "⚡️Одразу два логістичні об’єкти під ударом у Московській області.\n\nУражено логістичний центр Wildberries у Коледино (55.386345, 37.584193) площею 229 500 м², найбільший хаб компанії та один із ключових вузлів її мережі.\n\nПісля попередніх уражень інших великих центрів основне логістичне навантаження було перерозподілене на Коледино, що ще більше підвищило його значення.\nПісля влучань виникла масштабна пожежа, за кадрами склад фактично знищений.\n\nТакож уражено склад площею в 51 700 м² (55.473179, 37.723962) у комплексі «Северное Домодедово», там орендували приміщення компанії «Логистическое агентство 20А» та «Алмафуд»."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29228",
+   "ok": true,
+   "date": "2026-08-19T10:02:59+00:00",
+   "text": "В Чебоксарах горить підстанція."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29290",
+   "ok": true,
+   "date": "2026-08-20T13:57:28+00:00",
+   "text": "Вночі була атака невідомих БПЛА на Ахтубінськ, Астраханська область. Наслідки уточнюються. Фіксується теплова сигнатура в районі ППО аеродрому."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29339",
+   "ok": true,
+   "date": "2026-08-21T12:21:54+00:00",
+   "text": "Пермь, очень много вопросов как…?"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29354",
+   "ok": true,
+   "date": "2026-08-22T01:05:10+00:00",
+   "text": "Новокуйбышевск, предварительно НПЗ."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29407",
+   "ok": true,
+   "date": "2026-08-22T05:49:39+00:00",
+   "text": "Заявлено як порт у Ейську після атаки БПЛА. Краснодарський Край."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29510",
+   "ok": true,
+   "date": "2026-08-23T12:02:04+00:00",
+   "text": "Під Курськом у Медвенському районі, Сили Оборони уразили Курське ЛПУМГ «Газпром трансгаз Москва, об’єкт магістральної газотранспортної системи.\n\n\n\nUPD: уражено підстанцію 330 кВ «Курська»."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29511",
+   "ok": true,
+   "date": "2026-08-23T12:21:50+00:00",
+   "text": "У підмосковному Акулово загорівся склад. \n\nДивні речі відбуваються на рф, вночі чомусь також спалахнув величезний складський комплекс під Санкт-Петербургом у районі Іжорської промислової площадки. там масштаб 82 тисяч м²."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29569",
+   "ok": true,
+   "date": "2026-08-24T02:13:05+00:00",
+   "text": "Также был атакован Ozon в Тюбе, Дагестан."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29654",
+   "ok": true,
+   "date": "2026-08-24T18:49:59+00:00",
+   "text": "⚡️ Нічна атака по логістичних об’єктах ворога 24.08.2026 \n\n1. Краснодар, Краснодарський край – складська будівля «ЦММ-К», площа ~9 000 м². Ймовірно через дію РЕБ майже повністю знищено. \n📍 45.069882, 38.920367\n\n2. Енем, Республіка Адигея – логістичний комплекс Ozon, площа ~91 200 м². За супутниковими знімками майже повністю знищено.\n📍 44.950409, 38.896699\n\n3. Адигейськ, Республіка Адигея – логістичний комплекс Ozon, площа ~108 000 м². Місцеві повідомляли про вибухи поряд, пошкоджень комплексу не зафіксовано.\n📍 44.873147, 39.176783\n\n4. Невинномиськ, Ставропольський край – логістичний комплекс Ozon, площа ~93 500 м². Зафіксовано атаку, пошкоджень не зафіксовано.\n📍 44.696610, 41.910693\n\n5. Тюбе, Республіка Дагестан – логістичний комплекс Ozon у промисловому парку «Тюбе», площа ~130 000 м². За супутниковими знімками майже повністю знищено.\n📍 43.046933, 47.270178\n\n🤍 Загалом було знищено 3 логістичні об’єкти, два з них Ozon."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29730",
+   "ok": true,
+   "date": "2026-08-25T23:10:31+00:00",
+   "text": "⚠️ СОУ повторно уразили логістичний центр Wildberries у Котовську площею близько 108 000 м². За наявними кадрами, на об’єкті спостерігається масштабна пожежа.\n\nЦей комплекс є одним із ключових логістичних об’єктів Wildberries у Центральній Росії. Він почав працювати у 2025 році, а після виходу на повну потужність мав забезпечувати зберігання до 54 млн одиниць товарів.\n\nКотовський центр уже зазнавав ураження 18 липня – тоді внаслідок пожежі загинули 7 співробітників, а сам об’єкт тимчасово призупиняв роботу. \n\nЗ урахуванням того, що станом на кінець липня компанія вже втратила понад 1 мільйон м² складів, вільних потужностей у Центральній Росії у Wildberries фізично майже не залишилося.\n\n📍52.599718, 41.454551"
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29750",
+   "ok": true,
+   "date": "2026-08-26T01:17:41+00:00",
+   "text": "Кстово, сообщают о прилете на НПЗ."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/29943",
+   "ok": true,
+   "date": "2026-08-28T04:21:25+00:00",
+   "text": "Сили Оборони влупили по Ярославському НПЗ, на території обʼєкта масштабна пожежа."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/30021",
+   "ok": true,
+   "date": "2026-08-29T02:00:17+00:00",
+   "text": "Ростов, обстановка с места."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/30056",
+   "ok": true,
+   "date": "2026-08-29T02:57:05+00:00",
+   "text": "В хуторе Ленина Ростовской области после атаки горит распределительный склад сети «Чижик»."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/30152",
+   "ok": true,
+   "date": "2026-08-31T09:09:07+00:00",
+   "text": "Протягом цієї ночі Сили оборони України уразили місця зберігання, підготовки та пуску ударних безпілотників в Орловському і Ростовському регіонах."
+  },
+  {
+   "url": "https://t.me/exilenova_plus/30180",
+   "ok": true,
+   "date": "2026-09-01T05:23:40+00:00",
+   "text": "У ніч на 30 серпня сили 1-го окремого центру СБС на аеродромі «Ейск» уразили зенітний ракетно-гарматний комплекс «Панцир-С1», РЛС «Сопка-2» (12Л6) та склад авіаційного озброєння."
+  },
+  {
+   "url": "https://t.me/in_factum/46690",
+   "ok": true,
+   "date": "2026-08-05T15:10:44+00:00",
+   "text": "Ураження невизначеним middle strike дроном російського турбореактивного пасажирського літака Як-40 на території аеропорту Бєлгород"
+  },
+  {
+   "url": "https://t.me/in_factum/46877",
+   "ok": true,
+   "date": "2026-08-13T07:18:25+00:00",
+   "text": "Нові супутникові знімки Vantor показують пошкодження військовий [і не тільки] кораблів на військово-морській базі в Новоросійську після масштабної української атаки дронами та ракетами.\n\n▪️ фрегати «Адмирал Макаров» [ушкодження в районі пускових установок ракет «Калібр», а також задньої надбудови з радарними системами] та «Адмирал Ессен» [ушкодження в районі пускових установок «Калібр». Кожен фрегат має по 8 пускових комірок] — аналіз від exilenova та КіберБорошна\n\n▪️ тральщик проєкту 266М «Аквамарин-М» [йому ніби нормально дісталося — видно два прильоти по причалу в безпосередній близькості]\n\n▪️ сторожовий корабель проєкту 22160 «Василь Биков» [прямих влучань ніби немає, але є пляма від прильоту на причалі біля корабля]\n\n▪️ танкер на нафтоперевалочному комплексі [видно слід від прильоту на палубі трохи ничже капітанського містка]\n\nОкремо показали знімок, де стоїть, імовірно, сторожовий корабель проекту 113 «Ладний» та три субмарини проєкту 636.3 «Варшавянка», але ніби як без видимих ознак пошкоджень"
+  },
+  {
+   "url": "https://t.me/informnapalm/28500",
+   "ok": true,
+   "date": "2026-08-27T11:26:24+00:00",
+   "text": "⚡️Уразили РЛС «Небо-У» у ростовській області \n\nРота дальнього ураження 429 бригади «АХІЛЛЕС» уразила РЛС «Небо-У» на аеродромі «Міллерово» у ростовській області. Орієнтовна вартість «Небо-У» – $100 млн. \n\nВстановлюємо вогневий контроль над військовим аеродромом «Міллерово» у ростовській області рф, за 170 км від лінії бойового зіткнення. Звідси противник регулярно запускає «Шахеди» та інші типи ударних та імітаційних безпілотників. Ця локація використовується для здійснення повітряного терору проти східних, центральних та північних регіонів України.\n\nХочеш дати противнику відповідь – приєднуйся до команди роти дальнього ураження 429 бригади «АХІЛЛЕС»:\n\n🧑🏻‍💻 Сайт: https://achilles.army\n📲 Маєш питання – телефонуй рекрутеру: +380 96 380 9842 (08:00–20:00)\n\n➖➖➖\nПідтримай збір • Сайт • Приєднуйся • Благодійний мерч • Instagram • Facebook • YouTube • X • WhatsApp • TikTok • Threads"
+  },
+  {
+   "url": "https://t.me/kharkivnapriamok/3906",
+   "ok": true,
+   "date": "2026-08-14T09:05:00+00:00",
+   "text": "В цю гру можна грати вдвох\n\nПеревірили якість обслуговування на АЗС в Білгородській області - в Борисівці.\n\nБіля колонки с бензином обслуговувати не захотіли, тому полетіли подивитись, шо там по газу.\n\nЗверніть увагу — вели себе чемно, цивільних не чіпали. Вся АЗС затягнута антидроновою сіткою, але не допомогло. \n\nХарківський напрямок🇺🇦\n\nПідтримайте нас підпискою @kharkivnapriamok"
+  },
+  {
+   "url": "https://t.me/kharkivnapriamok/4067",
+   "ok": true,
+   "date": "2026-08-25T09:44:27+00:00",
+   "text": "Вовчанський напрямок\n\nКіл-зона в Білгородській області, обмежені енергетичні санкції в дії.\n\nзс рф продовжує активно використовувати промислову інфраструктуру у н.п. Нова Таволжанка для власних цілей,\n\nМабуть врахувавши попередній негативний досвід, навіть намагається провести розосередження бензину по території, на накопичувати його в одному місті. Допомагає слабенько, відверто кажучи.\n\nМінус 4 промислових генератора загальною потужністю 400 кВт, а також порядка 10 т палива.\n\nБуферна зона буде збільшуватись, Білгород — не Росія.\n\nХарківський напрямок🇺🇦\n\nПідтримайте нас підпискою @kharkivnapriamok"
+  },
+  {
+   "url": "https://t.me/kharkivnapriamok/4070",
+   "ok": true,
+   "date": "2026-08-25T11:57:01+00:00",
+   "text": "Кіл-зона в Білгородській області\n\n15 бригада артилерійської розвідки “Чорний ліс” вразила транспортно-заряджаючу машину від російського комплексу С-300 поблизу н.п. Криві балки Прохорівського району (це мінімум 90 км від держкордону).\n\nХарківський напрямок🇺🇦\n\nПідтримайте нас підпискою @kharkivnapriamok"
+  },
+  {
+   "url": "https://t.me/kharkivnapriamok/4122",
+   "ok": true,
+   "date": "2026-08-29T08:48:42+00:00",
+   "text": "Великобурлуцький напрямок\n\nВорог усе ще намагається пропхати додаткову піхоту в район АРТІЛЬНОГО, але куражу в них усе менше. Але ворожі штурмовики все частіше просто відмовляються йти на забій: позначаються дике фізичне виснаження, втрачений зв'язок і те, що логістику їм повністю розвалюють наші БпЛА.\n\nДо того ж наші Сили оборони добряче ускладнюють їм життя дистанційним мінуванням. На відео – авіаційний удар по місцям накопичення особового складу та пункту управління БПЛА 2 мсб 127 мсп в районі н.п. Дубровка (Білгородська область).\n\nЗа тиждень (з 22 по 28 серпня) в районі Артільного росіяни впевнено мінуснулися: 23 окупанти вибули зі строю. З них 14 — «200-ті» і 9 — «300-ті».\n\nХарківський напрямок🇺🇦\n\nПідтримайте нас підпискою @kharkivnapriamok"
+  },
+  {
+   "url": "https://t.me/kharkivnapriamok/4130",
+   "ok": true,
+   "date": "2026-08-30T08:42:07+00:00",
+   "text": "Вовчанський напрямок\n\nКіл-зона в Білгородській області, околиці н.п. Нова Таволжанка (на карті район позначили червоним колом)\n\nМінус ворожий міномет в окопі. Питання — що він робив там? Який сенс? Це якась дискредитація, навіщо розгортати мінометну позицію біля Нової Таволжанки, якщо бої йдуть (якщо вірити російським пропагандистам) вже за Білим Колодязем. Ну а дальність стрільби міномета — не більше 10 км.\n\nЗнову по своїм стріляти будуть? Загадка....\n\nХарківський напрямок🇺🇦\n\nПідтримайте нас підпискою @kharkivnapriamok"
+  },
+  {
+   "url": "https://t.me/kiber_boroshno/13388",
+   "ok": true,
+   "date": "2026-08-04T06:57:42+00:00",
+   "text": "Вранці 3 серпня 2026 року FP-1 знищили один із найбільших логістичних хабів Wildberries у центральній Росії - розподільчий центр «Владимир - Воршинське» (56.053871,40.123739). Комплекс площею близько 176 000 м² з проєктною ємністю до 120 млн одиниць товару…"
+  },
+  {
+   "url": "https://t.me/kiber_boroshno/13396",
+   "ok": true,
+   "date": "2026-08-04T12:16:46+00:00",
+   "text": "🇺🇦 Дрони уразили місце зберігання, підготовки та пуску ударних БпЛА у селищі Навля Брянської області Пожежі на майданчику також зафіксувала онлайн мапа пожеж FIRMS Підписатись на Мілітарний"
+  },
+  {
+   "url": "https://t.me/kiber_boroshno/13399",
+   "ok": true,
+   "date": "2026-08-05T08:25:08+00:00",
+   "text": "Атака на НПЗ «Башнефть-Новойл» в Уфі 5 серпня 2026 року - понад 1300 км від державного кордону України\n\nЗа попередньою оцінкою , унаслідок атаки були уражені дві установки вторинної переробки нафти: комбінована технологічна установка «ЖЕКСА» та установка каталітичного риформінгу Л-35-11/1000. На оприлюднених кадрах у районах обох установок видно інтенсивне горіння та густий чорний дим.\n\n«ЖЕКСА» поєднує гідроочищення бензинової сировини, каталітичний риформінг і гідроочищення дизельних фракцій. Її проєктна потужність становить близько 1 млн тонн бензинової сировини та 1,95 млн тонн дизельних фракцій на рік. Установка виробляє реформат - високооктановий компонент товарного бензину - та гідроочищену дизельну фракцію.\nКоординати: 54.881103,56.085756\n\nЛ-35-11/1000 переробляє до 1 млн тонн бензинової сировини на рік і виробляє високооктанові компоненти для подальшого змішування товарних бензинів. Дизельні фракції ця установка не переробляє.\nКоординати: 54.882406,56.084204\n\nОбидві установки відіграють важливу роль у формуванні бензинового пулу НПЗ. Ураження та тривала зупинка цих об’єктів серйозно скорочують випуск високооктанових компонентів бензина, а відповідно і самого бензина.\n\nПідтримати нас."
+  },
+  {
+   "url": "https://t.me/kiber_boroshno/13400",
+   "ok": true,
+   "date": "2026-08-05T09:08:18+00:00",
+   "text": "Ураження Сизранського НПЗ 04.08.2026, за 900 км від ДКУ В результаті атаки зафіксовано влучання по установці ЛЧ-35/11-600. Це установка каталітичного риформінгу бензинових фракцій, яка виробляє важливі компоненти бензину. Без них завод або вироблятиме бензин…"
+  },
+  {
+   "url": "https://t.me/kiber_boroshno/13460",
+   "ok": true,
+   "date": "2026-08-31T09:53:25+00:00",
+   "text": "🐢Базуючись на супутникових знімках до ураження та сигнатури пожежі, імовірно, уражений ЗРГК \"Панцирь-С1\" на аеродромі Ейськ знаходився за даними координатами - 46.674536,38.166668\n\nПоруч також знаходився макет, але це не допомогло.\n\nПідтримати нас."
+  },
+  {
+   "url": "https://t.me/odi_city/32068",
+   "ok": true,
+   "date": "2026-08-23T11:44:57+00:00",
+   "text": "❗️На промзоне позади Акулово сильнейший пожар Если не грузит - дублируем в МАКС ⏺ odi_city"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2676",
+   "ok": true,
+   "date": "2026-07-30T06:51:07+00:00",
+   "text": "“Посьілка не прийдет”, ні з дроном, ні з вібратором; віднині ні в пензу ні в красну армію. Перепрошую, удмуртію.\nДикоягідний фіолетовий саван крокує болотами. \n\nсьомий, восьмий…,- поки менше ніж більше, але то поки. А пак увидиме. \n\nНе броунівський рух, задля броунівського: •Електросталь•Краснодар•Невинномисськ•Шушари/Пітер•УткинаЗаводь•Сімферополь•Рязань•Сарапул•Мастинівка•\n\nХробаки, демони-ваші, зносіть власноручно. Волелюбний Український Птах СОУ лише шлях підсвічує. \n\nМи встоїмо\nМосква ляже\nКрим відбудуємо та відгодуємо.\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n30.07.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2688",
+   "ok": true,
+   "date": "2026-08-02T06:19:03+00:00",
+   "text": "Я б “фиолетовьіє посьілки” з дронами та вібраторами на Уралі та в Сибіру не очікував. \nЗазбоїв та вийшов з чату дикоягідний самарський хаб “Новосімейкіно”, він же- основний логістичний міст між європейською частиною рф та пельменями з сибіряками. \n🌶️Десятий результативний хук, ювілейний (не враховуючи вибулий раніше дрібний Сімферопольський та декілька пошкрябаних і поки вцілілих фіолетових кущів), але точно не останній у ягідному замісі. \n\nХробаки, вас ще не тіпає від фіолетового? \nМожливо і варто одненьку ягідку швиденько перефарбувати у жовто-блакитний і йменувати “касса” великими літерами на даху, адже комфортне життя країни-агресорки- це теж супермаркет, каса котрого ще попереду. Призвичаюйтеся, якщо не рішучі демонів власних зносити. \n\nМи встоїмо\nМосква ляже\nКрим відбудуємо та відгодуємо.\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n02.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2698",
+   "ok": true,
+   "date": "2026-08-04T07:39:29+00:00",
+   "text": "Фіолетова хмаринка з попелу дикої ягідки WB дісталася Пітеру, де підворотня навчила бункерного діда бити першим.\nПротягом 18-ти діб Волелюбний Український Птах відвідав пʼятнадцять та спопілив вже тринадцять фіолетових кущів низхідного інтенданта СВО, крок за кроком змиваючи ілюзію хробачого тилу “нас не касаєтся” заразом з сакральністю пики фюрера. Зранку наступний мега-хаб, Красний Бор, вийшов з чату.\n\nКожен один зі 111 млн вибоців рф вже сьогодні боргує владі за вайлдберріз по 146$, хоча каса лише попереду і кошики ще наповнюватимуться до самого увірвання терпцю, без сумніву.\n\nХробак припинить війну тільки тоді, коли його смиренний люмпен буде негодованим та злиденнонужденним. Хоча в даному випадку манкуртів- ой не факт. \n\nДо роботи, Джентельмени!\nМи знаємо, як діяти. \n\nМи встоїмо\nМосква ляже\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n04.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2718",
+   "ok": true,
+   "date": "2026-08-09T06:04:17+00:00",
+   "text": "Дістали таки Птахи ту геленджикську пукалку зенітно-ракетного комплексу, що ще 8 серпня з 9:25 по 12:51 здійснювала пуски 6 ракет,- довго донімала.\nТри години горіла та пехкала позиція С-400 в Геленджику, на березі, безпосередньо поряд з катакомбами. Плюс інші 4 елементи хробачого ППО знищено вночі з 8 на 9 серпня, усі на території рф. Впольовано 3 судна тіньового флоту рф у Чорному морі (1 танкер та 2 суховантажі). \n\nППОпад від СБС продовжуватиметься.\n\n🔥Позиція ЗРК С-400 «Тріумф», нп Геленджик, краснодарський край, рф, 413 оп СБС «Рейд»\n🔥ЗРК «ТОР», нп Пудовий, ростовська обл., рф, 1 ОЦ СБС\n🔥ЗРГК «Панцир-С1», нп Ейськ, краснодарськи край, рф, 1 ОЦ СБС\n🔥РЛС «Подльот-К1», нп Головатівка, Ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «Каста 2Е2», нп Латоново, ростовська обл., рф 1 ОЦ СБС\n🔥1 нафтовий танкер, акваторія Чорного моря, 413 оп СБС «Рейд»\n🔥2 судна-суховантажу, акваторія Чорного моря, 413 оп СБС «Рейд», 412 ОБр СБС «Nemesis»\n\nМи встоїмо\nМосква ляже\nКрим відгодуємо та відбудуємо\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n09.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2728",
+   "ok": true,
+   "date": "2026-08-12T17:04:51+00:00",
+   "text": "Військово-морська база, войовничі плавзасоби та портова інфраструктура “Новоросійськ” поковштоловала сьогодні комплексного візиту Волелюбного Українського Птаху СОУ досхочу. Хоча і відбрикувалася, як один з найбільш захищених форпостів на болотах рф.\nДалі буде голосно. \n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n12.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2754",
+   "ok": true,
+   "date": "2026-08-22T16:16:00+00:00",
+   "text": "Операція “Кримський рубильник off”: +27⚡️енерговузлів у Криму та Півдні ТОТ результативно відпрацьовано Птахами СБС впродовж 17-22 серпня. \nВсього виведено з ладу 267 енерговузлів у період дії операції СБС (01.07-22.08).\n•Стан операції СБС “МоЛоЧКа”⚓️: блокування будь-якого пересування лоханей тіньового флоту рф у Азовському морі, Керченською протокою та обмеження руху північною та північно-східною частинами Чорного моря. Протягом серпня Птахами СБС уражено 36 одиниць плавзасобів тіньового флоту (242 одиниці у період з початку операції 06 липня по 22 серпня, а саме: 134🚢-Азовське море, 108-Чорне море).\n\nБлимало:\n🔥Електро ПС 500 кВ «Тамань», нп Старотітаровська, краснодарський край, рф, 412 ОБр СБС «Nemesis», 413 оп СБС «Рейд»\n🔥Газотурбінна електростанція, нп Кар'єрне, АР Крим, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥Газотурбінна електростанція, нп Наумівка, АР Крим, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥ПС 500 кВ «Перемога», нп Прохладне, Донецька обл., угруповання СБС «Фенікс» ДПСУ\n🔥ПС 330 кВ «Харцизька», нп Гірне, Донецька обл., 1 ОЦ СБС\n🔥ГРС «Євпаторія», нп Євпаторія, АР Крим, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥ПС 110 кВ «Таврія», нп Ключі, АР Крим, 427 ОБр СБС «Рарог»\n🔥ПС 110 кВ «Коктебель», нп Щебетовка, АР Крим, 1 ОЦ СБС\n🔥ПС 110 кВ «Малоріченське», АР Крим, 1 ОЦ СБС\n🔥ПС 110 кВ «Приморська», нп Урзуф, Донецька обл., 1 ОЦ СБС\n🔥ПС 110 кВ «Тополине», нп Тополине, Донецька обл., 1 ОЦ СБС\n🔥ПС 110 кВ «Володарська», нп Микільське, Донецька обл., 1 ОЦ СБС\n🔥ПС 110 кВ «Алупка», нп Алупка, АР Крим, 1 ОЦ СБС\n🔥ПС 110 кВ «Зоря», нп Понизівка, АР Крим, 1 ОЦ СБС\n🔥ПС 110 кВ «Гаспра», нп Гаспра, АР Крим, 1 ОЦ СБС\n🔥ПС 110 кВ «Шарха», нп Малий Маяк, АР Крим, 1 ОЦ СБС\n🔥ПС 110 кВ «Стила», нп Докучаєвськ, Донецька обл., 1 ОЦ СБС\n🔥Електропідстанція, нп Аннівка, АР Крим, 1 ОЦ СБС\n🔥ПС 150 кВ «Макорті», нп Бердянськ,1 ОЦ СБС\n🔥ГРС «Тернівка», нп Холмівка, АР Крим, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥ГРС «Володимирівка», АР Крим, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥Електропідстанція, нп Новодар’ївка, Луганська обл., 20 ОБр СБС «К-2»\n🔥Електропідстанція, нп Ровеньки, Луганська обл., 20 ОБр СБС «К-2»\n🔥ГРС нп Оленівка, АР Крим, 413 оп СБС «Рейд»\n🔥ПС 330 кВ «Західно-Кримська», нп Кар'єрне, АР Крим, 427 ОБр СБС «Рарог»\n🔥Електропідстанція, нп Більмак, Запорізька обл., 412 ОБр СБС «Nemesis»\n🔥Електропідстанція, нп Бабичеве, Луганська обл., 9 ОБр СБС\n\nМи встоїмо\nМосква ляже\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n22.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2755",
+   "ok": true,
+   "date": "2026-08-23T11:23:42+00:00",
+   "text": "Впольовано три одиниці хробачої авіації: Су-33, МіГ-29, ударно-розвідувальний Оріон, та цілий зоопарк елементів ворожого ППО: 8 комплексів РЛС, позицію дівізіону С-400 у Геленджику і 2 ЗРК/ЗРГК Тор + Панцир.\n\n11 з 14-ти цілей результативно відпрацьовано на болотах у Ростовській обл та Краснодарському краю рф, інші три- у Криму. \n\nРізнобарвʼя приблуд:\n🔥Винищувач Су-33, нп Вітязєво, краснодарський край, рф, 1 ОЦ СБС\n🔥Винищувач МіГ-29, нп Вітязєво, краснодарський край, рф, 1 ОЦ СБС\n🔥 БпЛА «Оріон», нп Вітязєво, краснодарський край, рф, 1 ОЦ СБС\n🔥ЗРК «ТОР», нп Пудовий, ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «Небо-У», нп Долотінка, ростовська обл, рф, 1 ОЦ СБС\n🔥РЛС «Небо-У», нп Севастополь, АР Крим, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥РЛС «Каста 2Е2», нп Латоново, ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «Подльот», нп Пригибський, краснодарський край, рф, 1 ОЦ СБС\n🔥РЛС 36Д6М, нп Уютне, АР Крим, 20 ОБр СБС «К-2»\n🔥РЛС «Каста 2Е2», нп Шабельскоє, краснодарський край, рф, 1 ОЦ СБС\n🔥ЗРГК «Панцирь-С1», нп Єйськ, краснодарський край, рф, 1 ОЦ СБС\n🔥Позиція ЗРК С-400 «Тріумф», нп Геленджик, краснодарський край, рф, 413 оп СБС «Рейд»\n🔥РЛС «СТ-68», нп Євпаторія, АР Крим, 1 ОЦ СБС\n🔥РЛС «Подльот», нп Головатівка, ростовська обл., рф, 1 ОЦ СБС\n\nЗ Днем Державного Прапора України!🇺🇦\nМи встоїмо\nМосква ляже\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n23.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2760",
+   "ok": true,
+   "date": "2026-08-24T11:17:37+00:00",
+   "text": "Різнобарвʼя попаленої срані хробачої Птахами СБС.\n\nСеред результативно відпрацьованих цілей комбінат ВПК “Каменский” з виробництва твердого ракетного палива, винищувач МіГ-29 на АЕ “Міллєрово”, 4 комплекси РЛС у ростовській обл і Криму, база “СОБР” на Херсонщині, нафтобаза у краснодарському Єйську, школа БПЛА “Архангел”, ретрансляторні комплекси для гераней/шахедів, тощо.\n\n🔥Літак «МіГ-29», нп Долотинка, АЕ «Міллєрово», ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «Каста 2Е2», нп Гераськін, ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «Каста 2Е2», нп Караічев, ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «Небо-СВ», нп Гуково, ростовська обл., рф, 1 ОЦ СБС\n🔥РЛС «СТ-68», нп Роздольне, АР Крим, 9 бат «Кайрос» 414 ОБр «Птахи Мадяра»\n🔥Макет гелікоптера Ка-52 «Алігатор», нп Долотинка, АЕ «Міллєрово», ростовська обл., рф, 1 ОЦ СБС\n🔥База «СОБР» фсв нг рф, нп Стрілково, Херсонська обл., 9 бат «Кайрос» 414 ОБр «Птахи Мадяра»\n🔥«Комбинат Каменский», нп Каменськ-Шахтинський, ростовська обл., рф, 1 ОЦ СБС\n🔥Ретранслятор БпЛА «Герань», нп Залізний Порт, Херсонська обл., 412 ОБр СБС «Nemesis»\n🔥Ретранслятор БпЛА «Герань», нп Залізний Порт, Херсонська обл., 427 ОБр СБС «Рарог»\n🔥Резервуар з ПММ, нп Єйськ, краснодарський край, рф, 9 бат «Кайрос» 414 ОБр СБС «Птахи Мадяра»\n🔥Склад ПММ 106 обрмтз 41 А, нп Довжанськ, Луганська обл., 20 ОБр СБС «К-2»\n🔥Укриття екіпажу БпЛА «Zala», нп Оленівка, АР Крим, 413 оп СБС «Рейд»\n🔥Школа БпЛА «Архангел», нп Кирилівка, Запорізька обл., 1 ОЦ СБС, 427 ОБр СБС «Рарог», угруповання СБС підрозділ «Фенікс» ДПСУ\n🔥Лабораторія БпЛА 89 осп 36 А, нп Новопетрівка, Донецька обл., 411 ОБр СБС «Яструби»\n\nМи встоїмо\nМосква ляже\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n24.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/robert_magyar/2777",
+   "ok": true,
+   "date": "2026-08-30T10:36:47+00:00",
+   "text": "🔥Мінус 5 елементів ППО на аеродромах АЕ Єйськ та АЕ Міллерово: Птахи СБС вночі 30.08 знищили ЗРГК “Панцир”, 4 комплекси РЛС, склад авіаційного озброєння та склад авіаційних БП. \n\nВ результаті операції 30 серпня по військових аеродромах противника Птахами 1 ОЦ СБС впольовано та знищено:\n🔥ЗРГК «Панцир-С1», Єйськ, краснодарський край, рф\n🔥РЛС «Сопка-2» (12Л6), Єйськ, краснодарський край, рф\n🔥РЛС «Каста 2Е2», нп Шабельське, краснодарський край, рф\n🔥склад авіаційного озброєння на АЕ Єйськ\n🔥РЛС «РСП-27»(ДРЛ-27), нп Долотинка, ростовська обл, рф\n🔥РЛС «Небо-СВ», нп Долотинка, ростовська обл, рф\n🔥склади БП, АЕ Міллерово, нп Долотинка, ростовська обл, рф\n🔥технічно-експлутаційна частина, АЕ Міллерово, нп Долотинка, ростовська обл, рф\n\n*центральною ціллю цієї ночі став модуль ДРЛ-27 комплексу радіолокаційної системи посадки літаків РСП-27 на аеродромі Міллерово. Знищена ДРЛ-27- це аеродромний диспетчерський радіолокатор, котрий окрім функції виявлення повітряних цілей використовується, як невідʼємний елемент управління повітряним рухом (працює у системі з посадковим локатором ПРЛ-27). \n\n*знищення вище перелічених елементів ППО противника підтверджено дорозвідкою. \n\nМи встоїмо\nМосква ляже\n\nОнлайн-табло СБС «ПІДРАХУЙКА»\nhttps://sbs-group.army/\n\nМАДЯР🇺🇦\n30.08.26 \n\n🔵МАДЯР🎞МАДЯР👥МАДЯР 👥RB📷МАДЯР 🇺🇦СБС\nонлайн«ПІДРАХУЙКА»СБС"
+  },
+  {
+   "url": "https://t.me/rospartizan/3594",
+   "ok": true,
+   "date": "2026-08-08T04:16:24+00:00",
+   "text": "🔥Брянщина иногда бывает достойна своей славы партизанского края! Вчера в Брянске был подожжен официальный дистрибьютор смазочных материалов компании «Газпромнефть-СМ», который обслуживал промышленные предприятия, в том числе сферу ВПК.\n\nПрисоединиться🔻 Поддержать Сопротивление"
+  },
+  {
+   "url": "https://t.me/soniah_hub/17886",
+   "ok": true,
+   "date": "2026-08-25T17:08:44+00:00",
+   "text": "Наші екіпажі Бешкетників на ✈️ МіГ-29МУ1 уразили позиції БпЛАшників ⚠️ противника в БНР🫡\n\nДані йоблики повірили в себе та особливо не ховались, гуляли селом, дрони свої запускали, до слова кажучи частіше в бік славетного міста Суми та південніше в бік траси. \n\nВраховуючи засоби РЕБ, закопану позицію противника відпрацювали кількісно бомбами #GBU39 🔫\n\n Соняшник 🌻 | Чат 🦅| Бот 🤖\nInstagram 📱 | TT 📱| WhatsApp📱"
+  },
+  {
+   "url": "https://t.me/soprotivleniye_lsr/572",
+   "ok": true,
+   "date": "2026-08-03T14:20:00+00:00",
+   "text": "🔥 Сопротивление сожгло трансформаторы, питающие объект ВПК в Ростовской области\n\nНЭВЗ — гигант по производству электровозов: данный завод создает более 50% всех локомотивов данного типа по всей стране. Также, именно данный объект ВПК специализируется на восстановлении, ремонте и модернизации электровозов. Любое движение грузовых составов на сегодняшний день невозможно без этих тягачей: оружие, боеприпасы, комплектующие для ремонта военной техники, а также перевозка сырья, которое питает экономику путинского режима.\n\nПодобные производства требуют огромных мощностей для работы — НЭВЗ может похвалиться наличием собственной подстанции. Особый интерес у нас вызвали силовые трансформаторы с напряжением 110 кВ: один такой мог бы запитать один из районов города. Мы решили, что заводу пора немного отдохнуть: удар пришелся сразу по 2 силовым трансформаторам стоимостью в полмиллиона долларов каждый!\n\nПока трансформаторы отдыхают, вы присоединяйтесь к сопротивлению: @lsr_official_bot\n\n▪️Стать частью Сопротивления | Подписаться на канал | Инструкции безопасности"
+  },
+  {
+   "url": "https://t.me/soprotivleniye_lsr/578",
+   "ok": true,
+   "date": "2026-08-14T09:45:23+00:00",
+   "text": "🔥 Мобилизация только пешком: мы уничтожили автозак Росгвардии в Москве!\n\nПодразделениям Росгвардии дали четкую задачу: отрабатывать все возможные сценарии принудительного «оповещения» военнообязанных россиян. На фоне катастрофического падения числа желающих идти на контракт мы уже наблюдаем, как силовики (пока что) в тестовом режиме устраивают облавы в регионах, в дальнейшем планируя расширить рейды в наибольших городах страны уже в августе! \n🪖 В новых планах Кремля — задействовать весь арсенал принуждения, чтобы набрать новое «мясо» для войны. Вертикаль уже фиксирует рост общественного недовольства в связи с затянувшейся путинской войной, поэтому готовят привычные превентивные меры: жесткие разгоны, задерживания, автозаки и отправку в учебные центры. А дальше — отработанная схема: пара недель формальной подготовки, вымогательство денег, унижения и угрозы отправки на убой.\n\n♨️ Сопротивление работает на опережение: вместе с планами рейдов по Москве, нами было выявлено дислокацию служебного транспорта силовиков в Троицком округе. Несмотря на охраняемый периметр и ограниченное время, участник Сопротивления успел ликвидировать автозак Росгвардии, который уже скоро стал бы «мобильной тюрьмой» для россиян. Минус одна спецмашина в их автопарке — плюс страх для каждого исполнителя-подстилки. \n\nТем росгвардийцам и сотрудникам силовых ведомств, которые еще не с нами: оглядываться придется все чаще. Не становитесь соучастниками путинской утилизации россиян и сами не станьте ее жертвой — присоединяйтесь к борьбе: @lsr_official_bot⁩!\n\n▪️Стать частью Сопротивления | Подписаться на канал | Инструкции безопасности"
+  },
+  {
+   "url": "https://t.me/soprotivleniye_lsr/582",
+   "ok": true,
+   "date": "2026-08-24T09:14:58+00:00",
+   "text": "🛤 Железная дорога в огне: мы атаковали грузовую логистику Транссибирской магистрали!\n\nЖелезнодорожная сеть для кремлевской вертикали — это ключевой инфраструктурный мост. Именно по нему режим пытается экстренно перебрасывать все, за счет чего еще держится на плаву: цистерны с нефтью, составы с углем, рудой, сырьевую базу и эшелоны с военными ресурсами. Южный, он же исторический ход Транссиба от Москвы и до Омска имеет стратегическое значение — здесь ежедневно проходят тысячи грузовых вагонов, подпитывающих путинскую экономику для продолжения войны. И именно здесь вливаются бюджеты в ремонты и модернизацию оборудования, локомотивов и усиление патрулей. Но защитить тысячи километров путей они не способны. \n\n🔥 Сеть Сопротивления доказала это на практике: мы нанесли комплексный, децентрализованный удар сразу в нескольких регионах страны, сосредоточив воздействие на критических узлах именно этой магистрали. Из строя выведено тепловоз ЧМЭ3, электровоз ВЛ-10У и 4 релейных шкафа в точках, где логистические маршруты создают наибольший риск задержек и простоя сотен вагонов. Для экономики РФ, критически завязанной на бесперебойном экспорте сырья и оперативной военной логистике, подобный затор — это финансовый провал и потеря контроля в снабжении.\n\n🎯 Мы продолжаем наше давление на главные опоры путинского режима — денежный ресурс и логистическую сеть железной дороги. Утрата и того, и другого нанесет непоправимый ущерб для дальнейших планов Кремля.\nВсе это — заслуга всей сети Сопротивления, где каждый вносит свой вклад в нашу победу благодаря своим сильным сторонам и навыкам. Твои умения необходимы Сопротивлению: https://bit.ly/4mdhyqP\n\n▪️Стать частью Сопротивления | Подписаться на канал | Инструкции безопасности"
+  },
+  {
+   "url": "https://t.me/ukr_sof/3189",
+   "ok": true,
+   "date": "2026-08-06T09:05:01+00:00",
+   "text": "🇺🇦Уражено Ярославський НПЗ. Входить до 5-ти найбільших у рф\n\n6 серпня підрозділи Deep Strike Сил спеціальних операцій у взаємодії з СБС, СБУ та ГУР уразили Ярославський нафтопереробний завод («Славнєфть-ЯНОС»). На підприємстві зафіксовано масштабну пожежу.\n\nЯрославський НПЗ входить до п'ятірки найбільших у рф за обсягом первинної переробки – близько 15 млн тонн нафти на рік.\n\nЗавод, зокрема, виробляє автомобільний бензин і дизельне паливо високої якості, а також авіаційний керосин і паливо для реактивних двигунів.\n\nСили спеціальних операцій продовжують реалізовувати далекобійні санкції України проти військово-економічного сектору противника.\n\nСили спеціальних операцій: Завжди за межею!\n\n🕊Instagram 😎Facebook\n📹YouTube 🧵Threads\n👥X 🔗 Вакансії в ССО"
+  }
+ ]
 }
