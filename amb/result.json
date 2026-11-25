@@ -1,1182 +1,1491 @@
 {
  "get": [
   {
-   "url": "https://t.me/exilenova_plus/24268",
+   "url": "https://t.me/exilenova_plus/26244",
    "ok": true,
-   "date": "2026-07-02T03:30:19+00:00",
-   "text": "Еще с Кстово.",
+   "date": "2026-07-22T01:24:51+00:00",
+   "text": "По предварительным данным, атакован один из крупнейших и наиболее важных логистических центров Wildberries в России, расположенный в Краснодаре.\nНа кадрах, опубликованных местными жителями, виден крупный пожар.\n45.05022490262433, 39.0286478826954 Osint",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24268_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 746801,
-     "bytes": 746801
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24423",
-   "ok": true,
-   "date": "2026-07-04T06:01:49+00:00",
-   "text": "Добрий ранок всім хто прокинувся.\n\nПісля атаки СОУ горить нафтовий термінал \"САНКТ-ПЕТЕРБУРГ\".\n\n\n*Момент прильоту та дорозвідка на відео.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24423_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1730942,
-     "bytes": 1730942
-    },
-    {
-     "file": "amb/media/exilenova_plus_24423_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2426865,
-     "bytes": 2426865
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24399",
-   "ok": true,
-   "date": "2026-07-04T03:37:15+00:00",
-   "text": "Родіна путінського страха, горить нафтовий термінал.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24399_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 3132690,
-     "bytes": 3132690
-    },
-    {
-     "file": "amb/media/exilenova_plus_24399_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2553313,
-     "bytes": 2553313
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24505",
-   "ok": true,
-   "date": "2026-07-06T01:12:35+00:00",
-   "text": "Ярославль, местные сообщают об успешной атаки НПЗ.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24505_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 39951
-    },
-    {
-     "file": "amb/media/exilenova_plus_24505_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1007042,
-     "bytes": 1007042
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24593",
-   "ok": true,
-   "date": "2026-07-06T16:37:42+00:00",
-   "text": "Ось так сьогодні горів найбільший в рф нафтопереробний завод-спонсор війни в Омську.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24593_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 8636645,
-     "bytes": 2405165
-    },
-    {
-     "file": "amb/media/exilenova_plus_24593_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 9393886,
-     "bytes": 3117527
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24587",
-   "ok": true,
-   "date": "2026-07-06T13:33:46+00:00",
-   "text": "В Омську, місті де розташований найбільший нафтопереробний завод - формуються кілометрові черги на заправки.\n\nІтогі бункерного підара, 2026.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24587_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 13115751,
-     "bytes": 3669467
-    },
-    {
-     "file": "amb/media/exilenova_plus_24587_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 13115751,
-     "bytes": 3669467
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24836",
-   "ok": true,
-   "date": "2026-07-09T01:19:51+00:00",
-   "text": "В Михайловске, Ставропольский край была атакована нефтебаза Лукойл-Югнефтепродукт.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24836_1.jpg",
-     "kind": "image",
-     "orig": [
-      621,
-      800
-     ],
-     "bytes": 21383
-    },
-    {
-     "file": "amb/media/exilenova_plus_24836_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 10145773,
-     "bytes": 1535562
-    },
-    {
-     "file": "amb/media/exilenova_plus_24836_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 3041415,
-     "bytes": 3041415
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24854",
-   "ok": true,
-   "date": "2026-07-09T01:38:25+00:00",
-   "text": "Атакованная нефтебаза ТВЕРЬНЕФТЕПРОДУКТ в городе Тверь. На кадрах, опубликованных местными жителями, виден пожар в районе одного из резервуаров. Osint",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24854_1.jpg",
+     "file": "amb/media/exilenova_plus_26244_1.jpg",
      "kind": "image",
      "orig": [
       800,
       444
      ],
-     "bytes": 115581
+     "bytes": 121566
     },
     {
-     "file": "amb/media/exilenova_plus_24854_2.jpg",
-     "kind": "image",
-     "orig": [
-      450,
-      800
-     ],
-     "bytes": 62748
-    },
-    {
-     "file": "amb/media/exilenova_plus_24854_3.jpg",
+     "file": "amb/media/exilenova_plus_26244_2.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 73038
+     "bytes": 58106
     },
     {
-     "file": "amb/media/exilenova_plus_24854_4.jpg",
-     "kind": "image",
-     "orig": [
-      510,
-      800
-     ],
-     "bytes": 123628
-    },
-    {
-     "file": "amb/media/exilenova_plus_24854_v1.mp4",
+     "file": "amb/media/exilenova_plus_26244_v1.mp4",
      "kind": "video",
-     "orig_bytes": 350544,
-     "bytes": 350544
+     "orig_bytes": 747678,
+     "bytes": 747678
     },
     {
-     "file": "amb/media/exilenova_plus_24854_v2.mp4",
+     "file": "amb/media/exilenova_plus_26244_v2.mp4",
      "kind": "video",
-     "orig_bytes": 382372,
-     "bytes": 382372
+     "orig_bytes": 1706052,
+     "bytes": 1706052
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/24891",
+   "url": "https://t.me/exilenova_plus/26253",
    "ok": true,
-   "date": "2026-07-09T15:03:13+00:00",
-   "text": "Атакованная нефтебаза ТВЕРЬНЕФТЕПРОДУКТ",
+   "date": "2026-07-22T01:30:01+00:00",
+   "text": "По предварительным данным, атакован один из крупнейших и наиболее важных логистических центров Wildberries в России, расположенный в Краснодаре. На кадрах, опубликованных местными жителями, виден крупный пожар. 45.05022490262433, 39.0286478826954 Osint",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24891_1.jpg",
+     "file": "amb/media/exilenova_plus_26253_1.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 77982
+     "bytes": 62917
     },
     {
-     "file": "amb/media/exilenova_plus_24891_2.jpg",
+     "file": "amb/media/exilenova_plus_26253_2.jpg",
      "kind": "image",
      "orig": [
-      800,
-      688
+      602,
+      800
      ],
-     "bytes": 65600
+     "bytes": 61539
     },
     {
-     "file": "amb/media/exilenova_plus_24891_3.jpg",
+     "file": "amb/media/exilenova_plus_26253_3.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 51208
+     "bytes": 51596
     },
     {
-     "file": "amb/media/exilenova_plus_24891_4.jpg",
-     "kind": "image",
-     "orig": [
-      800,
-      600
-     ],
-     "bytes": 90946
-    },
-    {
-     "file": "amb/media/exilenova_plus_24891_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1222174,
-     "bytes": 1222174
-    },
-    {
-     "file": "amb/media/exilenova_plus_24891_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 6968862,
-     "bytes": 6968862
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25095",
-   "ok": true,
-   "date": "2026-07-11T08:16:21+00:00",
-   "text": "Кадри вчорашньої атаки на Ільский НПЗ.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25095_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1331066,
-     "bytes": 1331066
-    },
-    {
-     "file": "amb/media/exilenova_plus_25095_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 529563,
-     "bytes": 529563
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25282",
-   "ok": true,
-   "date": "2026-07-14T02:31:36+00:00",
-   "text": "Салават, был атакован НПЗ Газпром Нефтехим Салават",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25282_1.jpg",
+     "file": "amb/media/exilenova_plus_26253_4.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 109148
+     "bytes": 35602
     },
     {
-     "file": "amb/media/exilenova_plus_25282_v1.mp4",
+     "file": "amb/media/exilenova_plus_26253_v1.mp4",
      "kind": "video",
-     "orig_bytes": 659454,
-     "bytes": 659454
+     "orig_bytes": 10126671,
+     "bytes": 1924351
     },
     {
-     "file": "amb/media/exilenova_plus_25282_v2.mp4",
+     "file": "amb/media/exilenova_plus_26253_v2.mp4",
      "kind": "video",
-     "orig_bytes": 312277,
-     "bytes": 312277
+     "orig_bytes": 2998401,
+     "bytes": 2998401
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/25329",
+   "url": "https://t.me/exilenova_plus/26292",
    "ok": true,
-   "date": "2026-07-14T14:07:27+00:00",
-   "text": "В м. Вольск (Саратовська область) горить одна з будівель ВВИМО - кафедра войскового тыла.\n\nВід пожежі частково обрушилась криша. 👍",
+   "date": "2026-07-22T01:50:13+00:00",
+   "text": "Краснодарский Wildberries",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_25329_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4012173,
-     "bytes": 4012173
+     "file": "amb/media/exilenova_plus_26292_1.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 68347
     },
     {
-     "file": "amb/media/exilenova_plus_25329_v2.mp4",
+     "file": "amb/media/exilenova_plus_26292_2.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 55631
+    },
+    {
+     "file": "amb/media/exilenova_plus_26292_3.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 68347
+    },
+    {
+     "file": "amb/media/exilenova_plus_26292_v1.mp4",
      "kind": "video",
-     "orig_bytes": 922548,
-     "bytes": 922548
+     "orig_bytes": 7331105,
+     "bytes": 7331105
+    },
+    {
+     "file": "amb/media/exilenova_plus_26292_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 3440565,
+     "bytes": 3440565
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/26052",
+   "url": "https://t.me/exilenova_plus/26300",
    "ok": true,
-   "date": "2026-07-20T05:43:25+00:00",
-   "text": "Подольска нафтобаза продовжує горіти. \n\nЗазвичай відновлення уражених резервуарів потребує повного демонтажу та нової герметизації. Це місяці, роки.\n\nКолись зробимо пост з підрахунком кількості уражених резервуарів загалом.",
+   "date": "2026-07-22T01:52:08+00:00",
+   "text": "Краснодарский Wildberries",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_26052_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4475845,
-     "bytes": 4475845
-    },
-    {
-     "file": "amb/media/exilenova_plus_26052_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 4475845,
-     "bytes": 4475845
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25922",
-   "ok": true,
-   "date": "2026-07-20T01:07:32+00:00",
-   "text": "⚡️ Безпілотники уразили логістичний комплекс Wildberries у Коледіно (Московська область) — один із найбільших і найстаріших розподільчих центрів компанії Координати: 55.386353° 37.586176° 🎃 Dnipro Osint | Чат",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25922_1.jpg",
+     "file": "amb/media/exilenova_plus_26300_1.jpg",
      "kind": "image",
      "orig": [
       601,
       800
      ],
-     "bytes": 75395
+     "bytes": 62251
     },
     {
-     "file": "amb/media/exilenova_plus_25922_2.jpg",
+     "file": "amb/media/exilenova_plus_26300_2.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 51915
+     "bytes": 54506
     },
     {
-     "file": "amb/media/exilenova_plus_25922_v1.mp4",
+     "file": "amb/media/exilenova_plus_26300_v1.mp4",
      "kind": "video",
-     "orig_bytes": 3687676,
-     "bytes": 3687676
+     "orig_bytes": 3324972,
+     "bytes": 3324972
     },
     {
-     "file": "amb/media/exilenova_plus_25922_v2.mp4",
+     "file": "amb/media/exilenova_plus_26300_v2.mp4",
      "kind": "video",
-     "orig_bytes": 1253501,
-     "bytes": 1253501
+     "orig_bytes": 1338372,
+     "bytes": 1338372
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/26392",
+   "url": "https://t.me/exilenova_plus/26320",
    "ok": true,
-   "date": "2026-07-22T03:24:39+00:00",
-   "text": "Армавір, момент атаки на нафтобазу.",
+   "date": "2026-07-22T02:07:40+00:00",
+   "text": "Невинномысск",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_26392_1.jpg",
-     "kind": "image",
-     "orig": [
-      389,
-      800
-     ],
-     "bytes": 68881
-    },
-    {
-     "file": "amb/media/exilenova_plus_26392_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 88501
-    },
-    {
-     "file": "amb/media/exilenova_plus_26392_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 65445
-    },
-    {
-     "file": "amb/media/exilenova_plus_26392_v1.mp4",
+     "file": "amb/media/exilenova_plus_26320_v1.mp4",
      "kind": "video",
-     "orig_bytes": 5422881,
-     "bytes": 5422881
+     "orig_bytes": 5948125,
+     "bytes": 5948125
+    },
+    {
+     "file": "amb/media/exilenova_plus_26320_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 5948125,
+     "bytes": 5948125
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/26544",
+   "url": "https://t.me/exilenova_plus/26346",
    "ok": true,
-   "date": "2026-07-23T05:42:39+00:00",
-   "text": "Новоспасское, Ульяновская область атакована база сжиженного газа ООО «НС-Ойл».",
+   "date": "2026-07-22T02:28:59+00:00",
+   "text": "Невинномысск",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_26544_v1.mp4",
+     "file": "amb/media/exilenova_plus_26346_v1.mp4",
      "kind": "video",
-     "orig_bytes": 2382511,
-     "bytes": 2382511
+     "orig_bytes": 1338675,
+     "bytes": 1338675
     },
     {
-     "file": "amb/media/exilenova_plus_26544_v2.mp4",
+     "file": "amb/media/exilenova_plus_26346_v2.mp4",
      "kind": "video",
-     "orig_bytes": 4319852,
-     "bytes": 4319852
+     "orig_bytes": 6076627,
+     "bytes": 6076627
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/26600",
+   "url": "https://t.me/exilenova_plus/26376",
    "ok": true,
-   "date": "2026-07-23T23:32:08+00:00",
-   "text": "Тверь під масованою атакою БПЛА. Попередньо ударники атакують логістичний хаб Wildberries.",
+   "date": "2026-07-22T02:55:16+00:00",
+   "text": "Невинномысск",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_26600_v1.mp4",
+     "file": "amb/media/exilenova_plus_26376_v1.mp4",
      "kind": "video",
-     "orig_bytes": 974584,
-     "bytes": 974584
+     "orig_bytes": 3894017,
+     "bytes": 3894017
     },
     {
-     "file": "amb/media/exilenova_plus_26600_v2.mp4",
+     "file": "amb/media/exilenova_plus_26376_v2.mp4",
      "kind": "video",
-     "orig_bytes": 738817,
-     "bytes": 738817
+     "orig_bytes": 3894017,
+     "bytes": 3894017
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/26603",
+   "url": "https://t.me/exilenova_plus/25497",
    "ok": true,
-   "date": "2026-07-23T23:59:15+00:00",
-   "text": "Тверь під масованою атакою БПЛА. Попередньо ударники атакують логістичний хаб Wildberries.",
+   "date": "2026-07-18T01:32:57+00:00",
+   "text": "Электросталь, московская область предварительно был атакован логистичекский хаб Вайлдберис.",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_26603_1.jpg",
-     "kind": "image",
-     "orig": [
-      599,
-      800
-     ],
-     "bytes": 67332
-    },
-    {
-     "file": "amb/media/exilenova_plus_26603_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1446042,
-     "bytes": 1446042
-    },
-    {
-     "file": "amb/media/exilenova_plus_26603_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1493164,
-     "bytes": 1493164
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/26983",
-   "ok": true,
-   "date": "2026-07-24T09:02:08+00:00",
-   "text": "Ленінградська распаковка. Любуємося з перший рядів 🙂",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_26983_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 13687846,
-     "bytes": 2538213
-    },
-    {
-     "file": "amb/media/exilenova_plus_26983_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 13687846,
-     "bytes": 2538213
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27436",
-   "ok": true,
-   "date": "2026-07-30T00:28:35+00:00",
-   "text": "Пенза, под атакой предположительно склад ВБ.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27436_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 43092
-    },
-    {
-     "file": "amb/media/exilenova_plus_27436_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 34874
-    },
-    {
-     "file": "amb/media/exilenova_plus_27436_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 40220
-    },
-    {
-     "file": "amb/media/exilenova_plus_27436_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1917446,
-     "bytes": 1917446
-    },
-    {
-     "file": "amb/media/exilenova_plus_27436_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 449479,
-     "bytes": 449479
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/27675",
-   "ok": true,
-   "date": "2026-07-31T19:48:50+00:00",
-   "text": "Ще відео з Нижньокамська. На першому відео зафіксовано момент потужного вибуху в промисловій зоні.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_27675_1.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 42840
-    },
-    {
-     "file": "amb/media/exilenova_plus_27675_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 7259986,
-     "bytes": 7259986
-    },
-    {
-     "file": "amb/media/exilenova_plus_27675_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 5002958,
-     "bytes": 5002958
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24977",
-   "ok": true,
-   "date": "2026-07-10T04:04:42+00:00",
-   "text": "Атакованная нефтебаза в Азове, Ростовская область. Osint",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24977_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 9852467,
-     "bytes": 3395961
-    },
-    {
-     "file": "amb/media/exilenova_plus_24977_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 9852467,
-     "bytes": 3395961
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24992",
-   "ok": true,
-   "date": "2026-07-10T05:21:41+00:00",
-   "text": "Одна из горящих нефтебаз в Азове.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24992_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 5397640,
-     "bytes": 5397640
-    },
-    {
-     "file": "amb/media/exilenova_plus_24992_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 5397640,
-     "bytes": 5397640
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25080",
-   "ok": true,
-   "date": "2026-07-10T19:33:07+00:00",
-   "text": "Утренние кадры с нефтебазы в Азове, Ростовская область, в HD-качестве. Как мы видим, защитные сетки не помогли.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25080_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 10545739,
-     "bytes": 3698221
-    },
-    {
-     "file": "amb/media/exilenova_plus_25080_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 4254498,
-     "bytes": 4254498
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24970",
-   "ok": true,
-   "date": "2026-07-10T03:50:37+00:00",
-   "text": "Еще кадры с Азова, Ростовская область.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24970_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 287259,
-     "bytes": 287259
-    },
-    {
-     "file": "amb/media/exilenova_plus_24970_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 287259,
-     "bytes": 287259
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24933",
-   "ok": true,
-   "date": "2026-07-10T02:58:34+00:00",
-   "text": "Местные сообщают что в Таганроге горит в районе порта, всю ночь там была атака.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24933_1.jpg",
-     "kind": "image",
-     "orig": [
-      450,
-      800
-     ],
-     "bytes": 51882
-    },
-    {
-     "file": "amb/media/exilenova_plus_24933_2.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 60251
-    },
-    {
-     "file": "amb/media/exilenova_plus_24933_3.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 119700
-    },
-    {
-     "file": "amb/media/exilenova_plus_24933_4.jpg",
-     "kind": "image",
-     "orig": [
-      600,
-      800
-     ],
-     "bytes": 54709
-    },
-    {
-     "file": "amb/media/exilenova_plus_24933_5.jpg",
+     "file": "amb/media/exilenova_plus_25497_1.jpg",
      "kind": "image",
      "orig": [
       800,
-      450
+      600
      ],
-     "bytes": 78552
+     "bytes": 50305
     },
     {
-     "file": "amb/media/exilenova_plus_24933_v1.mp4",
+     "file": "amb/media/exilenova_plus_25497_2.jpg",
+     "kind": "image",
+     "orig": [
+      360,
+      800
+     ],
+     "bytes": 52299
+    },
+    {
+     "file": "amb/media/exilenova_plus_25497_v1.mp4",
      "kind": "video",
-     "orig_bytes": 5535502,
-     "bytes": 5535502
+     "orig_bytes": 1948062,
+     "bytes": 1948062
+    },
+    {
+     "file": "amb/media/exilenova_plus_25497_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 611076,
+     "bytes": 611076
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/24941",
+   "url": "https://t.me/exilenova_plus/25501",
    "ok": true,
-   "date": "2026-07-10T03:02:28+00:00",
-   "text": "Местные сообщают что в Таганроге горит в районе порта, всю ночь там была атака.",
+   "date": "2026-07-18T01:35:00+00:00",
+   "text": "Электросталь, московская область предварительно был атакован логистичекский хаб Вайлдберис.",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24941_1.jpg",
-     "kind": "image",
-     "orig": [
-      450,
-      800
-     ],
-     "bytes": 71297
-    },
-    {
-     "file": "amb/media/exilenova_plus_24941_2.jpg",
+     "file": "amb/media/exilenova_plus_25501_1.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 69995
+     "bytes": 78674
     },
     {
-     "file": "amb/media/exilenova_plus_24941_3.jpg",
+     "file": "amb/media/exilenova_plus_25501_2.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 58705
+    },
+    {
+     "file": "amb/media/exilenova_plus_25501_3.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 86591
+    },
+    {
+     "file": "amb/media/exilenova_plus_25501_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 2123824,
+     "bytes": 2123824
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/26964",
+   "ok": true,
+   "date": "2026-07-24T06:03:01+00:00",
+   "text": "В третьем по величине складе Wildberries в Шушарах всё ещё пытаются потушить пожар.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_26964_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 1872770,
+     "bytes": 1872770
+    },
+    {
+     "file": "amb/media/exilenova_plus_26964_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 1540530,
+     "bytes": 1540530
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27386",
+   "ok": true,
+   "date": "2026-07-29T03:20:48+00:00",
+   "text": "Еще кадры с Wildberries в Рязани после атаки.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27386_1.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 47632
+    },
+    {
+     "file": "amb/media/exilenova_plus_27386_2.jpg",
+     "kind": "image",
+     "orig": [
+      601,
+      800
+     ],
+     "bytes": 63924
+    },
+    {
+     "file": "amb/media/exilenova_plus_27386_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 784854,
+     "bytes": 784854
+    },
+    {
+     "file": "amb/media/exilenova_plus_27386_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 506181,
+     "bytes": 506181
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27428",
+   "ok": true,
+   "date": "2026-07-29T11:05:57+00:00",
+   "text": "Рязань. Обстановка біля палаючого логістичного хабу Wildberries.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27428_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 4234663,
+     "bytes": 4234663
+    },
+    {
+     "file": "amb/media/exilenova_plus_27428_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 4234663,
+     "bytes": 4234663
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27409",
+   "ok": true,
+   "date": "2026-07-29T06:16:23+00:00",
+   "text": "FP-1 парою прямують до цілей в Рязані сьогодні вранці. Слідом прямує ще одна пара БПЛА.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27409_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 4838875,
+     "bytes": 4838875
+    },
+    {
+     "file": "amb/media/exilenova_plus_27409_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 6404792,
+     "bytes": 6404792
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27429",
+   "ok": true,
+   "date": "2026-07-29T12:31:08+00:00",
+   "text": "Українські БПЛА FP-1 виконують тактичні маневри над Рязанню перед успішним заходом на цілі.\n\nРанок 29.07",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27429_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 10797948,
+     "bytes": 1236872
+    },
+    {
+     "file": "amb/media/exilenova_plus_27429_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 10552927,
+     "bytes": 1921324
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27491",
+   "ok": true,
+   "date": "2026-07-30T06:23:06+00:00",
+   "text": "Сарапул, момент одного з уражень складу подвійного призначення.\n\nСьогодні по складам відпрацював Лютий, брат FP.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27491_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 1237548,
+     "bytes": 1237548
+    },
+    {
+     "file": "amb/media/exilenova_plus_27491_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 1773538,
+     "bytes": 1773538
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27496",
+   "ok": true,
+   "date": "2026-07-30T06:40:32+00:00",
+   "text": "Сарапул, ВБ. Наслідки війни, яку розв'язала російська федерація.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27496_1.jpg",
+     "kind": "image",
+     "orig": [
+      450,
+      800
+     ],
+     "bytes": 73088
+    },
+    {
+     "file": "amb/media/exilenova_plus_27496_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 4078500,
+     "bytes": 4078500
+    },
+    {
+     "file": "amb/media/exilenova_plus_27496_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 863306,
+     "bytes": 863306
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27642",
+   "ok": true,
+   "date": "2026-07-31T05:24:19+00:00",
+   "text": "Волгоград. Момент атаки БПЛА на склади ВБ вночі та наслідки.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27642_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 2946965,
+     "bytes": 2946965
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27552",
+   "ok": true,
+   "date": "2026-07-31T00:21:25+00:00",
+   "text": "Волгоград затягнуло димами , ймовірно горить логістичний хаб Wildberries.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27552_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 1025881,
+     "bytes": 1025881
+    },
+    {
+     "file": "amb/media/exilenova_plus_27552_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 1262486,
+     "bytes": 1262486
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27549",
+   "ok": true,
+   "date": "2026-07-31T00:09:39+00:00",
+   "text": "У Волгограді гарно горить.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27549_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 739903,
+     "bytes": 739903
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27513",
+   "ok": true,
+   "date": "2026-07-30T07:36:36+00:00",
+   "text": "Панорама на порт Тамань який був уражений цієї ночі. Вид з Анапи.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27513_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 5709460,
+     "bytes": 5709460
+    },
+    {
+     "file": "amb/media/exilenova_plus_27513_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 5709460,
+     "bytes": 5709460
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/26002",
+   "ok": true,
+   "date": "2026-07-20T02:36:13+00:00",
+   "text": "Момент атаки в Подольске на ВБ.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_26002_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 8400670,
+     "bytes": 1843320
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/25926",
+   "ok": true,
+   "date": "2026-07-20T01:11:05+00:00",
+   "text": "Еще видео с Коледино",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_25926_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 8288371,
+     "bytes": 8288371
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/26034",
+   "ok": true,
+   "date": "2026-07-20T04:01:51+00:00",
+   "text": "Нефтебаза в Подольске и реакция местных сразу после взрыва.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_26034_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 1626163,
+     "bytes": 1626163
+    },
+    {
+     "file": "amb/media/exilenova_plus_26034_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 2815178,
+     "bytes": 2815178
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/25997",
+   "ok": true,
+   "date": "2026-07-20T02:22:20+00:00",
+   "text": "Домодедово, индустриальный парк Южные Врата, операторы для вас не боятся залезть на крышу.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_25997_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 6688144,
+     "bytes": 6688144
+    },
+    {
+     "file": "amb/media/exilenova_plus_25997_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 6688144,
+     "bytes": 6688144
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/26041",
+   "ok": true,
+   "date": "2026-07-20T04:45:45+00:00",
+   "text": "Еще видео с атаками в Домодедово по складу.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_26041_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 11883260,
+     "bytes": 4129731
+    },
+    {
+     "file": "amb/media/exilenova_plus_26041_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 7708858,
+     "bytes": 7708858
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/26955",
+   "ok": true,
+   "date": "2026-07-24T05:46:04+00:00",
+   "text": "🦩Прилёт ракеты Фламинго по Вятскому машиностроительному предприятию “АВИТЕК”» в Кирове. Предприятие производит ЗУРы для Тор М1/М2, и катапультные кресла для авиации. 1250 км от ГГУ.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_26955_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 1696626,
+     "bytes": 1696626
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27224",
+   "ok": true,
+   "date": "2026-07-27T00:58:43+00:00",
+   "text": "Ростов , момент прильоту БПЛА.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27224_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 1424902,
+     "bytes": 1424902
+    },
+    {
+     "file": "amb/media/exilenova_plus_27224_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 1424902,
+     "bytes": 1424902
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27220",
+   "ok": true,
+   "date": "2026-07-27T00:57:32+00:00",
+   "text": "Ростов , кадри атаки.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27220_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 664279,
+     "bytes": 664279
+    },
+    {
+     "file": "amb/media/exilenova_plus_27220_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 2572335,
+     "bytes": 2572335
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27243",
+   "ok": true,
+   "date": "2026-07-27T05:49:07+00:00",
+   "text": "Сарапул, обстановка",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27243_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 3912132,
+     "bytes": 3912132
+    },
+    {
+     "file": "amb/media/exilenova_plus_27243_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 3912132,
+     "bytes": 3912132
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/25802",
+   "ok": true,
+   "date": "2026-07-19T00:05:21+00:00",
+   "text": "Еще с Михайловска.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_25802_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 418671,
+     "bytes": 418671
+    },
+    {
+     "file": "amb/media/exilenova_plus_25802_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 4933428,
+     "bytes": 4933428
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/25840",
+   "ok": true,
+   "date": "2026-07-19T01:38:27+00:00",
+   "text": "Многочисленные очаги в Михайловске после атаки.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_25840_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 5914731,
+     "bytes": 5914731
+    },
+    {
+     "file": "amb/media/exilenova_plus_25840_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 4240104,
+     "bytes": 4240104
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/exilenova_plus/27024",
+   "ok": true,
+   "date": "2026-07-24T23:09:56+00:00",
+   "text": "Энгельс. Местные жители пишут, что одно из зданий казарм просто загорелось. По их словам, никакой атаки не было.",
+   "files": [
+    {
+     "file": "amb/media/exilenova_plus_27024_1.jpg",
+     "kind": "image",
+     "orig": [
+      460,
+      800
+     ],
+     "bytes": 47573
+    },
+    {
+     "file": "amb/media/exilenova_plus_27024_2.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 40794
+    },
+    {
+     "file": "amb/media/exilenova_plus_27024_3.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 55375
+    },
+    {
+     "file": "amb/media/exilenova_plus_27024_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 356188,
+     "bytes": 356188
+    },
+    {
+     "file": "amb/media/exilenova_plus_27024_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 285370,
+     "bytes": 285370
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119511",
+   "ok": true,
+   "date": "2026-07-22T01:36:58+00:00",
+   "text": "В пригороде Краснодара начался масштабный пожар в результате украинской атаки. Очевидцы публикуют кадры из города, на которых видно несколько источников возгорания По словам подписчика ASTRA, он услышал 20-30 взрывов, а сирену включили уже после произошедшего…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119511_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 10449084,
+     "bytes": 910999
+    },
+    {
+     "file": "amb/media/astrapress_119511_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 9227155,
+     "bytes": 705348
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119525",
+   "ok": true,
+   "date": "2026-07-22T03:13:52+00:00",
+   "text": "В Краснодаре загорелся складской комплекс, повреждены многоквартирные и частные жилые дома. В Армавире возгорание на территории одного из предприятий после украинской атаки БПЛА, — местные власти Как сообщили в оперативном штабе Кубани, в результате падения…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119525_1.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      534
+     ],
+     "bytes": 47520
+    },
+    {
+     "file": "amb/media/astrapress_119525_2.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      531
+     ],
+     "bytes": 42424
+    },
+    {
+     "file": "amb/media/astrapress_119525_3.jpg",
+     "kind": "image",
+     "orig": [
+      530,
+      800
+     ],
+     "bytes": 46836
+    },
+    {
+     "file": "amb/media/astrapress_119525_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 7399851,
+     "bytes": 7399851
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119522",
+   "ok": true,
+   "date": "2026-07-22T03:01:28+00:00",
+   "text": "Очевидцы публикуют кадры с масштабным пожаром на нежилом объекте в Невинномысске Ставропольского края.\n\n📸 Прислать фото/видео/информацию: @helloastrabot\n\n💫 Подписаться на ASTRA в Instagram, Facebook, X на русском, X на английском, WhatsApp и DeltaChat, TikTok",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119522_1.jpg",
+     "kind": "image",
+     "orig": [
+      449,
+      800
+     ],
+     "bytes": 69178
+    },
+    {
+     "file": "amb/media/astrapress_119522_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 5708169,
+     "bytes": 5708169
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119535",
+   "ok": true,
+   "date": "2026-07-22T04:25:24+00:00",
+   "text": "Власти сообщили о 2 пострадавших после украинской атаки по складскому комплексу в Невинномысске Ставропольского края. В Wildberries объявили об эвакуации объекта «Вследствие атаки БПЛА на окраине Невинномысска загорелся складской комплекс. Работают пожарные…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119535_1.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      527
+     ],
+     "bytes": 114907
+    },
+    {
+     "file": "amb/media/astrapress_119535_2.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      427
+     ],
+     "bytes": 65041
+    },
+    {
+     "file": "amb/media/astrapress_119535_3.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      546
+     ],
+     "bytes": 63728
+    },
+    {
+     "file": "amb/media/astrapress_119535_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 5234716,
+     "bytes": 5234716
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119768",
+   "ok": true,
+   "date": "2026-07-24T02:24:00+00:00",
+   "text": "Момент атаки на склад Wildberries под Санкт-Петербургом попал на видео очевидцев 📸 Прислать фото/видео/информацию: @helloastrabot",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119768_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 4805517,
+     "bytes": 4805517
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119806",
+   "ok": true,
+   "date": "2026-07-24T04:21:24+00:00",
+   "text": "Момент атаки на склад Wildberries под Санкт-Петербургом попал на видео очевидцев 📸 Прислать фото/видео/информацию: @helloastrabot",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119806_1.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 68097
+    },
+    {
+     "file": "amb/media/astrapress_119806_2.jpg",
+     "kind": "image",
+     "orig": [
+      600,
+      800
+     ],
+     "bytes": 94273
+    },
+    {
+     "file": "amb/media/astrapress_119806_3.jpg",
      "kind": "image",
      "orig": [
       368,
       800
      ],
-     "bytes": 20786
+     "bytes": 42586
     },
     {
-     "file": "amb/media/exilenova_plus_24941_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 9655578,
-     "bytes": 727408
+     "file": "amb/media/astrapress_119806_4.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      599
+     ],
+     "bytes": 68351
     },
     {
-     "file": "amb/media/exilenova_plus_24941_v2.mp4",
+     "file": "amb/media/astrapress_119806_5.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      369
+     ],
+     "bytes": 44623
+    },
+    {
+     "file": "amb/media/astrapress_119806_6.jpg",
+     "kind": "image",
+     "orig": [
+      368,
+      800
+     ],
+     "bytes": 35990
+    },
+    {
+     "file": "amb/media/astrapress_119806_v1.mp4",
      "kind": "video",
-     "orig_bytes": 1594684,
-     "bytes": 1594684
+     "orig_bytes": 5938078,
+     "bytes": 5938078
+    },
+    {
+     "file": "amb/media/astrapress_119806_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 2742346,
+     "bytes": 2742346
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/24948",
+   "url": "https://t.me/astrapress/119775",
    "ok": true,
-   "date": "2026-07-10T03:04:17+00:00",
-   "text": "Таганрог, еще кадры с места.",
+   "date": "2026-07-24T03:02:46+00:00",
+   "text": "Обстановка у второго атакованного склада WB в Шушарах в Петербурге прямо сейчас Работники подтвердили ASTRA, что всех эвакуировали. О пострадавших неизвестно. 📸 Прислать фото/видео/информацию: @helloastrabot ☮ Сайт издания ASTRA на английском и русском…",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24948_1.jpg",
+     "file": "amb/media/astrapress_119775_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 469316,
+     "bytes": 469316
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/119836",
+   "ok": true,
+   "date": "2026-07-24T05:20:02+00:00",
+   "text": "OSINT-анализ ASTRA подтверждает атаку и пожар на втором атакованном за утро складе Wildberries в Петербурге в поселке Шушары Кадрами пожара на складе, атакованном 24 июля, с редакцией поделились очевидцы. Согласно нашему анализу видео, горит логистический…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_119836_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 2383296,
+     "bytes": 2383296
+    },
+    {
+     "file": "amb/media/astrapress_119836_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 981214,
+     "bytes": 981214
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/120430",
+   "ok": true,
+   "date": "2026-07-29T05:26:47+00:00",
+   "text": "Под Рязанью горит логистический центр Wildberries после украинской атаки, — OSINT-анализ ASTRA Очевидцы опубликовали кадры с густым дымом на промышленном предприятии после украинской атаки БПЛА. Изучив фото очевидцев, OSINT-аналитик ASTRA установил, что…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_120430_1.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      598
+     ],
+     "bytes": 64178
+    },
+    {
+     "file": "amb/media/astrapress_120430_2.jpg",
+     "kind": "image",
+     "orig": [
+      592,
+      800
+     ],
+     "bytes": 117822
+    },
+    {
+     "file": "amb/media/astrapress_120430_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 7777627,
+     "bytes": 7777627
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/120560",
+   "ok": true,
+   "date": "2026-07-30T06:18:49+00:00",
+   "text": "В Сарапуле в Удмуртии после атаки БПЛА горит склад Wildberries, подтверждает OSINT-анализ ASTRA Дым поднимается над логистическим комплексом Wildberries по адресу Ижевский тракт, 22 в Сарапуле Удмуртской Республики, установил по видео очевидцев OSINT-аналитик…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_120560_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 6797327,
+     "bytes": 6797327
+    },
+    {
+     "file": "amb/media/astrapress_120560_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 6797327,
+     "bytes": 6797327
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/120576",
+   "ok": true,
+   "date": "2026-07-30T07:08:52+00:00",
+   "text": "Кадры атаки беспилотника на логистический комплекс Wildberries в Сарапуле Удмуртской Республики, в результате которой возник пожар 📸 Прислать фото/видео/информацию: @helloastrabot 💫 Подписаться на ASTRA в Instagram, Facebook, X на русском, X на английском…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_120576_1.jpg",
+     "kind": "image",
+     "orig": [
+      449,
+      800
+     ],
+     "bytes": 61026
+    },
+    {
+     "file": "amb/media/astrapress_120576_2.jpg",
+     "kind": "image",
+     "orig": [
+      449,
+      800
+     ],
+     "bytes": 52520
+    },
+    {
+     "file": "amb/media/astrapress_120576_v1.mp4",
+     "kind": "video",
+     "orig_bytes": 2205018,
+     "bytes": 2205018
+    }
+   ],
+   "poster": null,
+   "big_video": false
+  },
+  {
+   "url": "https://t.me/astrapress/120666",
+   "ok": true,
+   "date": "2026-07-31T03:59:38+00:00",
+   "text": "Склад Wildberries атакован и горит в Волгограде, — OSINT-анализ ASTRA Также, вероятно, атакован и горит НПЗ «Лукойл-Волгограднефтепереработка» В ночь на 31 июля жители Волгограда и области сообщали о взрывах и пожарах. Губернатор написал о 5 пострадавших.…",
+   "files": [
+    {
+     "file": "amb/media/astrapress_120666_1.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      573
+     ],
+     "bytes": 53984
+    },
+    {
+     "file": "amb/media/astrapress_120666_2.jpg",
+     "kind": "image",
+     "orig": [
+      599,
+      800
+     ],
+     "bytes": 54200
+    },
+    {
+     "file": "amb/media/astrapress_120666_3.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 50676
+     "bytes": 50485
     },
     {
-     "file": "amb/media/exilenova_plus_24948_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 760094,
-     "bytes": 760094
+     "file": "amb/media/astrapress_120666_4.jpg",
+     "kind": "image",
+     "orig": [
+      491,
+      800
+     ],
+     "bytes": 25541
     },
     {
-     "file": "amb/media/exilenova_plus_24948_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1529233,
-     "bytes": 1529233
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/25066",
-   "ok": true,
-   "date": "2026-07-10T16:18:36+00:00",
-   "text": "А це вже Таганрог після візиту СОУ.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_25066_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 9298094,
-     "bytes": 3192391
+     "file": "amb/media/astrapress_120666_5.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      406
+     ],
+     "bytes": 49302
     },
     {
-     "file": "amb/media/exilenova_plus_25066_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 9298094,
-     "bytes": 3192391
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24688",
-   "ok": true,
-   "date": "2026-07-08T00:12:03+00:00",
-   "text": "Саратовский НПЗ после атаки.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24688_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 2282313,
-     "bytes": 2282313
-    },
-    {
-     "file": "amb/media/exilenova_plus_24688_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 2282313,
-     "bytes": 2282313
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24689",
-   "ok": true,
-   "date": "2026-07-08T00:35:46+00:00",
-   "text": "Саратов. Кадри атаки ударних БПЛА.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24689_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 4111440,
-     "bytes": 4111440
-    },
-    {
-     "file": "amb/media/exilenova_plus_24689_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 3594114,
-     "bytes": 3594114
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24693",
-   "ok": true,
-   "date": "2026-07-08T02:47:54+00:00",
-   "text": "Нижнекамск, Татарстан был атакован Нижнекамскнефтехим.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24693_1.jpg",
+     "file": "amb/media/astrapress_120666_6.jpg",
      "kind": "image",
      "orig": [
       600,
       800
      ],
-     "bytes": 155536
+     "bytes": 59680
     },
     {
-     "file": "amb/media/exilenova_plus_24693_v1.mp4",
+     "file": "amb/media/astrapress_120666_v1.mp4",
      "kind": "video",
-     "orig_bytes": 132337,
-     "bytes": 132337
+     "orig_bytes": 199074,
+     "bytes": 199074
     },
     {
-     "file": "amb/media/exilenova_plus_24693_v2.mp4",
+     "file": "amb/media/astrapress_120666_v2.mp4",
      "kind": "video",
-     "orig_bytes": 558234,
-     "bytes": 558234
+     "orig_bytes": 495462,
+     "bytes": 495462
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/24704",
+   "url": "https://t.me/astrapress/120727",
    "ok": true,
-   "date": "2026-07-08T03:02:06+00:00",
-   "text": "Утренний Нижнекамск после прилетов.",
+   "date": "2026-07-31T07:54:01+00:00",
+   "text": "Пожар на складе Wildberries в Волгограде этим утром после украинской атаки 📸 Прислать фото/видео/информацию: @helloastrabot 💫 Защитить себя и своих близких от слежки в интернете, купить ASTRA VPN или подключить бесплатный Прокси: @astrvpn_bot",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24704_v1.mp4",
+     "file": "amb/media/astrapress_120727_v1.mp4",
      "kind": "video",
-     "orig_bytes": 2641309,
-     "bytes": 2641309
+     "orig_bytes": 9152632,
+     "bytes": 957838
     },
     {
-     "file": "amb/media/exilenova_plus_24704_v2.mp4",
+     "file": "amb/media/astrapress_120727_v2.mp4",
      "kind": "video",
-     "orig_bytes": 2641309,
-     "bytes": 2641309
+     "orig_bytes": 9152632,
+     "bytes": 957838
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/24208",
+   "url": "https://t.me/astrapress/119218",
    "ok": true,
-   "date": "2026-07-01T04:06:27+00:00",
-   "text": "В Пензе сообщают о атаке и видимо прилете.",
+   "date": "2026-07-20T02:19:33+00:00",
+   "text": "Логистический центр Wildberries Коледино в Подольске атакуют дроны, сообщают местные жители На кадры попал пролет дрона над складом. 📸Прислать фото/видео/информацию: @helloastrabot",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24208_v1.mp4",
+     "file": "amb/media/astrapress_119218_v1.mp4",
      "kind": "video",
-     "orig_bytes": 12824094,
-     "bytes": 2747909
+     "orig_bytes": 1597117,
+     "bytes": 1597117
     },
     {
-     "file": "amb/media/exilenova_plus_24208_v2.mp4",
+     "file": "amb/media/astrapress_119218_v2.mp4",
      "kind": "video",
-     "orig_bytes": 12824094,
-     "bytes": 2747909
+     "orig_bytes": 1597117,
+     "bytes": 1597117
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/24213",
+   "url": "https://t.me/astrapress/119231",
    "ok": true,
-   "date": "2026-07-01T04:20:47+00:00",
-   "text": "Еще с Пензы.",
+   "date": "2026-07-20T04:24:08+00:00",
+   "text": "Склад в индустриальном комплексе «Южные Врата» горит после атаки в Домодедово Московской области, следует из OSINT-анализа кадров ASTRA от очевидцев В ночь на 20 июля жители Московской области сообщали о большом количестве взрывов и пожарах. Согласно анализу…",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_24213_v1.mp4",
+     "file": "amb/media/astrapress_119231_v1.mp4",
      "kind": "video",
-     "orig_bytes": 813292,
-     "bytes": 813292
-    },
-    {
-     "file": "amb/media/exilenova_plus_24213_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 1558606,
-     "bytes": 1558606
+     "orig_bytes": 455066,
+     "bytes": 455066
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/25280",
+   "url": "https://t.me/astrapress/119273",
    "ok": true,
-   "date": "2026-07-14T02:02:44+00:00",
-   "text": "В Геленджике сообщают о взрывах. После них начался сильный пожар.",
+   "date": "2026-07-20T07:47:21+00:00",
+   "text": "Власти Домодедово подтвердили пожары в результате атаки БПЛА в индустриальном парке «Южные ворота» и жилом доме по адресу улица Курыжова, 20, ранее установленные OSINT-анализом ASTRA «Сегодня ночью силами ПВО была отражена атака беспилотных летательных аппаратов.…",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_25280_1.jpg",
+     "file": "amb/media/astrapress_119273_1.jpg",
      "kind": "image",
      "orig": [
-      453,
+      598,
       800
      ],
-     "bytes": 14904
+     "bytes": 52989
     },
     {
-     "file": "amb/media/exilenova_plus_25280_v1.mp4",
+     "file": "amb/media/astrapress_119273_v1.mp4",
      "kind": "video",
-     "orig_bytes": 3154814,
-     "bytes": 3154814
+     "orig_bytes": 2191498,
+     "bytes": 2191498
+    },
+    {
+     "file": "amb/media/astrapress_119273_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 6164797,
+     "bytes": 6164797
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/exilenova_plus/25298",
+   "url": "https://t.me/astrapress/119856",
    "ok": true,
-   "date": "2026-07-14T04:11:50+00:00",
-   "text": "В Геленджике пожар продолжается, местные пишут что в районе аэродрома.",
+   "date": "2026-07-24T07:00:13+00:00",
+   "text": "Завод «АВИТЕК», производящий в том числе зенитные ракеты для армии РФ, атакован и горит в Кирове, — OSINT-анализ ASTRA Утром 24 июля жители Кирова сообщили о взрывах и пожаре. Согласно анализу ASTRA кадров от очевидцев, атаковано и горит АО «Вятское ма…",
    "files": [
     {
-     "file": "amb/media/exilenova_plus_25298_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 964295,
-     "bytes": 964295
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24672",
-   "ok": true,
-   "date": "2026-07-07T21:36:30+00:00",
-   "text": "Борисоглєбськ, Воронезька область. Ймовірно ударні БПЛА СОУ атакували місцевий військовий аеродром де базуються винищувачі Су-34, Су-35, Су-30СМ та інша авіаційна техніка.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24672_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 1166927,
-     "bytes": 1166927
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/exilenova_plus/24518",
-   "ok": true,
-   "date": "2026-07-06T05:07:59+00:00",
-   "text": "Также губернатор дроZденко сообщает об атаке на порт Усть-Луга и Лужского полигона.",
-   "files": [
-    {
-     "file": "amb/media/exilenova_plus_24518_1.jpg",
+     "file": "amb/media/astrapress_119856_1.jpg",
      "kind": "image",
      "orig": [
-      662,
-      231
-     ],
-     "bytes": 30991
-    },
-    {
-     "file": "amb/media/exilenova_plus_24518_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 958000,
-     "bytes": 958000
-    },
-    {
-     "file": "amb/media/exilenova_plus_24518_v2.mp4",
-     "kind": "video",
-     "orig_bytes": 543388,
-     "bytes": 543388
-    }
-   ],
-   "poster": null,
-   "big_video": false
-  },
-  {
-   "url": "https://t.me/kiber_boroshno/13319",
-   "ok": true,
-   "date": "2026-07-12T08:07:50+00:00",
-   "text": "😌Ураження Сизранського НПЗ безпілотниками FP-1 удень 12.07.2026, за 900 км від ДКУ\n\nФото- та відеоматеріали дають змогу скласти картину ураження таких ключових установок заводу (на зображенні позначено червоним):\n\nАВТ-5 — установка первинної переробки потужністю 2,6 мільйона тонн нафти на рік (30% потужностей первинної переробки).\n53.085610,48.397238\n\nАВТ-6 — установка первинної переробки потужністю 6,3 мільйона тонн нафти на рік (70% потужностей первинної переробки).\n53.085023,48.394442\n\nЛЧ-35/11-600 — установка каталітичного риформінгу бензинових фракцій, яка виробляє важливі компоненти бензину. Без них завод або вироблятиме бензин нижчої якості, або буде змушений завозити аналогічні компоненти ззовні, що вплине на ціну кінцевого продукту. Утім, оскільки уражено 100% потужностей первинної переробки, жодного продукту не буде.\n53.084569,48.390395\n\nЦікавим є те, що на відео чітко видно: ураження ЛЧ-35/11-600 було випадковим. На шляху дрона раптово опинилася труба зазначеної установки, що призвело до повітряного підриву бойової частини дрона над установкою та її ураження хмарою уламків БЧ (на зображенні позначено жовтим). Це позитивно впливає на масштаб завданих пошкоджень. На подальших відео видно, що установка загорілася.\nЯкщо підсумувати, результатом удару стало пошкодження 100% потужностей первинної переробки із сукупною продуктивністю 8,9 мільйона тонн нафти на рік. \n\nЗа обсягом уражених потужностей це, можливо, найбільший результат за останній час — навіть більший за ураження АВТ-11 на Омському НПЗ, потужність якої на момент удару оцінювали у 8,4 мільйона тонн нафти на рік.\n\nПідтримати нас.",
-   "files": [
-    {
-     "file": "amb/media/kiber_boroshno_13319_1.jpg",
-     "kind": "image",
-     "orig": [
-      676,
+      600,
       800
      ],
-     "bytes": 137374
+     "bytes": 83949
     },
     {
-     "file": "amb/media/kiber_boroshno_13319_v1.mp4",
+     "file": "amb/media/astrapress_119856_2.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      710
+     ],
+     "bytes": 109919
+    },
+    {
+     "file": "amb/media/astrapress_119856_v1.mp4",
      "kind": "video",
-     "orig_bytes": 1894608,
-     "bytes": 1894608
+     "orig_bytes": 1699612,
+     "bytes": 1699612
+    },
+    {
+     "file": "amb/media/astrapress_119856_v2.mp4",
+     "kind": "video",
+     "orig_bytes": 5287860,
+     "bytes": 5287860
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/astrapress/119063",
+   "url": "https://t.me/astrapress/120251",
    "ok": true,
-   "date": "2026-07-19T01:53:46+00:00",
-   "text": "Очевидцы публикуют кадры из Ставрополя со столбом дыма после украинской ночной атаки. 📸 Прислать фото/видео/информацию: @helloastrabot 💫 Защитить себя и своих близких от слежки в интернете, купить ASTRA VPN: @astrvpn_bot",
+   "date": "2026-07-27T06:34:29+00:00",
+   "text": "В Удмуртии, вероятно, атакован ФГКУ комбинат «Приоритет» Росрезерва, — OSINT-анализ ASTRA \n\nФГКУ комбинат «Приоритет» Росрезерва (ранее известный как «Горизонт») — это стратегический объект закрытого типа, выполняющий функции крупной нефтебазы государственного значения. Он расположен в поселке Борок Камбарского района Удмуртии и находится под военизированной охраной. Его главной функцией является долгосрочное хранение государственного материального резерва — масштабных запасов топлива, нефтепродуктов и горюче-смазочных материалов в специальных резервуарах на случай чрезвычайных ситуаций или военных нужд, из-за чего данные об объемах хранения и руководстве полностью скрыты.\n\nКроме того, «Коммерсант» пишет, что в Сарапуле из-за атаки эвакуировали персонал склада Wildberries. Как отмечается, склад не был поврежден.\n\nРанее глава региона Александр Бречалов сообщил, что силы ПВО отражают самую массированную атаку беспилотников за последнее время на объекты республики. Что именно оказалось под ударом, он не уточнил. По его словам, пострадавших нет.\n\nВидео: Supernova+\n\n📸 Прислать фото/видео/информацию: @helloastrabot\n\n💫 Для продолжения работы ASTRA важны даже самые минимальные, но регулярные донаты читателей: Patreon, Крипта, BuyMeACoffee, с российской карты",
    "files": [
     {
-     "file": "amb/media/astrapress_119063_v1.mp4",
-     "kind": "video",
-     "orig_bytes": 8881542,
-     "bytes": 640837
+     "file": "amb/media/astrapress_120251_1.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      425
+     ],
+     "bytes": 90237
     },
     {
-     "file": "amb/media/astrapress_119063_v2.mp4",
+     "file": "amb/media/astrapress_120251_2.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      354
+     ],
+     "bytes": 59986
+    },
+    {
+     "file": "amb/media/astrapress_120251_3.jpg",
+     "kind": "image",
+     "orig": [
+      800,
+      380
+     ],
+     "bytes": 74405
+    },
+    {
+     "file": "amb/media/astrapress_120251_v1.mp4",
      "kind": "video",
-     "orig_bytes": 2650641,
-     "bytes": 2650641
+     "orig_bytes": 1183215,
+     "bytes": 1183215
     }
    ],
    "poster": null,
    "big_video": false
   },
   {
-   "url": "https://t.me/astrapress/118089",
+   "url": "https://t.me/astrapress/119089",
    "ok": true,
-   "date": "2026-07-09T04:16:30+00:00",
-   "text": "Тверская нефтебаза атакована и горит в Твери, следует из OSINT-анализа ASTRA кадров от очевидцев В ночь на 9 июля жители Тверской области сообщили о взрывах. В Твери после атаки возник пожар. ASTRA проанализировала кадры очевидцев и пришла к выводу, что…",
+   "date": "2026-07-19T06:36:08+00:00",
+   "text": "Три нефтебазы могут гореть в Ставрополе и его окрестностях после украинской атаки в ночь на 19 июля, — OSINT-анализ ASTRA — Власти Ставрополья сообщили о трех очагах возгорания в двух промзонах поблизости с городом. Ранее ASTRA опубликовала видео очевидца…",
    "files": [
     {
-     "file": "amb/media/astrapress_118089_v1.mp4",
+     "file": "amb/media/astrapress_119089_v1.mp4",
      "kind": "video",
-     "orig_bytes": 430897,
-     "bytes": 430897
+     "orig_bytes": 8502283,
+     "bytes": 4790776
     },
     {
-     "file": "amb/media/astrapress_118089_v2.mp4",
+     "file": "amb/media/astrapress_119089_v2.mp4",
      "kind": "video",
-     "orig_bytes": 430897,
-     "bytes": 430897
+     "orig_bytes": 7156889,
+     "bytes": 7156889
     }
    ],
    "poster": null,
