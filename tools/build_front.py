@@ -133,6 +133,8 @@ def update():
             raw = urllib.request.urlopen(RAW % ds.replace('-', ''), timeout=60).read()
         except Exception as e:
             print('no file for', ds, e)
+            if d >= today - datetime.timedelta(days=1):
+                break  # the archive may simply be a day late: try again tomorrow, do not skip past it
             d += datetime.timedelta(days=1)
             continue
         feats = json.loads(raw)['features']

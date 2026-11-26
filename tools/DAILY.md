@@ -25,6 +25,12 @@ dates, use the newest date both show. Write `losses.json`:
 `python3 tools/update_auto.py [--losses losses.json] > /tmp/auto_out.json` — one call does all three. It refuses (auto.json untouched, exit 2 only if
 nothing else changed) when a sanity check fails; the refusal text goes into the report.
 
+### 2b. Front line for the CARGO200 map
+`python3 tools/build_front.py --update` — adds the missing days (up to today, UTC) to `cargo200/front/` from the DeepState archive on GitHub
+(`cyterat/deepstate-map-data`, one file per day). It prints `added N`; `no file for <date>` for today or yesterday is normal (the archive is a day late; the next run
+fills it in). Put that one line in `notes.md` for the report ("Front line (CARGO200 map): added N days, latest <date>"). If it fails, do not retry more than once and
+report the error; the rest of the daily run is unaffected. Commit `cargo200/front` together with the other files (step 5).
+
 ## 3. Mediazona (CARGO200: confirmed named deaths)
 Mediazona refreshes its named list about every two weeks. `WebFetch https://en.zona.media/article/2026/10/09/casualties_eng-trl`
 (also `WebSearch` for a newer en.zona.media article titled "Russian losses in the war with Ukraine"). Read: "Last update to the named list: <date>".
@@ -50,7 +56,7 @@ they need insignia, a unique name for text matching and a deploy). Optional: `ht
 ## 5. Report + commit
 `python3 tools/make_report.py --date <UTC date> --auto-out /tmp/auto_out.json --cargo-out /tmp/cargo_out.json --ml-out /tmp/ml_out.json [--notes notes.md]`
 (leave out inputs of steps that did not run). Then
-`git add auto.json state reports && git commit -m "Daily auto update <date>: <one-line summary>" && git pull --rebase && git push`.
+`git add auto.json state reports cargo200/front && git commit -m "Daily auto update <date>: <one-line summary>" && git pull --rebase && git push`.
 The final answer of the task is the report text itself (Turkish).
 
 ## Repo size note
