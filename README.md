@@ -17,3 +17,11 @@ The site reads both files from `https://raw.githubusercontent.com/holamaamor/fro
 
 Sources: DeepStateMap.live (via cyterat/deepstate-map-data, GPL-3.0), schematic 2022–2024 front frames (longlinecode/russo-ukrainian-front-daily), Ukraine Control Map (owlmaps/map-data),
 Ukrainian General Staff daily briefing (loss counters), Mediazona / BBC Russian named list (CARGO200), Militaryland.net (new unit pages). See `tools/DAILY.md` for the daily procedure.
+
+## media/tg — Telegram inbox videos
+
+Videos the site editor takes from its Telegram inbox. Up to 20 MB the editor uploads them itself (GitHub API, the PUBLISH token).
+Over 20 MB the editor starts the workflow `.github/workflows/tg-video.yml`, which logs the bot in over MTProto
+(`tools/tg_video.py`, Telethon), downloads the forwarded message's video, re-encodes it to at most 720p and commits it here.
+Needs three repository secrets: `TG_API_ID`, `TG_API_HASH` (my.telegram.org → API development tools) and `TG_BOT_TOKEN` (the inbox bot),
+and the PUBLISH token needs "Actions: Read and write". Do not delete or rename these files: events link to them by raw URL.

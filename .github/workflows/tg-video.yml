@@ -1,0 +1,56 @@
+name: Telegram video over 20 MB
+# Started by the site editor (Telegram inbox) through the GitHub API. Copies the video of a message
+# the owner forwarded to the bot into media/tg/ (see tools/tg_video.py).
+on:
+  workflow_dispatch:
+    inputs:
+      message_id:
+        description: message id in the bot's private chat
+        required: true
+      out:
+        description: output path, media/tg/<name>.mp4
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: tg-video
+  cancel-in-progress: false
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            tools
+            media/tg
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install
+        run: |
+          pip install telethon==1.36.0 cryptg==0.5.0.post0 || pip install telethon==1.36.0
+          command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+      - name: Download and re-encode
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          MSG_ID: ${{ inputs.message_id }}
+          OUT: ${{ inputs.out }}
+        run: python3 tools/tg_video.py
+      - name: Commit
+        env:
+          OUT: ${{ inputs.out }}
+        run: |
+          git config user.name "frontlines-bot"
+          git config user.email "frontlines-bot@users.noreply.github.com"
+          git add -- "$OUT"
+          git commit -m "Telegram video over 20 MB: $OUT"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
